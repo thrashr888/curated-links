@@ -11,5 +11,5 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python3 scripts/build_feed.py && python3 scripts/build_links.py
-      - run: git diff --exit-code -- feed links
+      - run: python3 scripts/build_feed.py && python3 scripts/build_sources.py
+      - run: git diff --exit-code -- feed sources

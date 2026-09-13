@@ -7,10 +7,14 @@ collected over months and published three ways from one catalog:
 | --- | --- | --- |
 | The catalog | [`catalog/links.csv`](catalog/links.csv) | the source of truth: one row per link |
 | A JSON Feed | [`feed/feed.json`](feed/feed.json) | feed readers; newest first |
-| Monthly digests | [`links/`](links/) | reading, and apps that ingest a folder |
+| An OKF bundle | [`sources/`](sources/) | Alchemy, or any reader of the [Open Knowledge Format](https://github.com/inkeep/open-knowledge) |
 
-Alchemy reads the digests as a git source (`links/` on `main`) and the
-feed as a feed source, so a new link here shows up there on its next sync.
+Each link is one concept file under `sources/`: a web URL with its title,
+cover image, and tags, and a sync identity derived from the URL so a
+regeneration never turns an old link into a new one. Alchemy keeps a
+checkout of this repo and binds its "Curated Links" notebook to it, so a
+new link here is a new source there on the next pull. The bundle ships no
+`index.md` or `log.md` on purpose: a reader writes its own beside these.
 
 ## Adding links
 
@@ -21,7 +25,7 @@ that never leave this machine), then:
 ```bash
 scripts/import_slack_export.py raw/<export>.csv   # fold into the catalog
 scripts/build_feed.py                              # feed/feed.json
-scripts/build_links.py                             # links/<month>.md
+scripts/build_sources.py                           # sources/<id>-<slug>.md
 ```
 
 The importer keeps only what describes the link — URL, title, domain,
