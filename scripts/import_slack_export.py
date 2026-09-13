@@ -36,6 +36,20 @@ FIELDS = [
 SKIP_DOMAINS = {"slack.com", "github.ibm.com", "w3.ibm.com"}
 
 
+def canonical(url: str) -> str:
+    """One row per page: the export lists the same repo as http:// and
+    https://, and a trailing slash or a mobile host is not a different link."""
+    p = urlparse(url)
+    host = p.netloc.lower()
+    if host.startswith("www."):
+        host = host[4:]
+    if host in ("mobile.twitter.com", "twitter.com"):
+        host = "x.com"
+    path = p.path.rstrip("/") or "/"
+    query = f"?{p.query}" if p.query and host not in ("x.com", "github.com") else ""
+    return f"https://{host}{path}{query}"
+
+
 def fallback_title(url: str) -> str:
     p = urlparse(url)
     path = p.path.rstrip("/")
@@ -65,7 +79,7 @@ def main(path: str) -> None:
     added = updated = skipped = 0
     with open(path, encoding="utf-8-sig", newline="") as f:
         for raw in csv.DictReader(f):
-            url = raw["normalized_url"].strip() or raw["url"].strip()
+            url = canonical(raw["normalized_url"].strip() or raw["url"].strip())
             domain = raw["domain"].strip().lower()
             if not url.startswith("http") or any(domain.endswith(d) for d in SKIP_DOMAINS):
                 skipped += 1
