@@ -2,11 +2,3 @@
 raw/
 __pycache__/
 .DS_Store
-# A reader that binds this bundle writes its own listing, history, notes,
-# and sync state beside the sources; none of that is the catalog's.
-index.md
-log.md
-notes/
-sync/
-conflicts/
-deletions/

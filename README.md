@@ -7,14 +7,16 @@ collected over months and published three ways from one catalog:
 | --- | --- | --- |
 | The catalog | [`catalog/links.csv`](catalog/links.csv) | the source of truth: one row per link |
 | A JSON Feed | [`feed/feed.json`](feed/feed.json) | feed readers; newest first |
-| An OKF bundle | [`sources/`](sources/) | Alchemy, or any reader of the [Open Knowledge Format](https://github.com/inkeep/open-knowledge) |
+| Resolved posts | [`catalog/resolved.json`](catalog/resolved.json) | what each post on X says and points at |
 
-Each link is one concept file under `sources/`: a web URL with its title,
-cover image, and tags, and a sync identity derived from the URL so a
-regeneration never turns an old link into a new one. Alchemy keeps a
-checkout of this repo and binds its "Curated Links" notebook to it, so a
-new link here is a new source there on the next pull. The bundle ships no
-`index.md` or `log.md` on purpose: a reader writes its own beside these.
+Alchemy's "Curated Links" notebook reads the feed: every item becomes a
+source it captures itself — the page behind the link, with its cover image
+and the item's tags — and new items land on the hourly check.
+
+A post on X is usually a pointer, so the feed favors the destination: when
+a post links out to a page, the item *is* that page (the post's URL rides
+in `external_url` and its text in the body). A post that stands alone keeps
+its own URL and its text.
 
 ## Adding links
 
@@ -24,8 +26,8 @@ that never leave this machine), then:
 
 ```bash
 scripts/import_slack_export.py raw/<export>.csv   # fold into the catalog
+scripts/resolve_links.py                           # what new posts point at
 scripts/build_feed.py                              # feed/feed.json
-scripts/build_sources.py                           # sources/<id>-<slug>.md
 ```
 
 The importer keeps only what describes the link — URL, title, domain,
@@ -43,10 +45,13 @@ files match the catalog.
   "id": "L01427",
   "url": "https://example.com/post",
   "title": "…",
-  "content_text": "Category · Resource type · Topic; Topic · by author",
+  "content_text": "What the post said …\n\n— @author\n\nCategory · Resource type · Topic",
+  "external_url": "https://x.com/author/status/…",
   "date_published": "2026-09-10T16:20:23Z",
   "tags": ["Category", "Topic", "Topic"],
   "authors": [{ "name": "author" }],
   "image": "https://…/og-image.jpg"
 }
+
+`external_url` is present only when the item is the page a post pointed at.
 ```
