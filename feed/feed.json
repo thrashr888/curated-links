@@ -234,7 +234,7 @@
   },
   {
    "id": "L01408",
-   "url": "https://github.com/openai/codex/blob/rust-v0.153.0/codex-rs/app-server/tests/suite/v2/history_notes_extension.rs#L32-L33",
+   "url": "https://github.com/openai/codex/blob/rust-v0.153.0/codex-rs/app-server/tests/suite/v2/history_notes_extension.rs",
    "title": "owen (@owengretzinger) on X",
    "content_text": "Everyone keeps saying Astra's new compaction \"saves notes\" and \"searches messages.\"\n\nBut I thought: couldn't it do that before?\n\nSo I traced the Codex implementation. Here's how it ACTUALLY works with specific details like tool names (insightful if you're building agents):\n\nTraditional compaction\n\n1. Token threshold reached\n2. Interrupt the main agent flow\n3. Append a request to summarize the conversation \n4. Replace the old context with the summary + some recent messages\n\nThe summary request is appended to the existing message history to leverage token caching (opposed to a separate 1-shot prompt). \n\nAfterward, the agent continues with that condensed account of what happened.\n\nIt works ok. But the LLM has to decide what it thinks will be important later. Which can cause issues when new information comes up or when you want to revisit something it thought was finished.\n\nAnd after several compactions, specific decisions and instructions can disappear from the summaries entirely, leading to duplicated work or rediscovering things from scratch.\n\n(I'll give a specific example at the end)\n\nAstra's new flow\n\n1. Codex inserts a developer message when context runs low\n\nAfter a model response and its tool calls finish, Codex checks the remaining tokens. Once the count reaches the reminder threshold (configurable), it appends a message telling Astra to preserve its progress, decisions, next steps, and references to earlier messages before resetting.\n\n2. The agent writes notes through tool calls\n\nIt uses tools like notes.write_file and notes.append_to_file. It can organize the notes into separate files however it decides. \n\n(It can also edit these notes mid-session if it wants to)\n\n3. The agent calls new_context when it's ready\n\nCodex uses this tool to explicitly decide when it's ready to replace the active conversation with a fresh context window (no summarization).\n\nThere's also a forced reset eventually if the agent keeps going and hits a separate threshold.\n\n4. The next window gets instructions and pointers to what was saved\n\nAfter the reset, alongside base instructions & context, it gets references to previous context windows and notes.\n\nHere's an example of the notes hint inserted into context, from a Codex integration test:\n```\nRecent notes (up to 5, most-recent first):\n- /root/notes/latest.md (2 lines, 14 UTF-8 bytes)\n```\nhttps://github.com/openai/codex/blob/rust-v0.153.0/codex-rs/app-server/tests/suite/v2/history_notes_extension.rs#L32-L33\n\n5. The agent fetches what it needs to continue\n\nIt can call notes​.read_file to read the files, then history​.search_contents and history​.read_item to find and read earlier messages or tool results.\n\nAnd then the great thing is that these tools stay available throughout the session. So when new information comes up or you want to revisit something, the agent knows to find the relevant notes and original message history.\n\nExample\n\nSay I'm working on a frontend. I go back and forth with Codex workshopping a component, move on to other things (compaction happens here), then come back to that component later.\n\nWith ordinary compaction, it might save only high-level details about the component because it thinks we're done with that part. Then I bring it up again and get really frustrated because it's forgotten things we already worked through.\n\nYes, if I directly asked, it could fetch older messages with the right tools. But by default it would probably keep working from an incomplete summary without realizing what was missing.\n\nWith the new method, it's explicitly instructed to recover context from notes and earlier messages. When I return to the component, it can look up our exact discussion, even if the notes only kept high-level details.\n\nEnabling it\n\nPaste this into Codex:\nEnable experimental context management in my config.toml https://learn.chatgpt.com/docs/models#experimental-context-management\n\n— @owengretzinger\n\nSocial media & discussions · Social post · by owengretzinger",
    "date_published": "2026-09-09T23:59:34Z",
@@ -267,7 +267,7 @@
   },
   {
    "id": "L01406",
-   "url": "https://www.waveshare.com/esp32-s3-touch-amoled-1.75c.htm?sku=33691&aff_id=Waveshare",
+   "url": "https://waveshare.com/esp32-s3-touch-amoled-1.75c.htm?sku=33691&aff_id=Waveshare",
    "title": "Waveshare Electronics (@waveshare00) on X",
    "content_text": "We didn’t expect so many builders to welcome us back. Thank you! 🫶\n\nLet’s end the week on a high—with our first giveaway on X.\n\nOne builder wins an ESP32-S3-Touch-AMOLED-1.75C:\n① RT this post\n② Follow @waveshare00 \n③ Comment: What would you build with it? Or what have you built in the past?\n\n【Ends Sep 13, 23:59 UTC】\n\nMeet the prize: a compact ESP32-S3 platform with a 1.75″ 466×466 round AMOLED touchscreen, CNC aluminum case, 6-axis IMU, dual mics, Wi-Fi + BLE 5.\n\nSee it here:\nhttps://www.waveshare.com/esp32-s3-touch-amoled-1.75c.htm?sku=33691&aff_id=Waveshare\n\n— @waveshare00\n\nSocial media & discussions · Social post · by waveshare00",
    "date_published": "2026-09-09T23:56:18Z",
@@ -513,7 +513,7 @@
   },
   {
    "id": "L01387",
-   "url": "http://delta.dev）。",
+   "url": "https://delta.dev）。/",
    "title": "老鬼 (@laogui) on X",
    "content_text": "知名代码编辑器 Zed 推出了全新的独立 Agentic IDE —— Delta（http://delta.dev）。\n\n目前绝大多数 AI 编程工具本质上还是“单人抽卡”：你跟 Agent 聊完改了代码，聊天的上下文就被埋没了；到了 Git Commit 里，同事根本不知道这段代码当初是怎么跟 AI 讨论出来的。\n\nDelta 要做的事情是：\n\n- 把聊天当做第一公民：代码和产生它的对话永久绑定（底层基于 DeltaDB）。你在某行代码上不仅能看到是谁写的，还能追溯当时是哪段 Prompt、怎么跟 Agent 推演出来的。\n\n- 多人实时协作：发一个链接，同事就能直接进你的 Thread 围观 Agent 写代码，还能实时评论、接管任务，甚至直接在浏览器里（Rust+Wasm 渲染）跑起来。\n\n- 支持外部 Agent：不仅自己能跑，还能直接接管终端里的 Claude Code 等外部 Agent。\n\n这个产品有点类似 GitHub 前 CEO 创立的 Entire，把 AI 会话当做上下文，虽然理念挺好，但在团队实施的难度较大。\n\nDelta 也可以当做单人版 Agent 代码工具，和 Zed 一样是 Rust 写的，性能很好，也可以对接第三方 Agent，使用 Codex，Grok 的订阅额度。\n\n— @laogui\n\nSocial media & discussions · Social post · by laogui",
    "date_published": "2026-09-07T01:04:32Z",
@@ -849,7 +849,7 @@
   },
   {
    "id": "L01362",
-   "url": "http://github.com/trycua/cua",
+   "url": "https://github.com/trycua/cua",
    "title": "Cua (@trycua) on X",
    "content_text": "5/ Native support should start with an RFC: define the permissions and threat model, choose the compositor contract, integrate Cua Driver, add coverage, then upstream the compositor PRs and roll it out in stages.\n\nThis is still a technical preview. Follow the work at http://github.com/trycua/cua\n\n— @trycua\n\nSocial media & discussions · Social post · by trycua",
    "date_published": "2026-09-07T00:53:16Z",
@@ -1931,7 +1931,7 @@
   },
   {
    "id": "L01279",
-   "url": "http://github.com/denoland/celld",
+   "url": "https://github.com/denoland/celld",
    "title": "Ryan Dahl (@rough__sea) on X",
    "content_text": "I want to share how I have developed celld - because it's a bit different and it's working well for me. You might have noticed that the http://github.com/denoland/celld repo is pretty bare - this is because it's an export of a much larger private repo: denoland/celld.dev\n\nThis larger repo contains: an llm-wiki with an enormous amount of design docs, a large test suite, a spec written in TLA+, the code for the website, scripts for spinning up fleets of celld instances on various clouds and running tests against them, and a speculative centralized managed control plane that I might someday release as a commercial product.\n\nMy llm-wiki is modified to fit my workflow - diff here https://gist.github.com/ry/c56dfa7b1b90eeff2d8d0127e45ae3bb/revisions?short_path=4c66555#diff-4c66555dd402cc5d67a52a326ac73c0e13d09c5e3e6e2e32967808d23a576025\n\nI find llm-wiki extremely useful for gathering context. Reviewing wiki/design/ is a primary development activity.\n\ncelld is open source, but the development happens in private. The test suite and design docs are private. Why do this? First of all, I don't need the public following my every commit - it's oversharing. Secondly, in the age of coding agents, I don't really need external contributors. I'll always appreciate a patch, but most properly reported issues are one-shottable solutions. Third, it's just a bit of IP that might be valuable someday.\n\nI do a lot of experiments with celld on Vultr with a VPC. I'll spin up between 2 and 10 VMs at a time, run some experiment, and usually try to tell some story via a chart of some sort (one below). \n\nMy own coding agent setup is ssh/tmux to mac mini, with various codex and claude sessions running. I don't use an enormous number - something like 2-4 at a time. (Why a mac mini? idk someone just gave me it)\n\n— @rough__sea\n\nSocial media & discussions · Social post · by rough__sea",
    "date_published": "2026-08-26T16:52:07Z",
@@ -3565,7 +3565,7 @@
   },
   {
    "id": "L01157",
-   "url": "http://www.discoveryloop.com",
+   "url": "https://discoveryloop.com/",
    "title": "Jeff Dean (@JeffDean) on X",
    "content_text": "Announcing Discovery Loop! \n\nI am very excited to announce that, along with my longtime friends and collaborators @Sanjay_Ghemawat, @OriolVinyalsML and @quocleix, we are founding Discovery Loop (@DiscoLoopAI), a Public Benefit Corporation whose mission is to automate machine learning, science, and engineering to accelerate discoveries and progress. The four of us have worked together for 14 to 30 years, and have helped build some of the world’s most used products, infrastructure and AI models, and we’re excited to turn our attention to this ambitious endeavor.\n\n♾\n\nLearn more at: http://www.discoveryloop.com\n\n— @JeffDean\n\nSocial media & discussions · Social post · by JeffDean",
    "date_published": "2026-08-06T16:33:38Z",
@@ -4444,7 +4444,7 @@
   },
   {
    "id": "L01093",
-   "url": "http://vercel.com/plugin",
+   "url": "https://vercel.com/plugin",
    "title": "Vercel Plugin - Vercel",
    "content_text": "The case for your own public agent, on your .com.\n\n0️⃣ First, the anti-case. If you haven't shipped high quality APIs for agents, start there. OpenAPI specs, SDKs, CLIs and MCPs as appropriate.\n\n1️⃣ Convenience. Not every customer has a harness 'at the ready' for every possible interaction with your product and company. Shipping one on your own domain covers a lot of spontaneous requirements.\n\n2️⃣ Security. When you go to 𝚟𝚎𝚛𝚌𝚎𝚕.𝚌𝚘𝚖 and talk to Agent, we put in the work to cover audit trails, a least-privilege permission model, and extra assurances to ensure security, privacy and data integrity. It's fully cloud-based and sandboxed, vs. a sprawl of static credentials on users' machines.\n\n3️⃣ Proactivity. We're still in the \"human enters prompt\" phase of AI. Our cloud-based agent can act on anomaly alerts triggered by exceptions, attacks, usage spikes. Our agent needs to monitor your infra while you sleep. You can, of course, set up workflows and schedules with your own harnesses, but it gets much harder.\n\nI think it's ultimately a sequencing thing. I agree with Mitchell that the priority is to give users choice and flexibility. We give people http://vercel.com/plugin to integrate with every agent out there. Our CLI and MCP are constantly improving. Our own Agent re-uses the same http://skills.sh everyone gets. All our sites are Markdown-over-the-wire if you're an agent.\n\nBased on the data and anecdata available to me, this strategy is working quite well, but YMMV.\n\n— @rauchg\n\nSocial media & discussions · Social post · by rauchg",
    "date_published": "2026-07-17T19:25:14Z",
@@ -5169,7 +5169,7 @@
   },
   {
    "id": "L01038",
-   "url": "http://build.nvidia.com",
+   "url": "https://build.nvidia.com/",
    "title": "K2S (@k2sbhai) on X",
    "content_text": "nvidia is casually giving you access to 5 frontier chinese AI models for free 😳\n\nno credit card \nno subscriptions\n just one API key that unlocks everything\n\nwhat you get for $0:  \n\n- DeepSeek V4 Flash for ultra-fast inference\n- MiniMax M3 as a drop-in coding assistant\n- Qwen3.5-397B for advanced reasoning tasks\n- Kimi K2.6 for agentic workflows and long chains\n- GLM 5.1 as a reliable everyday model\n\nwhy this is huge:\n\n> no paying separate subscriptions for different models\n> no changing your existing workflows or tools\n> no vendor lock-in since everything is OpenAI-compatible\n\ngetting started takes less than 2 minutes:\n\n1. go to http://build.nvidia.com\n2. sign up and verify your account\n3. generate your nvapi key\n4. set your base URL to http://integrate.api.nvidia.com/v1\n5. pick any model and start building\n\nsupported models:\n\n> minimaxai/minimax-m3\n> qwen/qwen3.5-397b-a17b\n> moonshotai/kimi-k2.6\n> zhipuai/glm-5.1\n> deepseek/deepseek-v4-flash\n\npro tip:\n\nuse DeepSeek V4 Flash for speed, Qwen for hard reasoning, Kimi for agents, and MiniMax as your daily coding companion\n\nthe best part?\n\none free key gives you access to 100+ models across NVIDIA's catalog\n\n~40 requests per minute is more than enough for most developers and personal projects\n\n5 frontier models that compete with GPT and Claude, all without spending a dollar\n\nbookmark this and claim your free API key before the limits change 👀\n\n— @k2sbhai\n\nSocial media & discussions · Social post · by k2sbhai",
    "date_published": "2026-07-07T22:49:37Z",
@@ -5371,7 +5371,7 @@
   },
   {
    "id": "L01024",
-   "url": "http://docs.inference.net",
+   "url": "https://docs.inference.net/",
    "title": "Sam Hogan :us: (@samhogan) on X",
    "content_text": "Want to try GLM 5.2 in production but worried how it might change your product?\n\nDon’t worry, we got you:\n\n1. Install Inference Gateway (http://docs.inference.net)\n2. Keep sending traffic to your current provider\n3. Gateway automatically starts sorting through your live data using an RLM to generate evals for your app. This takes ~24 hours. \n4. Gateway starts mirroring live traffic to   GLM 5.2 to run evals. Traffic is only mirrored - you’re still using your old provider in prod. \n5. Once evals look healthy, you get a Slack notification letting you know it’s safe to switch. \n6. Switch model identifier in your code to “glm-5.2”\n\nCongrats, you just saved 90% on your monthly token bill, and you own your LLM stack end to end.\n\n— @samhogan\n\nSocial media & discussions · Social post · by samhogan",
    "date_published": "2026-07-07T22:42:06Z",
@@ -5864,7 +5864,7 @@
   },
   {
    "id": "L00988",
-   "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+   "url": "https://openai.com/index/previewing-gpt-5-6-sol",
    "title": "Previewing GPT-5.6 Sol: a next-generation model",
    "content_text": "Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable model for high-volume work.\n\nhttps://openai.com/index/previewing-gpt-5-6-sol/\n\n— @OpenAI\n\nSocial media & discussions · Social post · by OpenAI",
    "date_published": "2026-06-26T23:18:37Z",
@@ -6495,7 +6495,7 @@
   },
   {
    "id": "L00941",
-   "url": "http://opencomputer.dev,",
+   "url": "https://opencomputer.dev,/",
    "title": "Utpal Nadiger (@utpalnadiger) on X",
    "content_text": "the background agent market map.\n\nevery serious eng org now ships agents that code while they sleep. and in most orgs, it has spread engineering containment - gtm, hiring, cs, everyone is shipping!\n\nalso one of the fastest growing usecases at http://opencomputer.dev, fwiw\n\nare you maxxing yet, anon?\n\nhttp://opencomputer.dev/background-agents\n\n— @utpalnadiger\n\nSocial media & discussions · Social post · by utpalnadiger",
    "date_published": "2026-06-25T23:52:59Z",
@@ -6710,7 +6710,7 @@
   },
   {
    "id": "L00926",
-   "url": "http://runCabinet.com",
+   "url": "https://runcabinet.com/",
    "title": "Hila Shmuel (@HilaShmuel) on X",
    "content_text": "Meet Cabinet: Your KB + AI Team on Disk🗄️\nfor the longest time I’ve been frustrated that LLMs are stateless and scattered. every chat starts from zero. no memory, no team, nothing that persists.\n\nSo I built Cabinet: your AI team on disk\n  📁\n    ├─ 📝 .kb/     - CSVs, notes, webapps,  everything)\n    ├─ ⏰ .jobs/  - tasks & routines\n    └─ 🧠 .agents/ \n\ndump your data, bring your own AI, and it researches, drafts, and ships while you sleep. no db. no lock-in. just files you own.\nhttp://runCabinet.com\n\n— @HilaShmuel\n\nSocial media & discussions · Social post · by HilaShmuel",
    "date_published": "2026-06-16T02:10:58Z",
@@ -6744,7 +6744,7 @@
   },
   {
    "id": "L00924",
-   "url": "https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/",
+   "url": "https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing",
    "title": "Marie Haynes (@Marie_Haynes) on X",
    "content_text": "This is really big news. Google introduced the Open Knowledge Format (OKF) - a standardized way to store information in a directory of markdown files. Makes it really easy to make a digital brain that agents can use.\n\nThese files can serve as a living wiki. You can give agents the ability to query them or edit them. They can interlink. \n\nSeems to me this could replace Notion or Obsidian. I can think of so many uses for this. \n\nGoogle's blog post: https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/\n\nAn easier to understand explanation is the SPEC.md file:\nhttps://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md\n\nI gave those two links to Antigravity and asked how we could use it for any of the projects we're working on. It came up with so many ideas. I would imagine Claude Fable 5 would whip up some pretty amazing things based on this system. \n\nCurrently creating an OKF library of our pepper garden. It's going to be a fun weekend.\n\n— @Marie_Haynes\n\nSocial media & discussions · Social post · by Marie_Haynes",
    "date_published": "2026-06-16T02:10:09Z",
@@ -6819,7 +6819,7 @@
   },
   {
    "id": "L00919",
-   "url": "http://hermes-agent.nousresearch.com/docs/guides/automation-templates",
+   "url": "https://hermes-agent.nousresearch.com/docs/guides/automation-templates",
    "title": "YanXbt (@IBuzovskyi) on X",
    "content_text": "HERMES AGENT NOW HAS AUTOMATION TEMPLATES.\nCOPY-PASTE RECIPES FOR CRON JOBS AND WEBHOOKS.\nANY MODEL. ANY DELIVERY PLATFORM.\n\nthree trigger types:\n\nSCHEDULE → runs on a cadence (hourly, nightly, weekly)\nGITHUB EVENT → fires on PR opens, pushes, issues, CI results\nAPI CALL → any external service POSTs JSON to your endpoint\n\nall three deliver to Telegram, Discord, Slack,\nSMS, email, GitHub comments, or local files.@NousResearch \n\nwhat templates ship right now:\n\nDEVELOPMENT:\n→ nightly backlog triage (label + prioritize new issues)\n→ automatic PR code review (posts review on every PR)\n→ docs drift detection (finds code changes without doc updates)\n→ dependency security audit (daily CVE scan, CVSS >= 7.0)\n\nDEVOPS:\n→ deploy verification (smoke tests after every deploy)\n→ alert triage (correlates alerts with recent changes)\n→ uptime monitor (check endpoints every 30 min,\n  notify only when something is down)\n\nRESEARCH:\n→ competitive repo scout (monitor competitor PRs daily)\n→ weekly AI news digest (headlines, papers, repos, industry)\n→ daily arXiv scan (saves summaries to your notes)\n\nthe webhook system is the part most people miss:\n\nhermes webhook subscribe github-pr-review \\\n  --events \"pull_request\" \\\n  --prompt \"Review this PR for security,\n  performance, and code quality.\" \\\n  --skills \"github-code-review\" \\\n  --deliver github_comment\n\none command. every future PR gets reviewed automatically.\nthe review posts as a comment directly on the PR.\n\ntwo cost-saving details from the docs:\n\n1. use [SILENT] in prompts.\n   \"if nothing changed, respond with [SILENT]\"\n   prevents notification noise on monitoring jobs.\n\n2. use script-only cron jobs for data collection.\n   a Python script handles HTTP requests and file reads.\n   the agent only sees stdout and applies reasoning.\n   cheaper and more reliable than having the agent fetch.\n\nevery template is copy-paste ready.\nevery template works with any model.\n\ndocs: http://hermes-agent.nousresearch.com/docs/guides/automation-templates\n\nfull Hermes agent SOUL MD guide in the article 👇\n\n— @IBuzovskyi\n\nSocial media & discussions · Social post · by IBuzovskyi",
    "date_published": "2026-06-16T02:08:25Z",
@@ -6868,7 +6868,7 @@
   },
   {
    "id": "L00916",
-   "url": "http://project-nullframe.vercel.app",
+   "url": "https://project-nullframe.vercel.app/",
    "title": "mi©k (@mickces) on X",
    "content_text": "PROJECT NULLFRAME: A live telemetry dashboard brought to life with Fable 5 - in Nothing's design language.\n\nYour real fps, battery + network; your cursor becomes a seismograph. It tells you when it's simulating. Prompt inspo og @dominikmartn \n\nview live http://project-nullframe.vercel.app\n\n— @mickces\n\nSocial media & discussions · Social post · by mickces",
    "date_published": "2026-06-16T02:07:18Z",
@@ -7109,7 +7109,7 @@
   },
   {
    "id": "L00900",
-   "url": "http://opencomputer.dev",
+   "url": "https://opencomputer.dev/",
    "title": "Mohamed Habib (@motatoeshq) on X",
    "content_text": "How we built forkable vm's in http://opencomputer.dev\n\n00:11 Architecture\n00:35 Zooming in to a single worker\n01:13 Forkable VM's\n02:43 Demo \n04:10 Results \n04:24 Typescript sdk\n\n— @motatoeshq\n\nSocial media & discussions · Social post · by motatoeshq",
    "date_published": "2026-06-16T02:00:59Z",
@@ -7534,7 +7534,7 @@
   },
   {
    "id": "L00870",
-   "url": "https://upcli.dev",
+   "url": "https://upcli.dev/",
    "title": "Esteban Suárez (@EstebanSuarez) on X",
    "content_text": "Vercel Sandbox persistence is now GA, so I built a demo on top of it: 𝚞𝚙.\n\nRun 𝚞𝚙 in your project:\n• syncs your code into a Vercel Sandbox\n• detects the framework, installs deps, runs your dev server\n• serves it at a public URL you can share\n• stop it, run 𝚞𝚙 . again, and it resumes from the snapshot, files and deps intact\n\ntry it: https://upcli.dev\n\n— @EstebanSuarez\n\nSocial media & discussions · Social post · by EstebanSuarez",
    "date_published": "2026-06-08T21:48:05Z",
@@ -8346,7 +8346,7 @@
   },
   {
    "id": "L00809",
-   "url": "http://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+   "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate",
    "title": "The 2026-07-28 MCP Specification Release Candidate",
    "content_text": "The release candidate for MCP 2026-07-28 is out. The protocol is now stateless: no handshake, no session id, any request can hit any server instance. Plus extensions as first-class (MCP Apps, Tasks), auth hardening, and a proper deprecation policy so we don't have to do this again.\nhttp://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/\n\n— @dsp_\n\nSocial media & discussions · Social post · by dsp_",
    "date_published": "2026-05-26T22:28:02Z",
@@ -9484,7 +9484,7 @@
   },
   {
    "id": "L00724",
-   "url": "http://127.0.0.1:3011/docs",
+   "url": "https://127.0.0.1:3011/docs",
    "title": "Darren Shepherd (@ibuildthecloud) on X",
    "content_text": "Holy crap, AI just did this. I didn't know this was possible and it's super useful command.\n\nchromium --headless --no-sandbox --disable-gpu --virtual-time-budget=8000 --dump-dom http://127.0.0.1:3011/docs\n\n— @ibuildthecloud\n\nSocial media & discussions · Social post · by ibuildthecloud",
    "date_published": "2026-05-07T18:32:20Z",
@@ -9924,7 +9924,7 @@
   },
   {
    "id": "L00690",
-   "url": "http://cloud.browser-use.com/bux",
+   "url": "https://cloud.browser-use.com/bux",
    "title": "Larsen Cundric (@larsencc) on X",
    "content_text": "Introducing: Browser Use Box (bux). Your 24/7 personal agent box, powered by Browser Harness. ♞\n\nWe got tired of agents that vanish when you close the laptop. So we put them on a server.\n\n> 24/7 box that runs while you sleep\n> Real Chrome with persistent logins\n> Telegram baked in, text from anywhere\n\nI gave mine my email and a Telegram chat. It books flights, replies to LinkedIn and does my to-do list before I'm awake.\n\nTry it at http://cloud.browser-use.com/bux ↓\n\n— @larsencc\n\nSocial media & discussions · Social post · by larsencc",
    "date_published": "2026-04-28T22:59:51Z",
@@ -9953,7 +9953,7 @@
   },
   {
    "id": "L00688",
-   "url": "http://ui.sh",
+   "url": "https://ui.sh/",
    "title": "Dott (@DottChen) on X",
    "content_text": "Got @adamwathan's http://ui.sh the moment I had access. Tested it on a landing page for a new product I've been working on. I like that a lot of the design details I need are automatically figured out (images and prototypes being generated by Codex). All I have to do is to tweak the bits that I think still need improving.\n\nI won't say it's perfect, but it definitely saved me a lot of time. This landing page took me about 3 hours, which normally would take a full day if I have to get all the design details right.\n\n— @DottChen\n\nSocial media & discussions · Social post · by DottChen",
    "date_published": "2026-04-28T22:59:18Z",
@@ -10213,7 +10213,7 @@
   },
   {
    "id": "L00670",
-   "url": "https://www.youtube.com/watch?v=PplmzlgE0kg",
+   "url": "https://youtube.com/watch?v=PplmzlgE0kg",
    "title": "Lenny Rachitsky (@lennysan) on X",
    "content_text": "My biggest takeaways from Claude Code's Head of Product @_catwu:\n\n1. Anthropic’s product development timelines have gone from six months to one month, sometimes one week, sometimes one day. Part of this acceleration is access to the latest models (i.e. Mythos). Another is shipping new products into “research preview,” making clear it's early, experimental, and might not be supported forever. Another is an evergreen \"launch room \"where engineers post ready features and marketing turns around announcements the next day.\n\n2. The PM role is shifting from coordinating multi-month roadmaps to enabling teams to ship daily. As Cat puts it, “There should be less emphasis on making sure you are aligning your multi-quarter roadmaps with your partner teams and more emphasis on, OK, how can we figure out the fastest way to get something out the door?”\n\n3. The most efficient shipping unit is an engineer with great product taste. On Cat’s team, many engineers go end-to-end—from seeing user feedback on Twitter to shipping a product by the end of the week—without a PM involved. Also, almost all the PMs on the Claude Code team have either been engineers or ship code themselves, and the designers have been front-end engineers. The roles are merging, and the most valuable skill is product taste, not job title.\n\n4. Build products that are on the edge of working. Claude Code’s code review product failed multiple times because earlier models weren’t accurate enough. But because the prototype was already built, they could swap in Opus 4.5 and 4.6 and immediately test whether the gap was closed. Teams that wait for the model to be ready will always be a cycle behind.\n\n5. The most underrated skill for building AI products is asking the model to introspect on its own mistakes. Cat regularly asks the model why it made an unexpected decision. The model will explain that something in the system prompt was confusing, or that it delegated verification to a subagent that didn’t check its work. This reveals what misled the model so the team can fix the harness.\n\n6. Every model release forces their team to revisit existing products and audit their system prompt to remove features the model no longer needs. Claude Code’s to-do list was a crutch for earlier models that couldn’t track their own work. With Opus 4, the model handles it natively. Features built as scaffolding for weaker models become debt when the model catches up—so the team actively strips them.\n\n7. Anthropic employees build custom internal tools instead of buying SaaS products. A sales team member built a web app that pulls from Salesforce, Gong, and call notes to auto-customize pitch decks—work that used to take 20 to 30 minutes now takes seconds. Their core stack is Claude Code, Cowork, and Slack. No Notion, no Linear, no Figma.\n\n8. People underestimate how much Claude’s personality contributes to its success. As Cat describes it, “When you reflect on everyone you’ve worked with, there’s just some people where you’re like, I really like their energy, their vibe.” Claude is designed to be low-ego, positive, competent, and earnest—qualities that make it feel like a great coworker, not just a tool. This isn’t cosmetic; it’s what makes people want to use Claude for hours every day. The team has a dedicated person, Amanda, who “molds Claude’s character,” and it’s one of the hardest roles at the company because success is so subjective.\n\n9. The future of work is managing fleets of AI agents, not doing the work yourself. Cat sees a clear progression: first, individual tasks become successful. Then people start running multiple tasks at the same time (multi-Clauding). Next, people will run 50 or 100 tasks simultaneously, which will require new infrastructure—remote execution, better interfaces for managing tasks, agents that fully verify their work, and self-improving systems that incorporate feedback. The human role shifts from doing the work to knowing which tasks to look into, verifying outputs, and giving feedback that makes the system better over time.\n\n10. Hire people who lean into chaos and face every challenge with a smile. At Anthropic, there are weeks when a P0 on Sunday becomes a P00 by Monday and a P000 by Monday afternoon. If you get too stressed about any one thing, you’ll burn out. Their team looks for people who can look at a hard challenge and say, “Wow, that’s gonna be hard. But I’m excited to tackle it and I’m gonna do the best that I possibly can.” This mindset—optimism, resilience, and comfort with constant change—is increasingly essential as the pace of AI development accelerates.\n\nDon't miss the full conversation: https://www.youtube.com/watch?v=PplmzlgE0kg\n\n— @lennysan\n\nSocial media & discussions · Social post · by lennysan",
    "date_published": "2026-04-28T22:45:37Z",
@@ -10577,7 +10577,7 @@
   },
   {
    "id": "L00642",
-   "url": "http://github.com/antonbabenko/terraform-skill/",
+   "url": "https://github.com/antonbabenko/terraform-skill",
    "title": "GitHub - antonbabenko/terraform-skill: Terraform & OpenTofu Skill for AI Agents - testing, modules,...",
    "content_text": "More than 1.6K stars on terraform-skill! ❤️\n\nWriting #Terraform with AI, but not always getting great results?\n\nI have just shipped a major update to Terraform Skill v1.7.0, with significantly fewer hallucinations.\n\nIt was also fact-checked by seven independent reviewers: five Claude expert personas (Terraform, Security, DevOps, SRE, Cloud), plus GPT Codex and Gemini.\n\nTerraform Skill v1.7.0 is ready for Claude, Cursor, Copilot, Gemini, Codex, and more:\nnpx skills add http://github.com/antonbabenko/terraform-skill/\n\n— @antonbabenko\n\nSocial media & discussions · Social post · by antonbabenko",
    "date_published": "2026-04-23T23:33:45Z",
@@ -10754,7 +10754,7 @@
   },
   {
    "id": "L00628",
-   "url": "http://fly.io",
+   "url": "https://fly.io/",
    "title": "Mert Deveci (@gm_mertd) on X",
    "content_text": "whoever does a better and more stable Sprite by http://fly.io will be rich\n\n1. Factory releasing persistent Droid environment\n2. http://Exe.dev raising 35MM today\n\nwhile all the other players keeping on pushing ephemeral stuff with complex APIs (modal, cloudflare etc)\n\n— @gm_mertd\n\nSocial media & discussions · Social post · by gm_mertd",
    "date_published": "2026-04-23T23:18:13Z",
@@ -11614,7 +11614,7 @@
   },
   {
    "id": "L00564",
-   "url": "http://opentraces.ai",
+   "url": "https://opentraces.ai/",
    "title": "Gabriele Farei (@jayfarei) on X",
    "content_text": "Sharing an OS tool I have been building for a few weeks: http://opentraces.ai - git for agent traces. \n\nWith OT, you have a local client that helps you santise, review and securely share traces from your coding sessions, privately or publicly, as a @huggingface dataset. \n\n0.3 adds experimental session blame which I am very excited about - attributing commit/PR changes back to the traces that produced them (all local) unlocks a new layer in observability and issue tracking.\n\nA few short demos of the local TUI client and the upcoming opentraces hub platform.\n\nTry it out! keen on your feedback🙏\n\n— @jayfarei\n\nSocial media & discussions · Social post · by jayfarei",
    "date_published": "2026-04-21T23:36:35Z",
@@ -11739,7 +11739,7 @@
   },
   {
    "id": "L00556",
-   "url": "http://www.techrepublicbook.com",
+   "url": "https://techrepublicbook.com/",
    "title": "Palantir (@PalantirTech) on X",
    "content_text": "Because we get asked a lot.\n\nThe Technological Republic, in brief.\n\n1. Silicon Valley owes a moral debt to the country that made its rise possible. The engineering elite of Silicon Valley has an affirmative obligation to participate in the defense of the nation.\n\n2. We must rebel against the tyranny of the apps. Is the iPhone our greatest creative if not crowning achievement as a civilization? The object has changed our lives, but it may also now be limiting and constraining our sense of the possible.\n\n3. Free email is not enough. The decadence of a culture or civilization, and indeed its ruling class, will be forgiven only if that culture is capable of delivering economic growth and security for the public.\n\n4. The limits of soft power, of soaring rhetoric alone, have been exposed. The ability of free and democratic societies to prevail requires something more than moral appeal. It requires hard power, and hard power in this century will be built on software.\n\n5. The question is not whether A.I. weapons will be built; it is who will build them and for what purpose. Our adversaries will not pause to indulge in theatrical debates about the merits of developing technologies with critical military and national security applications. They will proceed.\n\n6. National service should be a universal duty. We should, as a society, seriously consider moving away from an all-volunteer force and only fight the next war if everyone shares in the risk and the cost.\n\n7. If a U.S. Marine asks for a better rifle, we should build it; and the same goes for software. We should as a country be capable of continuing a debate about the appropriateness of military action abroad while remaining unflinching in our commitment to those we have asked to step into harm’s way.\n\n8. Public servants need not be our priests. Any business that compensated its employees in the way that the federal government compensates public servants would struggle to survive.\n\n9. We should show far more grace towards those who have subjected themselves to public life. The eradication of any space for forgiveness—a jettisoning of any tolerance for the complexities and contradictions of the human psyche—may leave us with a cast of characters at the helm we will grow to regret.\n\n10. The psychologization of modern politics is leading us astray. Those who look to the political arena to nourish their soul and sense of self, who rely too heavily on their internal life finding expression in people they may never meet, will be left disappointed.\n\n11. Our society has grown too eager to hasten, and is often gleeful at, the demise of its enemies. The vanquishing of an opponent is a moment to pause, not rejoice.\n\n12. The atomic age is ending. One age of deterrence, the atomic age, is ending, and a new era of deterrence built on A.I. is set to begin.\n\n13. No other country in the history of the world has advanced progressive values more than this one. The United States is far from perfect. But it is easy to forget how much more opportunity exists in this country for those who are not hereditary elites than in any other nation on the planet.\n\n14. American power has made possible an extraordinarily long peace. Too many have forgotten or perhaps take for granted that nearly a century of some version of peace has prevailed in the world without a great power military conflict. At least three generations — billions of people and their children and now grandchildren — have never known a world war.\n\n15. The postwar neutering of Germany and Japan must be undone. The defanging of Germany was an overcorrection for which Europe is now paying a heavy price. A similar and highly theatrical commitment to Japanese pacifism will, if maintained, also threaten to shift the balance of power in Asia.\n\n16. We should applaud those who attempt to build where the market has failed to act. The culture almost snickers at Musk’s interest in grand narrative, as if billionaires ought to simply stay in their lane of enriching themselves . . . . Any curiosity or genuine interest in the value of what he has created is essentially dismissed, or perhaps lurks from beneath a thinly veiled scorn.\n\n17. Silicon Valley must play a role in addressing violent crime. Many politicians across the United States have essentially shrugged when it comes to violent crime, abandoning any serious efforts to address the problem or take on any risk with their constituencies or donors in coming up with solutions and experiments in what should be a desperate bid to save lives.\n\n18. The ruthless exposure of the private lives of public figures drives far too much talent away from government service. The public arena—and the shallow and petty assaults against those who dare to do something other than enrich themselves—has become so unforgiving that the republic is left with a significant roster of ineffectual, empty vessels whose ambition one would forgive if there were any genuine belief structure lurking within.\n\n19. The caution in public life that we unwittingly encourage is corrosive. Those who say nothing wrong often say nothing much at all.\n\n20. The pervasive intolerance of religious belief in certain circles must be resisted. The elite’s intolerance of religious belief is perhaps one of the most telling signs that its political project constitutes a less open intellectual movement than many within it would claim.\n\n21. Some cultures have produced vital advances; others remain dysfunctional and regressive. All cultures are now equal. Criticism and value judgments are forbidden. Yet this new dogma glosses over the fact that certain cultures and indeed subcultures . . . have produced wonders. Others have proven middling, and worse, regressive and harmful.\n\n22. We must resist the shallow temptation of a vacant and hollow pluralism. We, in America and more broadly the West, have for the past half century resisted defining national cultures in the name of inclusivity. But inclusion into what?\n\nExcerpts from the #1 New York Times Bestseller The Technological Republic: Hard Power, Soft Belief, and the Future of the West, by Alexander C. Karp & Nicholas W. Zamiska\n\nhttp://www.techrepublicbook.com\n\n— @PalantirTech\n\nSocial media & discussions · Social post · by PalantirTech",
    "date_published": "2026-04-21T23:29:13Z",
@@ -13016,7 +13016,7 @@
   },
   {
    "id": "L00464",
-   "url": "http://github.com/milla-jovovich/mempalace",
+   "url": "https://github.com/milla-jovovich/mempalace",
    "title": "Ben Sigman (@bensig) on X",
    "content_text": "My friend Milla Jovovich and I spent months creating an AI memory system with Claude. It just posted a perfect score on the standard benchmark - beating every product in the space, free or paid.\n\nIt's called MemPalace, and it works nothing like anything else out there.\n\nInstead of sending your data to a background agent in the cloud, it mines your conversations locally and organizes them into a palace - a structured architecture with wings, halls, and rooms that mirrors how human memory actually works.\n\nHere is what that gets you:\n\n→ Your AI knows who you are before you type a single word - family, projects, preferences, loaded in ~120 tokens\n→ Palace architecture organizes memories by domain and type - not a flat list of facts, a navigable structure\n→ Semantic search across months of conversations finds the answer in position 1 or 2\n→ AAAK compression fits your entire life context into 120 tokens - 30x lossless compression any LLM reads natively\n→ Contradiction detection catches wrong names, wrong pronouns, wrong ages before you ever see them\n\nThe benchmarks:\n\n100% recall on LongMemEval — first perfect score ever recorded. 500/500 questions. Every question type at 100%.\n\n92.9% on ConvoMem — more than 2x Mem0's score.\n\n100% on LoCoMo — every multi-hop reasoning category, including temporal inference which stumps most systems.\n\nNo API key. No cloud. No subscription. One dependency. Runs on your machine. Your memories never leave.\n\nMIT License. 100% Open Source.\n\nhttp://github.com/milla-jovovich/mempalace\n\n— @bensig\n\nSocial media & discussions · Social post · by bensig",
    "date_published": "2026-04-07T23:52:10Z",
@@ -13772,7 +13772,7 @@
   },
   {
    "id": "L00410",
-   "url": "http://core.so",
+   "url": "https://core.so/",
    "title": "Blake Anderson (@blakeandersonw) on X",
    "content_text": "Introducing http://core.so (oss apache 2.0)\n\nWe’re building the future of an AI-native workspace.\n\nWe rebuilt functionality from Slack, Linear, and Notion.\n\nOur vision is simple: centralize context so small teams can work more efficiently with agents.\n\n— @blakeandersonw\n\nSocial media & discussions · Social post · by blakeandersonw",
    "date_published": "2026-04-01T00:42:47Z",
@@ -14924,7 +14924,7 @@
   },
   {
    "id": "L00326",
-   "url": "http://summarize.sh,",
+   "url": "https://summarize.sh,/",
    "title": "0xSero (@0xSero) on X",
    "content_text": "I'm not the only one doing this. \n\n- karpathy\n\nbest thought leader, best person to learn from imo. Nanochat is the best way to get into training LLMs its the simplest and most digestible source for building your first AI model\n\n- steipete\n\nThis guys GitHub is a national treasure, his writing is also very strong.   Peekaboo, http://summarize.sh, openclaw, oracle, just talk to it, etc.. all unique and very useful\n\n- badlogicgames\n\nMario’s Pi is a staple AI engine and possibly the best, simplest, open source agentic loop to learn from.   Despite what people say about his methods, I think he’s going to set some new standards for Open source contribution. Big respect.\n\n- TheAhmadOsman\n\nThis man is the GPU king, giveaways and lots of dense educational content around self hosting and home inference.   He’s also tight with pretty much all the open weight labs and has them on for interviews regularly\n\n- sudoingX \n\nThis is an up and comer who will change the game, he's pushing the limits of what a single gpu can do \n\n- Ex0byt \n\nI can confidently say this man will be fundamental in making local inference on massive models possible.\n\n- alexinexxx\n\nI genuinely feel motivated by her drive. She’s a real hard worker learning about GPU kernel programming.   Also good aesthetics\n\n- gospaceport\n\nI would not have gotten into building my own hardware without this man’s hard work. He’s taught me so much about hardware and the economics of this.   He also has the most impressive homelabs I’ve ever seen.\n\n- alexocheema\n\nThe founder of Exolabs, pioneering Apple hardware inference, he’s also very engaged in the community and a good guy all around.   If you are interested in Mac minis and Mac Studios this is your guys. \n\n- nummanali\n\nThis guy is so prolific, he’s made tons of CLI tools for managing llm subscription budgets, using Claude code with alternative models etc.. \n\n- thdxr \n\nThe entire Opencode team is wonderful but Dax specifically is a good writer.   More anti-doomer content to sooth your anxieties.   \n\n- juliarturc\n\nIf you are interested in the science, Julias channel is where it’s at. Almost everything I’ve learned about LLM compression has been from her.\n\n- Teknium\n\nThe Nous research & Prime intellect teams are both some of the most hard-working and principled people around.   Tough fight in an industry so aggressive.\n\n- victormustar \n\nHead of Product for Huggingface, enabling us all to publish our work. \n\n- louszbd\n\nHead of community at ZAI some of the top LLMs available right now that are open weights. They supercharged the movement\n\n- SkylerMiao7 \n\nMaking frontier intelligence fit on 10k USD of hardware. Via MiniMax\n\n- crystalsssup \n\nBuilding the best Open Weight model on the market, and releasing their latest research before their next gen model. \n\nBelieve it or not these people are carrying the entire industry and giving us a fighting chance.\n\n— @0xSero\n\nSocial media & discussions · Social post · by 0xSero",
    "date_published": "2026-03-21T00:23:51Z",
@@ -15389,7 +15389,7 @@
   },
   {
    "id": "L00293",
-   "url": "https://openai.com/index/openai-to-acquire-astral/",
+   "url": "https://openai.com/index/openai-to-acquire-astral",
    "title": "OpenAI to acquire Astral",
    "content_text": "We've reached an agreement to acquire Astral.\n\nAfter we close, OpenAI plans for @astral_sh to join our Codex team, with a continued focus on building great tools and advancing the shared mission of making developers more productive.\n\nhttps://openai.com/index/openai-to-acquire-astral/\n\n— @OpenAINewsroom\n\nSocial media & discussions · Social post · by OpenAINewsroom",
    "date_published": "2026-03-21T00:02:21Z",
@@ -15780,7 +15780,7 @@
   },
   {
    "id": "L00264",
-   "url": "http://Cognitum.One",
+   "url": "https://cognitum.one/",
    "title": "rUv (@rUv) on X",
    "content_text": "This is nuts. If these numbers hold, we’re looking at a completely different model of intelligence with the http://Cognitum.One agentic chip.\n\n6×6 mm. ~2 billion transistors. Under 2 watts. 257 cores spiking to 8ghz. That’s impressive on paper. But what matters is intelligence per watt.\n\nThis isn’t about FLOPs. It’s about decisions per joule. Continuous, event driven, always on. Like a brain. Mostly idle, spiking when something matters, updating state in real time instead of batching work.\n\nNow take that and apply it to agents.\n\nInstead of running RuFlo, OpenClaw, Codex or Claude Code on a Mac mini or in the cloud, imagine running it at wire speed directly on the silicon. \n\nNo latency. No API calls. No incremental cost. Just a local agent, always running, always thinking, always building.\n\nThat changes everything.\n\nYou can have persistent coding agents embedded in devices. Systems that monitor, write, test, and adapt code continuously. A factory line that rewrites its own control logic. A network that debugs itself. A personal environment that evolves with you in real time.\n\nPair it with RuVector and dynamic mincut, and now it has memory and coherence. It doesn’t just generate. It understands structure and maintains stability.\n\nWe’re not scaling models anymore. We’re embedding intelligence into the fabric of the world.\n\n— @rUv\n\nSocial media & discussions · Social post · by rUv",
    "date_published": "2026-03-19T00:35:22Z",
@@ -15929,7 +15929,7 @@
   },
   {
    "id": "L00254",
-   "url": "http://userinterface.wiki",
+   "url": "https://userinterface.wiki/",
    "title": "Raphael Salaja (@raphaelsalaja) on X",
    "content_text": "i've distilled everything i've written on http://userinterface.wiki into a single skill file.\n\n119 rules across 11 categories across animations, timings, ux laws, typography, audio, and more.\n\nnpx skills add raphaelsalaja/userinterface-wiki\n\n— @raphaelsalaja\n\nSocial media & discussions · Social post · by raphaelsalaja",
    "date_published": "2026-03-17T21:34:28Z",
@@ -16312,7 +16312,7 @@
   },
   {
    "id": "L00229",
-   "url": "https://www.shiori.sh/",
+   "url": "https://shiori.sh/",
    "title": "Shiori",
    "content_text": "After releasing Shiori a few weeks ago, some power-bookmarkers imported thousands of links and I racked up a pretty decent X API + Claude bill. I probably over-reacted and raised prices too fast + nerfed the free plan too aggressively.\n\nAs a result, the free plan ended up feeling ~useless, even for casual bookmarkers.\n\nSo I pushed some changes this morning that make the free plan actually usable + added an approachable middle paid tier.\n\nNew free tier:\n• save unlimited links\n• subscribe to unlimited feeds\n• rich content extraction on all links\n• natural-language search\n• access to all apps, API, CLI, and MCP\n\nBetter!\n\nThere are also some fun new features I added last weekend and this morning:\n\n🤖 Shiori MCP server\nConnect to any agent, like Claude, to integrate your bookmarks into your AI workflows (nice for research!)\n\n💻 Shiori CLI\nSame thing: all your bookmarks are now hyper-legible to LLMs so you can build tools or workflows on top of your library.\n\n📨 Email inbox (pro)\nGet a private Shiori email address to automatically save your favorite email newsletters.\n\n📰 Subscribe to feeds and channels\nAutomatically bookmark new content from your favorite sites and YouTube channels. These links are also enriched and transcribed on the Plus and Pro plans.\n\n🔒 Sign in with email/password\nMany people told me they don't like Google auth, so I've added email/password as a second sign in method\n\n🪟 Windows desktop PWA\nFor Windows users, you can grab the Shiori PWA by installing the website via Chrome. Not quite a proper Windows app, but I'll get there...\n\nCheck out the updates and send me feedback!\n\nhttps://www.shiori.sh/\n\n— @brian_lovin\n\nSocial media & discussions · Social post · by brian_lovin",
    "date_published": "2026-03-17T21:25:31Z",
@@ -16329,7 +16329,7 @@
   },
   {
    "id": "L00228",
-   "url": "https://ews-concept.pages.dev",
+   "url": "https://ews-concept.pages.dev/",
    "title": "Not Good (@bagusindrayana_) on X",
    "content_text": "Hey everyone, web for evangelion UI is online now :\nhttps://ews-concept.pages.dev\n\nFeel free to explore and give some feedback.\n\n— @bagusindrayana_\n\nSocial media & discussions · Social post · by bagusindrayana_",
    "date_published": "2026-03-17T21:25:19Z",
@@ -16346,7 +16346,7 @@
   },
   {
    "id": "L00227",
-   "url": "https://opencode-do.southpolesteve.workers.dev",
+   "url": "https://opencode-do.southpolesteve.workers.dev/",
    "title": "Steve Faulkner (@southpolesteve) on X",
    "content_text": "To show this off I slopforked the @opencode server so it runs entirely inside a @CloudflareDev Durable Object.\n\nNo servers. No containers. Hibernates when idle. Try it:\n\nopencode attach https://opencode-do.southpolesteve.workers.dev\n\nCode:  https://github.com/southpolesteve/opencode-do\n\n— @southpolesteve\n\nSocial media & discussions · Social post · by southpolesteve",
    "date_published": "2026-03-17T21:24:50Z",
@@ -16721,7 +16721,7 @@
   },
   {
    "id": "L00200",
-   "url": "http://agentation.dev",
+   "url": "https://agentation.dev/",
    "title": "Justin Farrugia (@justinmfarrugia) on X",
    "content_text": "design-specific skills I'm using the most on Claude Code:\n\n• http://agentation.dev by @benjitaylor\n• DialKit from http://intefacecraft.dev by @joshpuckett\n• design-lab by @0xDesigner\n\nany specific ones you're using?\n\n— @justinmfarrugia\n\nSocial media & discussions · Social post · by justinmfarrugia",
    "date_published": "2026-03-11T17:12:46Z",
@@ -16784,7 +16784,7 @@
   },
   {
    "id": "L00196",
-   "url": "http://agents.craft.do",
+   "url": "https://agents.craft.do/",
    "title": "Balint Orosz (@balintorosz) on X",
    "content_text": "One of the biggest area I’m working on right now is trying to bridge the gap between linear chat interfaces and the non-linear nature of human thinking. @benjitaylor’s Agentation already shows that markup and annotation resonate strongly with visual feedback, and I’ve found they feel more natural  in text-based environments as well. One tiny step, but in the right direction. Coming tonight to http://agents.craft.do\n\n— @balintorosz\n\nSocial media & discussions · Social post · by balintorosz",
    "date_published": "2026-03-11T17:10:48Z",
@@ -16901,7 +16901,7 @@
   },
   {
    "id": "L00188",
-   "url": "http://portal.nousresearch.com",
+   "url": "https://portal.nousresearch.com/",
    "title": "Nous Research (@NousResearch) on X",
    "content_text": "The last few days have been wild. \nHere's what we've shipped over the weekend.\n\nBut first, we're giving away free Nous Portal subscriptions to the first 250 people who claim code AGENTHERMES01 at http://portal.nousresearch.com - and there's a lot of exciting new stuff to use it on:\n\n-> Pokemon Player 🎮\nHermes can now play Pokemon Red/FireRed autonomously via headless emulation. The new pokemon-agent package (http://github.com/NousResearch/pokemon-agent) and built-in skill provides a REST API game server, and Hermes drives it through its native tools - reading game state from RAM, making strategic battle decisions, navigating the overworld, and saving progress to memory across sessions. It just plays Pokemon. From your terminal. No display server needed.\n\n-> Self-Evolution 🧬\nWe shipped hermes-agent-self-evolution (http://github.com/NousResearch/hermes-agent-self-evolution) and an optional skill - an evolutionary self-improvement system that uses DSPy + GEPA to optimize Hermes's own skills, prompts, and code. It maintains populations of solutions, applies LLM-driven mutations targeted at specific failure cases, and selects based on fitness. Inspired by Imbue's Darwinian Evolver research that achieved 95.1% on ARC-AGI-2.\n\n-> OBLITERATUS 🔓\nThe abliteration skill got a major update. Hermes can now uncensor any open-weight LLM (Llama, Qwen, Mistral, etc.) by surgically removing refusal directions from model weights - 9 CLI methods, 116 model presets, tournament evaluation. Just say \"abliterate this model\" and it handles the rest.\n\n-> Signal, iMessage + 7-Platform Gateway 📱\nHermes now runs on iMessage and Signal alongside Telegram, Discord, WhatsApp, Slack, and CLI. Full feature parity: voice messages, image handling, DM pairing. Your agent is reachable everywhere.\n\n-> Automatic Provider Failover 🔄\nWhen your primary model goes down (rate limits, outages), Hermes now automatically switches to a configured fallback model. Supports all providers including Codex OAuth and Nous Portal. One line of config, zero downtime.\n\n-> Secret Redaction Everywhere 🔒\nAll tool outputs now redact API keys, tokens, and passwords before they reach the LLM. 22+ patterns covering AWS, Stripe, HuggingFace, GitHub, SSH private keys, database connection strings, and more. Your secrets never leak into context.\n\n— @NousResearch\n\nSocial media & discussions · Social post · by NousResearch",
    "date_published": "2026-03-10T16:51:07Z",
@@ -17702,7 +17702,7 @@
   },
   {
    "id": "L00132",
-   "url": "http://prodmgmt.world/claude-code",
+   "url": "https://prodmgmt.world/claude-code",
    "title": "Claude Code for Product Managers: Getting Started in the First 30 Minutes (2026)",
    "content_text": "@HamelHusain amazing thanks Hamel!\n\nadded to http://prodmgmt.world/claude-code\n\n— @nurijanian\n\nSocial media & discussions · Social post · by nurijanian",
    "date_published": "2026-03-04T05:03:39Z",
@@ -17734,7 +17734,7 @@
   },
   {
    "id": "L00130",
-   "url": "https://www.youtube.com/watch?v=FyeCn7HlLck",
+   "url": "https://youtube.com/watch?v=FyeCn7HlLck",
    "title": "John Scott-Railton (@jsrailton) on X",
    "content_text": "Seen this viral tweet about a portable audio jammer?\n\nLooks cool, right? It also looks quite similar  to 100s products sold on Alibaba & in spy shops for years.  Or as DIY kits for $50 in parts. \n\nThey use ultrasonic noise to overwhelm very close-by microphones.\n\nI'm skeptical about the price tag & way it's being marketed, and I'd like to share why: it seems to me that what differentiates this, aside from the privacy-aligned language, are claims that sound to me like they've developed \"novel physics\" & use AI to detect microphones. This would be extraordinary and would require equally extraordinary proof if true.\n\nI suspect that the reality may be more like using WiFi etc to scan for devices. This is not novel physics. The problem: many of the microphones that people are most worried about don't emit wifi or bluetooth etc. Or could be a phone in airplane mode. Etc.\n\nAdditional issues around ultrasonic jamming? Complex range limitations, issues with room reflections, fabric absorbing emissions from your jammer, obstructions etc.. A phone in a fabric pocket might not be defeated by this device reliably, for example.\n\nCritically also: the range of this kind of tech is the distance between the emitter and the microphone. Not between you and the unwanted microphone.\n\nSo if you are in a normal size room and the microphone is, say, 3 meters from you in the ceiling, or on the other side of the couch, it might well still hear you clearly. \n\nConsider asking your friendly local expert in audio,  physics, or security before purchasing or investing in this product. \n\nI'm not one of those. Source of my understanding: I spent some time a few years ago planning to assemble such a device and read a lot of papers.  I may be wrong in my understanding (or missing something!) and would happily correct if I've misunderstood what they are offering.  \n\nTo learn more about this popular and well-known category of object, watch @LinusTech from a year ago https://www.youtube.com/watch?v=FyeCn7HlLck\n\n— @jsrailton\n\nSocial media & discussions · Social post · by jsrailton",
    "date_published": "2026-03-04T02:36:35Z",
@@ -18170,7 +18170,7 @@
   },
   {
    "id": "L00100",
-   "url": "http://concerns.py.",
+   "url": "https://concerns.py./",
    "title": "banteg (@banteg) on X",
    "content_text": "top 1% engineer reporting in:\n\nyour central domain type is a dict. Finding is a TypedDict, which means every access is .get(\"key\", {}).get(\"pls_work\") chains with no methods, no encapsulation, no runtime validation. meanwhile Concern next door is a frozen dataclass. you have four different type strategies (TypedDict, dataclass, frozen dataclass, NamedTuple) for domain objects with zero consistent philosophy for when to use which\n\nthe result is 2,386 .get() calls, 312 isinstance(x, dict) guards, and 119 .setdefault() patches across the codebase. ensure_state_defaults() is 60 lines of mutation without types — accepts StateModel | dict, mutates in-place, returns None. the TypedDict says \"this has structure\" and then the function treats it as a bag of arbitrary keys. this is what pydantic was invented for. you're hand-rolling a worse version of it across every file that touches state\n\ndict[str, Any] is the real type system. config is dict[str, Any], detail is dict[str, Any], state gets passed as dict[str, Any] in http://concerns.py. the TypedDicts and dataclasses are a layer of aspiration over a runtime reality of untyped dicts\n\nTier IntEnum (1-4) exists but findings store tier: int and validation manually checks tier < 1 or tier > 4. Status StrEnum exists but 155 callsites still use raw strings like \"open\", \"fixed\", \"wontfix\". you built the enums and then didn't use them\n\nfour getter functions that each do return state.get(\"key\") — get_overall_score, get_objective_score, get_strict_score, get_verified_strict_score. these exist because Finding is a dict and you want property-like access without making it an object.\n\nPROJECT_ROOT lives in _internal/text_utils.py as a module-level side effect, imported by 40 files. you then built get_project_root() that checks a ContextVar override, but half the codebase still references the stale module-level constant directly. paths_api.py exists to paper over this split with sentinel-comparison gymnastics. your state directory location is determined by a module called \"text utils\"\n\nlazy import gymnastics everywhere. __getattr__ in __init__.py, sys.modules lookups in hook_registry with a fallback to importlib.reload(), try/except ImportError inside function bodies to dodge circular deps. when you need this many runtime import tricks, the dependency graph is telling you something\n\nyour facade modules http://state.py, http://scoring.py, work_queue.py, http://plan.py, output_api.py are just piles of re-imports from _state/, _scoring/ etc. the underscore \"private\" modules have their entire API re-exported publicly. the privacy is theater. you added five layers of indirection and got nothing for it. http://utils.py is a deprecated facade that re-exports all of the above — facades on facades on facades\n\n_coerce_positive_int is defined identically — character for character — in both core/_internal/coercions.py and app/commands/review/batches.py. _coerce_review_batch_file_limit is copy-pasted between review/prepare.py and review/batch.py. normalize_dimension_name exists in three separate files. ~60 normalize/coerce functions spread across the codebase instead of one validation layer. you built a tool that detects duplication and it has copy-pasted code in it\n\nLangConfig is a god object with 30+ fields, security detection methods, value coercion, normalization, runtime settings, and a 40-line hand-rolled type coercion switch statement. the tool that detects god classes IS a god class. the irony is structural\n\n5 explicit global statements in runtime modules. register_scoring_policy() mutates DETECTOR_SCORING_POLICIES, then _rebuild_derived() mutates DIMENSIONS, DIMENSIONS_BY_NAME, FILE_BASED_DETECTORS in-place so \"all references see the updates.\" your own tool has a detector for \"global mutable config\" patterns. it would flag itself\n\nmypy config: follow_imports = \"skip\", covering exactly 15 of 669 files. you declare Typing :: Typed in your classifiers. this is not typed\n\nthe scoring system is incomprehensible. 4 score modes, tier weights, confidence weights, MIN_SAMPLE dampening, HOLISTIC_MULTIPLIER (10x), SUBJECTIVE_WEIGHT_FRACTION (0.60), per-dimension weights with \"high elegance\" weighted at 22.0 and \"naming quality\" at 2.0. these are vibes encoded as floats.\n\nverified_strict mode penalizes FIXED findings. FAILURE_STATUSES_BY_MODE[\"verified_strict\"] includes \"fixed\" and \"false_positive\". fixing things hurts your score until a scan confirms it. this is adversarial UX dressed up as rigor\n\ntier weights create perverse incentives. T4 (major refactors) penalize 4x more than T1 (auto-fixes). T4s are also the hardest to fix. the system punishes you most for the problems you're least equipped to address quickly\n\nthe scoring engine aggregates floats using float() casts wrapped in blind except (TypeError, ValueError): return 0.0. your telemetry mathematically equates None, \"N/A\", empty dicts, and missing keys to a flawless zero penalty\n\nthe anti-gaming system assumes adversarial users. subjective_integrity, wontfix penalties, SUBJECTIVE_TARGET_MATCH_TOLERANCE to detect scores \"suspiciously close\" to target. if users are gaming the score, the score is measuring the wrong thing. you don't solve a metrics problem by adding more metrics\n\nthe review subsystem is 14,000 lines across 56 files, including three separate prepare modules and six batch-related files. runner_helpers.py alone is 1,487 lines. your own tool flags files over 500 lines\n\nthe concern generator is a shadow scoring engine. 540 lines that extract signals, classify types, build evidence tuples, and generate LLM questions — a parallel evaluation system bolted onto the side of the actual scoring system, with its own thresholds (params >= 8, nesting >= 6) that don't share constants with the detectors that produced the signals\n\nthe plan subsystem is project management bolted onto a linter. clusters, skip entries, superseded entries, version numbers, reconciliation, auto-clustering, stale dimension syncing. a linter should tell you what's wrong. it shouldn't also be jira\n\nmagic numbers everywhere. noise budget 10, complexity min LOC 50, dupe threshold 15, large file 300/500, minority convention 15%, systemic smell 5 files, single-use LOC 20-300, MIN_SAMPLE 200, HOLISTIC_MULTIPLIER 10. some are constants, some are defaults, some are inline literals. no unifying configuration surface\n\n255 __all__ declarations maintained by hand, 30-60 items each in the facade modules, manually synced. one missed symbol and something silently breaks\n\nshelling out synchronously to npx jscpd and silently treating timeout or FileNotFoundError as \"no duplicates found.\" a core static analysis engine shouldn't lie about codebase health just because the user doesn't have node installed\n\nloading entire files into memory via read_text().splitlines() just to count LOC. a reliably stupid way to OOM your own scanning tool on large codebases\n\n6 broad except Exception sites in production. 8 more in tests. swallowing OSError and UnicodeDecodeError with generic \"best-effort\" loggers inside tight loops. silent, non-deterministic partial failures are a core execution flaw, not a feature\n\ndel lang_name  # Reserved for future use. accepting a parameter you don't use, deleting it to silence the linter, and leaving a comment about future plans. just don't accept it yet\n\nthe codebase works and the domain model is coherent at the concept level. but it's a 669-file python project that detects code quality issues, built with code quality issues it would flag in itself. the abstractions aren't unclear so much as they're an onion of indirection with no actual encapsulation at the center. swap the TypedDicts for pydantic models, delete the facade files, centralize coercion, and half your codebase evaporates.\n\n— @banteg\n\nSocial media & discussions · Social post · by banteg",
    "date_published": "2026-03-02T18:53:54Z",
@@ -18552,7 +18552,7 @@
   },
   {
    "id": "L00074",
-   "url": "http://github.com/papercomputeco/stereos",
+   "url": "https://github.com/papercomputeco/stereos",
    "title": "John McBride (@johncodes) on X",
    "content_text": "🧃 Introducing stereOS: a Linux based operating system hardened and purpose built for AI agents.\n\nIt's clear that agents need an ACTUAL operating system (not what people are calling an \"OS\") to witness the full breadth and depth of their capabilities while mitigating the blast radius of autonomous, untrusted actors.\n\nBut there are so many problems with AI sandboxes today:\n\n* Going out to the apple store and buying a mac mini will never scale and is way too expensive (obviously)\n* Running in Docker is too restrictive (agents can't stand up their own container infrastructure, no sub virtualization, docker-in-docker is very broken)\n* Firecracker strips all the hardware so GPU PCIe passthrough, secure boot, FIPs, etc. is out of the question.\n* Native VMs are too fat and the overhead of 1 agent per VM is too much.\n\nstereOS takes a different approach: it's a full NixOS system that you boot and then kick off agent sandboxes inside with gVisor + /nix/store namespace mounting. Each agent gets their own kernel and the /nix/store is read only by nature. Even if the agent was somehow able to escape the gVisor virtual kernel, they'd land on the NixOS system as the \"agent\" user! Not your actual hardware!!\n\nIf you want to take a defense-in-depth approach, we support \"native\" agents that run at the system level kicked off by our `agentd` utility. These agents, on their own, can manage and kick off other sub agents using the internal sandboxing mechanisms.\n\nToday, we're open sourcing all of this:\n\n* stereOS: our purpose built Linux OS - http://github.com/papercomputeco/stereos\n* masterblaster: client utility to launch, manage, and orchestrate agents - http://github.com/papercomputeco/masterblaster\n* stereosd: the stereOS system control plane daemon - http://github.com/papercomputeco/stereosd\n* agentd: the stereOS system agent management daemon - http://github.com/papercomputeco/agentd\n\nGive it a try, throw us a star, and let me know what you think 🧃⭐️\n\n— @johncodes\n\nSocial media & discussions · Social post · by johncodes",
    "date_published": "2026-02-27T17:02:57Z",
@@ -18582,7 +18582,7 @@
   },
   {
    "id": "L00072",
-   "url": "http://statsig.com/pragmatic",
+   "url": "https://statsig.com/pragmatic",
    "title": "Gergely Orosz (@GergelyOrosz) on X",
    "content_text": "How has the day-to-day workflow of Mitchell Hashimoto (@mitchellh) changed, thanks to AI tools?\n\nTimestamps:\n\n00:00 Intro\n07:19 HashiCorp origins\n18:22 The 2010s startup scene in SF \n23:11 Funding HashiCorp\n25:23 The \"Hashi stack\"\n38:28 The open-core pivot\n48:08 Taking HashiCorp public\n51:58 The almost-VMware acquisition\n59:10 Mitchell’s take on AWS, GCP and Azure\n01:06:02 AI’s impact on open source\n01:07:00 Ghostty\n01:19:13 How Mitchell uses AI \n01:28:36 Open source + AI\n01:31:46 The problem of Git and monorepos\n01:39:57 Mitchell’s hiring practices\n01:47:52 Mitchell’s AI adoption journey\n01:50:41 Advice to future founders\n01:55:03 Closing\n\nAlso on YouTube, Spotify and Apple (see the next tweet)\n\nBrought to you by:\n\n• Statsig — ⁠ The unified platform for flags, analytics, experiments, and more. http://statsig.com/pragmatic\n\n• Sonar – The makers of SonarQube, the industry standard for automated code review. Join me online at the Sonar Summit on March 3rd: http://sonarsource.com/pragmatic/sonarsummit?utm_medium=paid&utm_source=pragmaticengineer&utm_campaign=ss-sonar-summit26&utm_content=podcast-sonar-summit&utm_term=ww-all-x&s_category=Paid&s_source=Paid%20Other&s_origin=pragmaticengineer\n\n• WorkOS – Everything you need to make your app enterprise ready. https://workos.com/\n\n— @GergelyOrosz\n\nSocial media & discussions · Social post · by GergelyOrosz",
    "date_published": "2026-02-27T17:02:15Z",
@@ -19550,7 +19550,7 @@
   },
   {
    "id": "L00002",
-   "url": "https://www.databricks.com/company/newsroom/press-releases/databricks-grows-65-yoy-surpasses-5-4-billion-revenue-run-rate",
+   "url": "https://databricks.com/company/newsroom/press-releases/databricks-grows-65-yoy-surpasses-5-4-billion-revenue-run-rate",
    "title": "Databricks Grows >65% YoY, Surpasses $5.4 Billion Revenue Run-Rate, Doubles Down on Lakebase and...",
    "content_text": "I now constantly get questions about the SAAS meltdown, role of AI, system of records etc. I don't have an answer to all these. \n\nBut I do know that we saw an acceleration in our business in Q2, Q3, and now finished the year with accelerating Q4. \n\nThe question is, why?\n\nShort answer: AI. But the underlying reason is subtle. We are growing fast because we are finally removing the biggest bottleneck in data: the technical barrier to entry. \n\nFor years, if you didn’t know SQL, Python, you were locked out of the value chain. That has changed fundamentally with the 𝐆𝐞𝐧𝐢𝐞 𝐟𝐚𝐦𝐢𝐥𝐲, and it is the \"secret sauce\" behind our recent momentum:\n• 𝐆𝐞𝐧𝐢𝐞: Analysts can query data without any SQL. I use this every day myself.\n• 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐆𝐞𝐧𝐢𝐞: Builds end-to-end AI models for you, similar to Cursor for ML on your data.\n• 𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫 𝐆𝐞𝐧𝐢𝐞: Write Spark pipelines, does plumbing, troubleshooting. \n\nWe've been talking about DATA + AI democratization, but generative AI finally enabled it in a way that wasn't possible before. That's why we're seeing a market response. \n\nTake 𝐋𝐚𝐤𝐞𝐛𝐚𝐬𝐞 𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐬. We launched this serverless engine for agents and apps recently. At 8 months into its journey, its revenue is already 2x what our Data Warehouse product was at the same stage.\n\nAll this taken together, we ended up with the following stats for Q4: \n🚀 $5.4B Revenue Run-Rate, growing >65% YoY \n🚀 $1.4B AI Revenue Run-Rate\n🚀 FCF Positive for the year \n🚀 NRR >>140%\n\nhttps://www.databricks.com/company/newsroom/press-releases/databricks-grows-65-yoy-surpasses-5-4-billion-revenue-run-rate\n\n— @alighodsi\n\nSocial media & discussions · Social post · by alighodsi",
    "date_published": "2026-02-13T01:14:52Z",

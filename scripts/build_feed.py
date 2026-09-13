@@ -10,7 +10,11 @@ its text in the body); a post that stands alone keeps its own URL and text.
 """
 import csv
 import json
+import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from import_slack_export import canonical  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 CATALOG = ROOT / "catalog" / "links.csv"
@@ -44,7 +48,7 @@ def main() -> None:
         post = resolved.get(r["url"]) or {}
         # A post that points somewhere is a pointer: the item is the page it
         # points at, and the post rides along as the reason it was kept.
-        end = post.get("end_url")
+        end = canonical(post["end_url"]) if post.get("end_url") else None
         item = {
             "id": r["id"],
             "url": end or r["url"],
