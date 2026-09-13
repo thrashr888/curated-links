@@ -283,16 +283,6 @@
    "image": "https://jf.x.com/images/media-preview/2097212631975428236"
   },
   {
-   "id": "L01405",
-   "url": "https://waveshare.com/esp32-s3-touch-amoled-1.75c.htm?sku=33691&aff_id=Waveshare",
-   "title": "ESP32-S3 1.75inch AMOLED Round Touch Display Development Board, 466 × 466 resolution, Aluminum Alloy Case, Onboard Dual Microphones Array, Portable Mini Display | ESP32-S3-Touch-AMOLED-1.75C",
-   "content_text": "Websites & products · Web page",
-   "date_published": "2026-09-09T23:55:47Z",
-   "tags": [
-    "Websites & products"
-   ]
-  },
-  {
    "id": "L01404",
    "url": "https://eraser.io/blog/open-sourcing-eraser-diagrams",
    "title": "Open-sourcing Eraser Diagrams – Eraser",
@@ -863,21 +853,6 @@
     }
    ],
    "image": "https://pbs.twimg.com/media/HRTt4ugbQAAtjgh.jpg:large"
-  },
-  {
-   "id": "L01361",
-   "url": "https://github.com/trycua/cua",
-   "title": "trycua/cua",
-   "content_text": "Code & repositories · Repository · by trycua · github.com/trycua/cua",
-   "date_published": "2026-09-07T00:53:08Z",
-   "tags": [
-    "Code & repositories"
-   ],
-   "authors": [
-    {
-     "name": "trycua"
-    }
-   ]
   },
   {
    "id": "L01360",
@@ -1855,16 +1830,6 @@
    "image": "https://pbs.twimg.com/media/HQd7MeYWEAACLSF.jpg:large"
   },
   {
-   "id": "L01285",
-   "url": "https://ordinals.com/content/78a915a9b7590a229e3308ae86bd1d24a23ca1f2e1d95556380f8d56b25025a8i0",
-   "title": "ordinals.com/content/78a915a9b7590a229e3308ae86bd1d24a23ca1f2e1d95556380f8d56b25025a8i0",
-   "content_text": "Websites & products · Web page",
-   "date_published": "2026-08-26T20:32:12Z",
-   "tags": [
-    "Websites & products"
-   ]
-  },
-  {
    "id": "L01284",
    "url": "https://solidjs.com/blog/async-solid-write-sync-run-async",
    "title": "solidjs.com/blog/async-solid-write-sync-run-async",
@@ -2108,21 +2073,6 @@
     }
    ],
    "image": "https://pbs.twimg.com/amplify_video_thumb/2092016051819278337/img/vbZyyveCGjUgH0k_.jpg"
-  },
-  {
-   "id": "L01266",
-   "url": "https://github.com/kbhuw/gbird",
-   "title": "kbhuw/gbird",
-   "content_text": "Code & repositories · Repository · by kbhuw · github.com/kbhuw/gbird",
-   "date_published": "2026-08-25T01:25:51Z",
-   "tags": [
-    "Code & repositories"
-   ],
-   "authors": [
-    {
-     "name": "kbhuw"
-    }
-   ]
   },
   {
    "id": "L01265",
@@ -3497,21 +3447,6 @@
    "image": "https://jf.x.com/images/media-preview/2085001943693549887"
   },
   {
-   "id": "L01162",
-   "url": "https://github.com/denoland/celld",
-   "title": "denoland/celld",
-   "content_text": "Code & repositories · Repository · by denoland · github.com/denoland/celld",
-   "date_published": "2026-08-06T16:34:39Z",
-   "tags": [
-    "Code & repositories"
-   ],
-   "authors": [
-    {
-     "name": "denoland"
-    }
-   ]
-  },
-  {
    "id": "L01161",
    "url": "https://celld.dev/",
    "title": "celld — Durable Objects, self-hosted",
@@ -3833,7 +3768,7 @@
    "id": "L01138",
    "url": "https://vercel.com/plugin",
    "title": "Vercel Plugin - Vercel",
-   "content_text": "Websites & products · Web page",
+   "content_text": "Websites & products · Web page\n\n— also shared: https://x.com/rauchg/status/2077847855306596563",
    "date_published": "2026-07-30T00:14:27Z",
    "tags": [
     "Websites & products"
@@ -4439,23 +4374,6 @@
    "authors": [
     {
      "name": "mitchellh"
-    }
-   ]
-  },
-  {
-   "id": "L01093",
-   "url": "https://vercel.com/plugin",
-   "title": "Vercel Plugin - Vercel",
-   "content_text": "The case for your own public agent, on your .com.\n\n0️⃣ First, the anti-case. If you haven't shipped high quality APIs for agents, start there. OpenAPI specs, SDKs, CLIs and MCPs as appropriate.\n\n1️⃣ Convenience. Not every customer has a harness 'at the ready' for every possible interaction with your product and company. Shipping one on your own domain covers a lot of spontaneous requirements.\n\n2️⃣ Security. When you go to 𝚟𝚎𝚛𝚌𝚎𝚕.𝚌𝚘𝚖 and talk to Agent, we put in the work to cover audit trails, a least-privilege permission model, and extra assurances to ensure security, privacy and data integrity. It's fully cloud-based and sandboxed, vs. a sprawl of static credentials on users' machines.\n\n3️⃣ Proactivity. We're still in the \"human enters prompt\" phase of AI. Our cloud-based agent can act on anomaly alerts triggered by exceptions, attacks, usage spikes. Our agent needs to monitor your infra while you sleep. You can, of course, set up workflows and schedules with your own harnesses, but it gets much harder.\n\nI think it's ultimately a sequencing thing. I agree with Mitchell that the priority is to give users choice and flexibility. We give people http://vercel.com/plugin to integrate with every agent out there. Our CLI and MCP are constantly improving. Our own Agent re-uses the same http://skills.sh everyone gets. All our sites are Markdown-over-the-wire if you're an agent.\n\nBased on the data and anecdata available to me, this strategy is working quite well, but YMMV.\n\n— @rauchg\n\nSocial media & discussions · Social post · by rauchg",
-   "date_published": "2026-07-17T19:25:14Z",
-   "tags": [
-    "Social media & discussions"
-   ],
-   "external_url": "https://x.com/rauchg/status/2077847855306596563",
-   "summary": "Turn your coding agent into a Vercel expert. One install loads a live knowledge graph and hand-picked skills into your agent of choice.",
-   "authors": [
-    {
-     "name": "rauchg"
     }
    ]
   },
@@ -5160,29 +5078,12 @@
    "id": "L01039",
    "url": "https://build.nvidia.com/",
    "title": "Try NVIDIA NIM APIs",
-   "content_text": "Websites & products · Homepage",
+   "content_text": "Websites & products · Homepage\n\n— also shared: https://x.com/k2sbhai/status/2071981082594210054",
    "date_published": "2026-07-07T22:49:48Z",
    "tags": [
     "Websites & products"
    ],
    "image": "https://build.nvidia.com/opengraph-image.jpg?6ec102a0470b935b"
-  },
-  {
-   "id": "L01038",
-   "url": "https://build.nvidia.com/",
-   "title": "K2S (@k2sbhai) on X",
-   "content_text": "nvidia is casually giving you access to 5 frontier chinese AI models for free 😳\n\nno credit card \nno subscriptions\n just one API key that unlocks everything\n\nwhat you get for $0:  \n\n- DeepSeek V4 Flash for ultra-fast inference\n- MiniMax M3 as a drop-in coding assistant\n- Qwen3.5-397B for advanced reasoning tasks\n- Kimi K2.6 for agentic workflows and long chains\n- GLM 5.1 as a reliable everyday model\n\nwhy this is huge:\n\n> no paying separate subscriptions for different models\n> no changing your existing workflows or tools\n> no vendor lock-in since everything is OpenAI-compatible\n\ngetting started takes less than 2 minutes:\n\n1. go to http://build.nvidia.com\n2. sign up and verify your account\n3. generate your nvapi key\n4. set your base URL to http://integrate.api.nvidia.com/v1\n5. pick any model and start building\n\nsupported models:\n\n> minimaxai/minimax-m3\n> qwen/qwen3.5-397b-a17b\n> moonshotai/kimi-k2.6\n> zhipuai/glm-5.1\n> deepseek/deepseek-v4-flash\n\npro tip:\n\nuse DeepSeek V4 Flash for speed, Qwen for hard reasoning, Kimi for agents, and MiniMax as your daily coding companion\n\nthe best part?\n\none free key gives you access to 100+ models across NVIDIA's catalog\n\n~40 requests per minute is more than enough for most developers and personal projects\n\n5 frontier models that compete with GPT and Claude, all without spending a dollar\n\nbookmark this and claim your free API key before the limits change 👀\n\n— @k2sbhai\n\nSocial media & discussions · Social post · by k2sbhai",
-   "date_published": "2026-07-07T22:49:37Z",
-   "tags": [
-    "Social media & discussions"
-   ],
-   "external_url": "https://x.com/k2sbhai/status/2071981082594210054",
-   "authors": [
-    {
-     "name": "k2sbhai"
-    }
-   ],
-   "image": "https://pbs.twimg.com/media/HMEb-vRXUAAfjlc.jpg:large"
   },
   {
    "id": "L01037",
@@ -6196,22 +6097,6 @@
    "image": "https://pbs.twimg.com/media/HLVxIJ3WcAArlkS.jpg:large"
   },
   {
-   "id": "L00963",
-   "url": "https://github.com/SantanderAI",
-   "title": "Santander AI Open Source",
-   "content_text": "Code & repositories · GitHub profile or page · AI models & research · by SantanderAI",
-   "date_published": "2026-06-26T00:10:17Z",
-   "tags": [
-    "Code & repositories",
-    "AI models & research"
-   ],
-   "authors": [
-    {
-     "name": "SantanderAI"
-    }
-   ]
-  },
-  {
    "id": "L00962",
    "url": "https://x.com/CJHandmer/status/2068927128134131878",
    "title": "Casey Handmer (@CJHandmer) on X",
@@ -6776,20 +6661,6 @@
    ]
   },
   {
-   "id": "L00922",
-   "url": "https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing",
-   "title": "How the Open Knowledge Format can improve data sharing | Google Cloud Blog",
-   "content_text": "Articles & announcements · Article or announcement · Agent memory & knowledge; Cloud & infrastructure; Data & databases",
-   "date_published": "2026-06-16T02:09:04Z",
-   "tags": [
-    "Articles & announcements",
-    "Agent memory & knowledge",
-    "Cloud & infrastructure",
-    "Data & databases"
-   ],
-   "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/09_-_Data_Analytics_tFH57V6.max-2600x2600.jpg"
-  },
-  {
    "id": "L00921",
    "url": "https://x.com/clairevo/status/2065201211025117263",
    "title": "claire vo :black_heart: (@clairevo) on X",
@@ -6852,21 +6723,6 @@
    "image": "https://pbs.twimg.com/media/HKnRbKSa0AAzL1d.jpg:large"
   },
   {
-   "id": "L00917",
-   "url": "https://github.com/NVIDIA/SkillSpector",
-   "title": "NVIDIA/SkillSpector",
-   "content_text": "Code & repositories · Repository · by NVIDIA · github.com/NVIDIA/SkillSpector",
-   "date_published": "2026-06-16T02:07:36Z",
-   "tags": [
-    "Code & repositories"
-   ],
-   "authors": [
-    {
-     "name": "NVIDIA"
-    }
-   ]
-  },
-  {
    "id": "L00916",
    "url": "https://project-nullframe.vercel.app/",
    "title": "mi©k (@mickces) on X",
@@ -6882,16 +6738,6 @@
     }
    ],
    "image": "https://jf.x.com/images/media-preview/2065387473794994355"
-  },
-  {
-   "id": "L00915",
-   "url": "https://project-nullframe.vercel.app/",
-   "title": "NULLFRAME · SYS.V4",
-   "content_text": "Websites & products · Homepage",
-   "date_published": "2026-06-16T02:07:12Z",
-   "tags": [
-    "Websites & products"
-   ]
   },
   {
    "id": "L00914",
@@ -6924,21 +6770,6 @@
      "name": "vercel_dev"
     }
    ]
-  },
-  {
-   "id": "L00912",
-   "url": "https://vercel.com/changelog/program-agent-harnesses-with-ai-sdk",
-   "title": "Program Claude Code, Codex, Pi and other agent harnesses with AI SDK - Vercel",
-   "content_text": "Articles & announcements · Article or announcement · AI coding & software development; AI agents & automation; AI models & research; Developer tools",
-   "date_published": "2026-06-16T02:06:39Z",
-   "tags": [
-    "Articles & announcements",
-    "AI coding & software development",
-    "AI agents & automation",
-    "AI models & research",
-    "Developer tools"
-   ],
-   "image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/4fKUAQMBGdQAclkp5lXIoy/0861caaf17ccb49a6bc89f883bea7f82/image.png"
   },
   {
    "id": "L00911",
@@ -7220,7 +7051,7 @@
    "id": "L00892",
    "url": "https://github.com/apple/coreai-models",
    "title": "apple/coreai-models",
-   "content_text": "Code & repositories · Repository · by apple · github.com/apple/coreai-models",
+   "content_text": "Code & repositories · Repository · by apple · github.com/apple/coreai-models\n\n— also shared: https://x.com/akshay_pachaar/status/2064416235958509930",
    "date_published": "2026-06-16T01:57:38Z",
    "tags": [
     "Code & repositories"
@@ -7230,23 +7061,6 @@
      "name": "apple"
     }
    ]
-  },
-  {
-   "id": "L00891",
-   "url": "https://github.com/apple/coreai-models",
-   "title": "Akshay :rocket: (@akshay_pachaar) on X",
-   "content_text": "Apple finally did it.\n\nIts new framework, Core AI, runs models entirely on Apple silicon, so inference happens on the user's device with zero server calls and zero token bills.\n\nThat means Qwen, Mistral, and SAM3 running natively across iPhone, iPad, Mac, and Vision Pro.\n\nIt's a memory-safe Swift API that compiles models ahead of time for near-instant load. Pulling one in takes a few lines:\n\nlet segmenter = try await ImageSegmenter(resourcesAt: sam3ModelURL)\nlet response = try await segmenter.segment(image: inputImage, prompt: \"flower\")\n\nThe launch goes beyond the runtime, though.\n\nIt ships curated open models packaged for Swift, PyTorch extensions to convert your own, and an optimizer that shrinks models layer by layer with minimal accuracy loss.\n\nThere's also a macOS debugger that profiles performance and traces behavior back to your original Python, plus Xcode tools to validate models before they ship.\n\nFor any team that wanted real on-device AI without a cloud bill attached to every user, this is the answer.\n\nModels repo: https://github.com/apple/coreai-models\n\n— @akshay_pachaar\n\nSocial media & discussions · Social post · by akshay_pachaar",
-   "date_published": "2026-06-16T01:57:28Z",
-   "tags": [
-    "Social media & discussions"
-   ],
-   "external_url": "https://x.com/akshay_pachaar/status/2064416235958509930",
-   "authors": [
-    {
-     "name": "akshay_pachaar"
-    }
-   ],
-   "image": "https://pbs.twimg.com/media/HKZA9htb0AAMIGi.jpg:large"
   },
   {
    "id": "L00890",
@@ -7548,17 +7362,6 @@
     }
    ],
    "image": "https://jf.x.com/images/media-preview/2063002245726359756"
-  },
-  {
-   "id": "L00869",
-   "url": "https://upcli.dev/",
-   "title": "up: live development servers on Vercel Sandbox",
-   "content_text": "Websites & products · Homepage · Security & identity",
-   "date_published": "2026-06-08T21:47:56Z",
-   "tags": [
-    "Websites & products",
-    "Security & identity"
-   ]
   },
   {
    "id": "L00868",
@@ -8049,17 +7852,6 @@
     {
      "name": "dosco"
     }
-   ]
-  },
-  {
-   "id": "L00830",
-   "url": "https://aithy.dev/",
-   "title": "Aithy - private local AI runtime",
-   "content_text": "Websites & products · Homepage · AI models & research",
-   "date_published": "2026-05-26T23:45:15Z",
-   "tags": [
-    "Websites & products",
-    "AI models & research"
    ]
   },
   {
@@ -9940,18 +9732,6 @@
    "image": "https://pbs.twimg.com/amplify_video_thumb/2048504663943888896/img/td5MIYO7oa20cl3n.jpg:large"
   },
   {
-   "id": "L00689",
-   "url": "https://cloud.browser-use.com/bux",
-   "title": "cloud.browser-use.com/bux",
-   "content_text": "Websites & products · Web page · Cloud & infrastructure; AI agents & automation",
-   "date_published": "2026-04-28T22:59:46Z",
-   "tags": [
-    "Websites & products",
-    "Cloud & infrastructure",
-    "AI agents & automation"
-   ]
-  },
-  {
    "id": "L00688",
    "url": "https://ui.sh/",
    "title": "Dott (@DottChen) on X",
@@ -9967,19 +9747,6 @@
     }
    ],
    "image": "https://pbs.twimg.com/amplify_video_thumb/2048733156300521472/img/w8pItaJ7hcYU7urB.jpg:large"
-  },
-  {
-   "id": "L00687",
-   "url": "https://ui.sh/",
-   "title": "ui.sh — Turn your terminal into a design engineer",
-   "content_text": "Websites & products · Homepage · Design & frontend; Developer tools",
-   "date_published": "2026-04-28T22:59:02Z",
-   "tags": [
-    "Websites & products",
-    "Design & frontend",
-    "Developer tools"
-   ],
-   "image": "https://ui.sh/og-image.png"
   },
   {
    "id": "L00686",
@@ -10508,20 +10275,6 @@
    "image": "https://nesbitt.io/images/boxes.png"
   },
   {
-   "id": "L00647",
-   "url": "https://opencomputer.dev/",
-   "title": "OpenComputer – The background agent cloud",
-   "content_text": "Websites & products · Homepage · Cloud & infrastructure; AI agents & automation; AI models & research",
-   "date_published": "2026-04-24T05:55:40Z",
-   "tags": [
-    "Websites & products",
-    "Cloud & infrastructure",
-    "AI agents & automation",
-    "AI models & research"
-   ],
-   "image": "https://opencomputer.dev/social-preview.png"
-  },
-  {
    "id": "L00646",
    "url": "https://evomap.ai/",
    "title": "EvoMap - AI Self-Evolution Infrastructure",
@@ -10746,7 +10499,7 @@
    "id": "L00629",
    "url": "https://build.nvidia.com/models",
    "title": "build.nvidia.com/models",
-   "content_text": "Websites & products · Web page",
+   "content_text": "Websites & products · Web page\n\n— also shared: https://x.com/dhruvtwt_/status/2047006444701274380",
    "date_published": "2026-04-23T23:18:35Z",
    "tags": [
     "Websites & products"
@@ -10767,23 +10520,6 @@
      "name": "gm_mertd"
     }
    ]
-  },
-  {
-   "id": "L00627",
-   "url": "https://build.nvidia.com/models",
-   "title": "x.com/dhruvtwt_/status/2047006444701274380",
-   "content_text": "Why is no one talking about this?\n\n@nvidia is offering around 80 AI models via hosted APIs absolutely for free.\n\nYou get access to MiniMax M2.7, GLM 5.1, Kimi 2.5, DeepSeek 3.2, GPT-OSS-120B, Sarvam-M etc.\n\nThis plugs straight into OpenClaude, OpenCode, Zed IDE, Hermes agent and even with Cursor IDE.\n\nSetup:\n– Grab API key: https://build.nvidia.com/models\n– base_url = \"https://integrate.api.nvidia.com/v1\"\n– api_key = \"$NVIDIA_API_KEY\"\n– select model (e.g. minimaxai/minimax-m2.7)\n\nIf you’re building or experimenting, this is basically free inference.\n\nLock in and start building today anon.\n\nThank me later.\n\n— @dhruvtwt_\n\nSocial media & discussions · Social post · by dhruvtwt_",
-   "date_published": "2026-04-23T23:16:16Z",
-   "tags": [
-    "Social media & discussions"
-   ],
-   "external_url": "https://x.com/dhruvtwt_/status/2047006444701274380",
-   "authors": [
-    {
-     "name": "dhruvtwt_"
-    }
-   ],
-   "image": "https://pbs.twimg.com/media/HGhtdU7aMAAl5f5.png?name=orig"
   },
   {
    "id": "L00626",
@@ -11585,21 +11321,6 @@
     }
    ],
    "image": "https://pbs.twimg.com/media/HGbuBHjbcAAAIy7.jpg:large"
-  },
-  {
-   "id": "L00566",
-   "url": "https://github.com/tw93/kami",
-   "title": "tw93/Kami",
-   "content_text": "Code & repositories · Repository · by tw93 · github.com/tw93/kami",
-   "date_published": "2026-04-21T23:37:31Z",
-   "tags": [
-    "Code & repositories"
-   ],
-   "authors": [
-    {
-     "name": "tw93"
-    }
-   ]
   },
   {
    "id": "L00565",
@@ -12589,21 +12310,6 @@
    "image": "https://pbs.twimg.com/media/HFelyKWWcAAsz8p.jpg:large"
   },
   {
-   "id": "L00495",
-   "url": "https://github.com/jo-inc/camofox-browser",
-   "title": "jo-inc/camofox-browser",
-   "content_text": "Code & repositories · Repository · by jo-inc · github.com/jo-inc/camofox-browser",
-   "date_published": "2026-04-14T18:23:02Z",
-   "tags": [
-    "Code & repositories"
-   ],
-   "authors": [
-    {
-     "name": "jo-inc"
-    }
-   ]
-  },
-  {
    "id": "L00494",
    "url": "https://blueprint.am/",
    "title": "Blueprint.am - AI Hardware Design Tool",
@@ -13255,19 +12961,6 @@
    ]
   },
   {
-   "id": "L00448",
-   "url": "https://runcabinet.com/",
-   "title": "Cabinet: Free & Open-Source AI-First Knowledge Base",
-   "content_text": "Websites & products · Homepage · Agent memory & knowledge; AI models & research",
-   "date_published": "2026-04-03T21:48:44Z",
-   "tags": [
-    "Websites & products",
-    "Agent memory & knowledge",
-    "AI models & research"
-   ],
-   "image": "https://runcabinet.com/og.png"
-  },
-  {
    "id": "L00447",
    "url": "https://engineering.block.xyz/blog/protecting-our-systems-with-intelligence",
    "title": "Protecting Our Systems with Intelligence",
@@ -13740,19 +13433,6 @@
      "name": "tomieinlove"
     }
    ]
-  },
-  {
-   "id": "L00412",
-   "url": "https://opentraces.ai/",
-   "title": "open traces",
-   "content_text": "Websites & products · Homepage · Observability & evaluation; AI models & research",
-   "date_published": "2026-04-01T00:44:17Z",
-   "tags": [
-    "Websites & products",
-    "Observability & evaluation",
-    "AI models & research"
-   ],
-   "image": "https://opentraces.ai/og.png"
   },
   {
    "id": "L00411",
@@ -18408,18 +18088,6 @@
    ]
   },
   {
-   "id": "L00084",
-   "url": "https://agentation.dev/",
-   "title": "Agentation",
-   "content_text": "Websites & products · Homepage · AI agents & automation",
-   "date_published": "2026-02-27T17:05:42Z",
-   "tags": [
-    "Websites & products",
-    "AI agents & automation"
-   ],
-   "image": "https://agentation.dev/og-image.png"
-  },
-  {
    "id": "L00083",
    "url": "https://x.com/LiangZheng_06/status/2027324015954821565",
    "title": "Liang Zheng (@LiangZheng_06) on X",
@@ -18951,18 +18619,6 @@
    ]
   },
   {
-   "id": "L00047",
-   "url": "https://agents.craft.do/",
-   "title": "Craft Agents - The Open Source Agent Interface",
-   "content_text": "Websites & products · Homepage · AI agents & automation",
-   "date_published": "2026-02-20T00:41:14Z",
-   "tags": [
-    "Websites & products",
-    "AI agents & automation"
-   ],
-   "image": "https://agents.craft.do/og-image.png"
-  },
-  {
    "id": "L00046",
    "url": "https://supercmd.sh/",
    "title": "SuperCmd | AI-Native macOS Launcher",
@@ -19433,17 +19089,6 @@
    "tags": [
     "Websites & products"
    ]
-  },
-  {
-   "id": "L00011",
-   "url": "https://userinterface.wiki/",
-   "title": "userinterface.wiki",
-   "content_text": "Websites & products · Homepage",
-   "date_published": "2026-02-13T01:19:29Z",
-   "tags": [
-    "Websites & products"
-   ],
-   "image": "https://www.userinterface.wiki/open-graph/default.png"
   },
   {
    "id": "L00010",

@@ -74,6 +74,18 @@ def main() -> None:
         if image:
             item["image"] = image
         items.append(item)
+    # Two posts pointing at one page are one item — the newest keeps the
+    # slot, and the other posts ride along as the reasons it was kept.
+    by_url: dict[str, dict] = {}
+    deduped = []
+    for item in items:
+        first = by_url.get(item["url"])
+        if first is None:
+            by_url[item["url"]] = item
+            deduped.append(item)
+        elif item.get("external_url"):
+            first["content_text"] = f"{first['content_text']}\n\n— also shared: {item['external_url']}"
+    items = deduped
     feed = {
         "version": "https://jsonfeed.org/version/1.1",
         "title": "Curated Links",
