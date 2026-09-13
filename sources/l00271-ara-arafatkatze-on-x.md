@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by arafatkatze"
 resource: "https://x.com/arafatkatze/status/2034347048351502701"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-19T00:42:53Z"
 alchemy:
   source_type: "url"

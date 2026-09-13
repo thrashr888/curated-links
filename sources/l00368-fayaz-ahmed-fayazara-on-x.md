@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by fayazara"
 resource: "https://x.com/fayazara/status/2036536130330566855"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:18:33Z"
 alchemy:
   source_type: "url"

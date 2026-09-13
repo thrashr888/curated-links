@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by mattpocockuk"
 resource: "https://x.com/mattpocockuk/status/2036399142008688976"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:13:07Z"
 alchemy:
   source_type: "url"

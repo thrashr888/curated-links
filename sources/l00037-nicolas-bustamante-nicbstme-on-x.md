@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by nicbstme"
 resource: "https://x.com/nicbstme/status/2023501562480644501"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-17T23:20:37Z"
 alchemy:
   source_type: "url"

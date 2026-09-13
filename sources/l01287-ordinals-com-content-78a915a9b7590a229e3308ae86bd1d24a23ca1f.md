@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://ordinals.com/content/78a915a9b7590a229e3308ae86bd1d24a23ca1f2e1d95556380f8d56b25025a8i0"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-26T20:32:12Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by benjitaylor"
 resource: "https://x.com/benjitaylor/status/2036497249589739870"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:19:19Z"
 alchemy:
   source_type: "url"

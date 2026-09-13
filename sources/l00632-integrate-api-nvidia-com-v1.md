@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Developer tools"
 resource: "http://integrate.api.nvidia.com/v1"
 tags: [websites-products, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T23:18:35Z"
 alchemy:
   source_type: "url"

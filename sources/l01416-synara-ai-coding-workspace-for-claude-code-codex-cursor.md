@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI coding & software developmen
 resource: "https://www.trysynara.com/"
 tags: [websites-products, ai-coding-software-development, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-10T00:06:20Z"
 alchemy:
   source_type: "url"

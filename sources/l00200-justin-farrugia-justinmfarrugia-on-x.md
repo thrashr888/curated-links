@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by justinmfarrugia"
 resource: "https://x.com/justinmfarrugia/status/2031376622931046402"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-11T17:12:46Z"
 alchemy:
   source_type: "url"

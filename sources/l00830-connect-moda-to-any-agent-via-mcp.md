@@ -5,7 +5,7 @@ description: "Websites & products · Web page · MCP & agent integrations, AI ag
 resource: "https://moda.app/mcp"
 tags: [websites-products, mcp-agent-integrations, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-26T23:44:04Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://githubnext.com/projects/chopin/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-03T16:37:27Z"
 alchemy:
   source_type: "url"

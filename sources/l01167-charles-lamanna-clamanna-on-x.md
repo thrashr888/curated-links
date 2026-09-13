@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by clamanna"
 resource: "https://x.com/clamanna/status/2085129029099933962"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-06T16:35:20Z"
 alchemy:
   source_type: "url"

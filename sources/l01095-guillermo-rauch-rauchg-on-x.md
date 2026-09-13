@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by rauchg"
 resource: "https://x.com/rauchg/status/2077847855306596563"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-17T19:25:14Z"
 alchemy:
   source_type: "url"

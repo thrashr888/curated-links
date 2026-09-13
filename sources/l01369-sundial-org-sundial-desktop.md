@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by sundial-org"
 resource: "https://github.com/sundial-org/sundial-desktop"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T00:55:17Z"
 alchemy:
   source_type: "url"

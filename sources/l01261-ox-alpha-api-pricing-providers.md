@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI models & research, Developer
 resource: "https://openrouter.ai/stealth/ox-alpha"
 tags: [websites-products, ai-models-research, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-22T00:06:24Z"
 alchemy:
   source_type: "url"

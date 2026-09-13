@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI agents & automation"
 resource: "https://background-agents.com/landscape"
 tags: [websites-products, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-01T00:37:43Z"
 alchemy:
   source_type: "url"

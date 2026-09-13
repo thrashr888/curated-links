@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI agents & automation"
 resource: "https://www.nebula.gg/"
 tags: [websites-products, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-13T01:22:03Z"
 alchemy:
   source_type: "url"

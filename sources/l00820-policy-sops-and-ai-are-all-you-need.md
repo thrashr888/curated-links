@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI models &
 resource: "https://danielmiessler.com/blog/policy-sops-and-ai-are-all-you-need"
 tags: [articles-announcements, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-26T22:33:41Z"
 alchemy:
   source_type: "url"

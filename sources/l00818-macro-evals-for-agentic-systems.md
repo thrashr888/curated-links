@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI coding & software developmen
 resource: "https://developers.openai.com/cookbook/examples/partners/macro_evals_for_agentic_systems/macro_evals_for_agentic_systems"
 tags: [websites-products, ai-coding-software-development, observability-evaluation, ai-agents-automation, ai-models-research, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-26T22:32:50Z"
 alchemy:
   source_type: "url"

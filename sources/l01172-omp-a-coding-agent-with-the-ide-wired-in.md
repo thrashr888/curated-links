@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI coding & software developmen
 resource: "https://omp.sh/"
 tags: [websites-products, ai-coding-software-development, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-07T05:56:10Z"
 alchemy:
   source_type: "url"

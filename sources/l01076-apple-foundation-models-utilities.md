@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by apple"
 resource: "https://github.com/apple/foundation-models-utilities"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-15T21:00:03Z"
 alchemy:
   source_type: "url"

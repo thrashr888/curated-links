@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by neuralunlock"
 resource: "https://x.com/neuralunlock/status/2028208248688664941"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-02T18:48:44Z"
 alchemy:
   source_type: "url"

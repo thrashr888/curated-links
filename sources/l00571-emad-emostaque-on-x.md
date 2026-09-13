@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by EMostaque"
 resource: "https://x.com/EMostaque/status/2046276934011920549"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:39:17Z"
 alchemy:
   source_type: "url"

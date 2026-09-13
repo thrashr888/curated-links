@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by illegalstudio"
 resource: "https://github.com/illegalstudio/lazyagent"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:26:58Z"
 alchemy:
   source_type: "url"

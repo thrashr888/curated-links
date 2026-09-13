@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by steren"
 resource: "https://x.com/steren/status/2046961034179780710"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T23:20:44Z"
 alchemy:
   source_type: "url"

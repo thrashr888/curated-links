@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by bekacru"
 resource: "https://x.com/bekacru/status/2036463284694688143"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:17:30Z"
 alchemy:
   source_type: "url"

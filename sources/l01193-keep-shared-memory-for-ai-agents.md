@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Agent memory & knowledge, AI ag
 resource: "https://keep.md/"
 tags: [websites-products, agent-memory-knowledge, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T19:54:09Z"
 alchemy:
   source_type: "url"

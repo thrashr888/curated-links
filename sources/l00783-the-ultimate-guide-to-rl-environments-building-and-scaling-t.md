@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI models & research"
 resource: "https://huggingface.co/spaces/AdithyaSK/rl-environments-guide"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T15:42:22Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by codetaur"
 resource: "https://x.com/codetaur/status/2033010768107679925"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:28:28Z"
 alchemy:
   source_type: "url"

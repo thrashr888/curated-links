@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by adisingh"
 resource: "https://x.com/adisingh/status/2039134142072496541"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-02T00:59:27Z"
 alchemy:
   source_type: "url"

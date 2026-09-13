@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI agents & automation, AI mode
 resource: "https://msradam.github.io/theodosia/"
 tags: [websites-products, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-27T17:51:22Z"
 alchemy:
   source_type: "url"

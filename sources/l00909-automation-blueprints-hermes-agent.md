@@ -5,7 +5,7 @@ description: "Documentation & guides · Documentation · AI agents & automation"
 resource: "https://hermes-agent.nousresearch.com/docs/guides/automation-blueprints"
 tags: [documentation-guides, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T02:04:09Z"
 alchemy:
   source_type: "url"

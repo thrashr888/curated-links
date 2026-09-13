@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · Developer tools · by Tencent
 resource: "https://github.com/Tencent/teamai-cli"
 tags: [code-repositories, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-09T23:48:24Z"
 alchemy:
   source_type: "url"

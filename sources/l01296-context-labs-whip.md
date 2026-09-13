@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by context-labs"
 resource: "https://github.com/context-labs/whip"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-26T20:38:18Z"
 alchemy:
   source_type: "url"

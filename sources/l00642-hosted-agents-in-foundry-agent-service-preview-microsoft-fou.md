@@ -5,7 +5,7 @@ description: "Documentation & guides · Documentation · AI agents & automation"
 resource: "https://learn.microsoft.com/en-us/azure/foundry/agents/concepts/hosted-agents?view=foundry"
 tags: [documentation-guides, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T23:29:45Z"
 alchemy:
   source_type: "url"

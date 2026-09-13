@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI models & research"
 resource: "https://ai.meta.com/meta-ai/assistant/"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-22T00:39:58Z"
 alchemy:
   source_type: "url"

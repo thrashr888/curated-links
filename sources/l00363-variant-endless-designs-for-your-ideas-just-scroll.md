@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Design & frontend"
 resource: "https://variant.com/"
 tags: [websites-products, design-frontend]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:16:27Z"
 alchemy:
   source_type: "url"

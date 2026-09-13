@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Agent orche
 resource: "https://mozaik.jigjoy.ai/blog/the-interoperability-triangle"
 tags: [articles-announcements, agent-orchestration-workspaces, design-frontend, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-03T22:15:44Z"
 alchemy:
   source_type: "url"

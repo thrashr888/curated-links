@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by ChengleiSi"
 resource: "https://x.com/ChengleiSi/status/2030890883755782652"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:49:04Z"
 alchemy:
   source_type: "url"

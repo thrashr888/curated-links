@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://slim.sh/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:41:27Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by muxy-app"
 resource: "https://github.com/muxy-app/muxy"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T22:43:29Z"
 alchemy:
   source_type: "url"

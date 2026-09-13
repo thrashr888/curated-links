@@ -5,7 +5,7 @@ description: "Documentation & guides · Documentation · AI models & research"
 resource: "https://docs.mellea.ai/"
 tags: [documentation-guides, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-11T17:33:58Z"
 alchemy:
   source_type: "url"

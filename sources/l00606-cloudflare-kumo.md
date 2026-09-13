@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by cloudflare"
 resource: "https://github.com/cloudflare/kumo"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T20:55:52Z"
 alchemy:
   source_type: "url"

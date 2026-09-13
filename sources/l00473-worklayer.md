@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://www.myworklayer.com/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-08T23:04:53Z"
 alchemy:
   source_type: "url"

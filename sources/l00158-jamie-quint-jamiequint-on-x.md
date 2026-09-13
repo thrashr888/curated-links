@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by jamiequint"
 resource: "https://x.com/jamiequint/status/2029705203457609785"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:34:22Z"
 alchemy:
   source_type: "url"

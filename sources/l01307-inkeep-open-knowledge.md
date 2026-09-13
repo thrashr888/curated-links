@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · Agent memory & knowledge · b
 resource: "https://github.com/inkeep/open-knowledge"
 tags: [code-repositories, agent-memory-knowledge]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-27T16:12:56Z"
 alchemy:
   source_type: "url"

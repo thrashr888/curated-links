@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Design & frontend, Productivity
 resource: "https://sutro.email/"
 tags: [websites-products, design-frontend, productivity-collaboration, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:25:48Z"
 alchemy:
   source_type: "url"

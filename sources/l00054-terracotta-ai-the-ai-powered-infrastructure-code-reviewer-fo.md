@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI coding &
 resource: "https://tryterracotta.com/blog/anatomy-of-an-ai-powered-terraform-review"
 tags: [articles-announcements, ai-coding-software-development, cloud-infrastructure, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-26T05:39:36Z"
 alchemy:
   source_type: "url"

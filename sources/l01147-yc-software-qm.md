@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by yc-software"
 resource: "https://github.com/yc-software/qm"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-06T16:23:42Z"
 alchemy:
   source_type: "url"

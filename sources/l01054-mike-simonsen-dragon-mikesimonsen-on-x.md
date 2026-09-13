@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by mikesimonsen"
 resource: "https://x.com/mikesimonsen/status/2074135015794044965"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T23:06:08Z"
 alchemy:
   source_type: "url"

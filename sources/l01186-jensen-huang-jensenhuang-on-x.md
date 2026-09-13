@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by JensenHuang"
 resource: "https://x.com/JensenHuang/status/2086934705207959965"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-11T17:01:08Z"
 alchemy:
   source_type: "url"

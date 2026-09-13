@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI agents &
 resource: "https://www.the-main-thread.com/p/prompting-like-a-parent"
 tags: [articles-announcements, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-02T07:22:46Z"
 alchemy:
   source_type: "url"

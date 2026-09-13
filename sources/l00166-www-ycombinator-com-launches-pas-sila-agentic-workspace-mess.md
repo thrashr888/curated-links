@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Agent orchestration & workspace
 resource: "https://www.ycombinator.com/launches/Pas-sila-agentic-workspace-messaging"
 tags: [websites-products, agent-orchestration-workspaces, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:39:29Z"
 alchemy:
   source_type: "url"

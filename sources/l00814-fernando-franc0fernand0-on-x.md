@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by Franc0Fernand0"
 resource: "https://x.com/Franc0Fernand0/status/2029212863433187641"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-26T22:29:48Z"
 alchemy:
   source_type: "url"

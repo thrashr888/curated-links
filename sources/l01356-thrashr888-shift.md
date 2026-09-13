@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by thrashr888"
 resource: "https://github.com/thrashr888/shift"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-04T20:20:36Z"
 alchemy:
   source_type: "url"

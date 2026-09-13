@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by fat"
 resource: "https://x.com/fat/status/2033965647894655213"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-19T00:32:20Z"
 alchemy:
   source_type: "url"

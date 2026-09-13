@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by agent_wrapper"
 resource: "https://x.com/agent_wrapper/status/2025986105485733945"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-27T16:58:05Z"
 alchemy:
   source_type: "url"

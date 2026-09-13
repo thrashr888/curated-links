@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by ritwikpavan"
 resource: "https://x.com/ritwikpavan/status/2044930807673098547"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:23:37Z"
 alchemy:
   source_type: "url"

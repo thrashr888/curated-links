@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://opusfived.dev/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-10T00:09:02Z"
 alchemy:
   source_type: "url"

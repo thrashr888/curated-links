@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI coding & software developmen
 resource: "https://fx.sh/"
 tags: [websites-products, ai-coding-software-development, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-20T23:25:29Z"
 alchemy:
   source_type: "url"

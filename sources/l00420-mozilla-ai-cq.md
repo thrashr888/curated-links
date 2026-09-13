@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · AI models & research · by mo
 resource: "https://github.com/mozilla-ai/cq"
 tags: [code-repositories, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-01T19:31:52Z"
 alchemy:
   source_type: "url"

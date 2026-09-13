@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI models & research"
 resource: "https://heyato.ai/launch"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-03T16:24:23Z"
 alchemy:
   source_type: "url"

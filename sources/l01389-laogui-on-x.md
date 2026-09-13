@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by laogui"
 resource: "https://x.com/laogui/status/2096611233621520513"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T01:04:32Z"
 alchemy:
   source_type: "url"

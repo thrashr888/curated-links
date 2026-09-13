@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI models & research"
 resource: "https://sonarly.com/"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-21T00:11:17Z"
 alchemy:
   source_type: "url"

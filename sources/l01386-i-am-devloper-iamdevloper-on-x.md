@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by iamdevloper"
 resource: "https://x.com/iamdevloper/status/2087842346276728902"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T01:02:10Z"
 alchemy:
   source_type: "url"

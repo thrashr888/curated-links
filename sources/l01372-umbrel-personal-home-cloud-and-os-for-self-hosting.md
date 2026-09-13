@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Cloud & infrastructure"
 resource: "https://umbrel.com/"
 tags: [websites-products, cloud-infrastructure]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T00:56:20Z"
 alchemy:
   source_type: "url"

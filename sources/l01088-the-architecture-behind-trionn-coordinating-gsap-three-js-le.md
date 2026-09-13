@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://tympanus.net/codrops/2026/07/15/the-architecture-behind-trionn-coordinating-gsap-three-js-lenis-and-web-audio/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-17T19:23:28Z"
 alchemy:
   source_type: "url"

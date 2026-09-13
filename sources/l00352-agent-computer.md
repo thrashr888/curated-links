@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI agents & automation, AI mode
 resource: "https://www.agentcomputer.ai/"
 tags: [websites-products, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-24T00:36:15Z"
 alchemy:
   source_type: "url"

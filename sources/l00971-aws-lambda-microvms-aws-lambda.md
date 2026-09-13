@@ -5,7 +5,7 @@ description: "Documentation & guides · Documentation"
 resource: "https://docs.aws.amazon.com/lambda/latest/dg/lambda-microvms-guide.html"
 tags: [documentation-guides]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T00:12:42Z"
 alchemy:
   source_type: "url"

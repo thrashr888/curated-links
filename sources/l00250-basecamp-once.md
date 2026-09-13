@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by basecamp"
 resource: "https://github.com/basecamp/once"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:32:53Z"
 alchemy:
   source_type: "url"

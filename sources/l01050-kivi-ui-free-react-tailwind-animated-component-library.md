@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Design & frontend"
 resource: "https://kiviui.dev/"
 tags: [websites-products, design-frontend]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T23:05:41Z"
 alchemy:
   source_type: "url"

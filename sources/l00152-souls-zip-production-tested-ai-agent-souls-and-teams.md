@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI agents & automation, AI mode
 resource: "https://souls.zip/"
 tags: [websites-products, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:31:20Z"
 alchemy:
   source_type: "url"

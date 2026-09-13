@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://www.shader.se/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:26:00Z"
 alchemy:
   source_type: "url"

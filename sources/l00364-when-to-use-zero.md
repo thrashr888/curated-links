@@ -5,7 +5,7 @@ description: "Documentation & guides · Documentation"
 resource: "https://zero.rocicorp.dev/docs/when-to-use"
 tags: [documentation-guides]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:16:45Z"
 alchemy:
   source_type: "url"

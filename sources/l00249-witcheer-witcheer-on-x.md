@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by witcheer"
 resource: "https://x.com/witcheer/status/2033533371821789551"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:32:43Z"
 alchemy:
   source_type: "url"

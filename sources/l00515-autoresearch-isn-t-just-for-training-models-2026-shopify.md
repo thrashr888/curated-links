@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI models & research"
 resource: "https://shopify.engineering/autoresearch"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-15T23:16:43Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Data & databases"
 resource: "https://davidgasquez.com/growing-my-own-data-platform"
 tags: [websites-products, data-databases]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T22:36:48Z"
 alchemy:
   source_type: "url"

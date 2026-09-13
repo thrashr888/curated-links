@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by RyanPGreenblatt"
 resource: "https://x.com/RyanPGreenblatt/status/2042768884026228841"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-14T18:24:37Z"
 alchemy:
   source_type: "url"

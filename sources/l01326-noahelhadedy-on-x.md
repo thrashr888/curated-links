@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by noahelhadedy"
 resource: "https://x.com/noahelhadedy/status/2093967827195596991"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-01T23:33:20Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by raw_works"
 resource: "https://x.com/raw_works/status/2037556922077823056"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-01T00:38:48Z"
 alchemy:
   source_type: "url"

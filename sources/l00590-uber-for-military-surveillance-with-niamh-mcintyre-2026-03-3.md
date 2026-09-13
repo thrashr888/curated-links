@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI models & research"
 resource: "https://www.buzzsprout.com/2126417/episodes/19022825-uber-for-military-surveillance-with-niamh-mcintyre-2026-03-30"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-22T16:55:58Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Design & frontend"
 resource: "https://component.gallery/"
 tags: [websites-products, design-frontend]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-02T18:55:58Z"
 alchemy:
   source_type: "url"

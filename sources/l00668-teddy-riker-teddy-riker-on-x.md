@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by teddy_riker"
 resource: "https://x.com/teddy_riker/status/2047312986696454584"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T22:43:08Z"
 alchemy:
   source_type: "url"

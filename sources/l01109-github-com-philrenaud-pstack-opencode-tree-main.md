@@ -5,7 +5,7 @@ description: "Code & repositories · Source directory · by philrenaud"
 resource: "https://github.com/philrenaud/pstack-opencode/tree/main"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-20T21:17:35Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by HoytEmerson"
 resource: "https://x.com/HoytEmerson/status/2048843802530419035"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T23:05:04Z"
 alchemy:
   source_type: "url"

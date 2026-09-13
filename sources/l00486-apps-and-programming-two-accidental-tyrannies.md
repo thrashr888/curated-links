@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Developer tools"
 resource: "https://andymatuschak.org/tat/"
 tags: [websites-products, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-14T13:57:39Z"
 alchemy:
   source_type: "url"

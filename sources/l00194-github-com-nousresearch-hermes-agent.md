@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · AI agents & automation · by 
 resource: "https://github.com/NousResearch/hermes-agent"
 tags: [code-repositories, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:55:30Z"
 alchemy:
   source_type: "url"

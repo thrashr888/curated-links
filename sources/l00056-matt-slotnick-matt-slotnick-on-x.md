@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by matt_slotnick"
 resource: "https://x.com/matt_slotnick/status/2026697640726114699"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-26T06:22:53Z"
 alchemy:
   source_type: "url"

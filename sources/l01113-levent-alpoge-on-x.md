@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by __alpoge__"
 resource: "https://x.com/__alpoge__/status/2079028340955197566"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-22T01:18:10Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by KingBootoshi"
 resource: "https://x.com/KingBootoshi/status/2091778509807010061"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-26T20:32:35Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Data & databases, AI models & r
 resource: "https://equals.com/"
 tags: [websites-products, data-databases, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-02T01:34:09Z"
 alchemy:
   source_type: "url"

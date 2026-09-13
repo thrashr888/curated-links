@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by tsotchke"
 resource: "https://x.com/tsotchke/status/2034330130747625786"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-21T00:02:09Z"
 alchemy:
   source_type: "url"

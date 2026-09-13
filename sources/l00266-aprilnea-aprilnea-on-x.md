@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by AprilNEA"
 resource: "https://x.com/AprilNEA/status/2034209430158619084"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-19T00:38:35Z"
 alchemy:
   source_type: "url"

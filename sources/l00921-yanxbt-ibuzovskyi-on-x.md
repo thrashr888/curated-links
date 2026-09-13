@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by IBuzovskyi"
 resource: "https://x.com/IBuzovskyi/status/2065302739031118103"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T02:08:25Z"
 alchemy:
   source_type: "url"

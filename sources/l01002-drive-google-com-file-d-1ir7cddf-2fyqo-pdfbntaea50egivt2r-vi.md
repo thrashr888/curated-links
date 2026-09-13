@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://drive.google.com/file/d/1IR7CddF_2FyQo_PdfBNTaEA50EGiVt2r/view?pli=1"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-28T22:39:46Z"
 alchemy:
   source_type: "url"

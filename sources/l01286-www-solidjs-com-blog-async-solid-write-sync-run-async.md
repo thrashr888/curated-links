@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://www.solidjs.com/blog/async-solid-write-sync-run-async"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-26T17:06:30Z"
 alchemy:
   source_type: "url"

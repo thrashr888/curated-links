@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://microsoft.github.io/SkillLens/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-26T23:48:03Z"
 alchemy:
   source_type: "url"

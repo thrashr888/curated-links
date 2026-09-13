@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by xpasky"
 resource: "https://x.com/xpasky/status/2032252486145253865"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:23:07Z"
 alchemy:
   source_type: "url"

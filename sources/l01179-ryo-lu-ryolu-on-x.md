@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by ryolu_"
 resource: "https://x.com/ryolu_/status/2086854498639822942"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-11T16:58:50Z"
 alchemy:
   source_type: "url"

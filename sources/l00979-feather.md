@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://feather.computer/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T00:18:11Z"
 alchemy:
   source_type: "url"

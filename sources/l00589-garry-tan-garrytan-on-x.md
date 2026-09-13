@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by garrytan"
 resource: "https://x.com/garrytan/status/2046876981711769720"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-22T16:48:35Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by RhysSullivan"
 resource: "https://x.com/RhysSullivan/status/2070311929038680262"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T23:29:38Z"
 alchemy:
   source_type: "url"

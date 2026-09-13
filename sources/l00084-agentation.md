@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI agents & automation"
 resource: "https://agentation.dev/"
 tags: [websites-products, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-27T17:05:42Z"
 alchemy:
   source_type: "url"

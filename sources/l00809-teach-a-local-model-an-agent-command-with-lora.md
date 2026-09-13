@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI agents &
 resource: "https://www.the-main-thread.com/p/lora-agent-command"
 tags: [articles-announcements, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-22T05:01:25Z"
 alchemy:
   source_type: "url"

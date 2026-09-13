@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Agent orchestration & workspace
 resource: "https://www.magicpath.ai/"
 tags: [websites-products, agent-orchestration-workspaces, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T21:46:12Z"
 alchemy:
   source_type: "url"

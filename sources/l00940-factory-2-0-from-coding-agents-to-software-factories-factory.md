@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI coding &
 resource: "https://factory.ai/news/software-factory"
 tags: [articles-announcements, ai-coding-software-development, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-25T23:52:18Z"
 alchemy:
   source_type: "url"

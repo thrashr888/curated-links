@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://omnisearch.playground.weaviate.io/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-22T01:21:53Z"
 alchemy:
   source_type: "url"

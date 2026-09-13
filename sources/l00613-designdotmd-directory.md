@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Design & frontend"
 resource: "http://designdotmd.directory/"
 tags: [websites-products, design-frontend]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T21:01:09Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by h4ckf0r0day"
 resource: "https://github.com/h4ckf0r0day/obscura"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T22:46:55Z"
 alchemy:
   source_type: "url"

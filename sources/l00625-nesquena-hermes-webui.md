@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by nesquena"
 resource: "https://github.com/nesquena/hermes-webui"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T23:04:03Z"
 alchemy:
   source_type: "url"

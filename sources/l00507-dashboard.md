@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI agents & automation"
 resource: "https://open-agents.dev/"
 tags: [websites-products, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-14T18:30:20Z"
 alchemy:
   source_type: "url"

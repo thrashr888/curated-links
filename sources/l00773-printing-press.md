@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://printingpress.dev/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T19:38:13Z"
 alchemy:
   source_type: "url"

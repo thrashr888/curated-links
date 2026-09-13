@@ -5,7 +5,7 @@ description: "Code & repositories · Source directory · AI coding & software de
 resource: "http://github.com/cursor/plugins/tree/main/pstack"
 tags: [code-repositories, ai-coding-software-development]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-01T23:36:46Z"
 alchemy:
   source_type: "url"

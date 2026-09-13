@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by chiefautism"
 resource: "https://github.com/chiefautism/privacy-parser"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T22:45:20Z"
 alchemy:
   source_type: "url"

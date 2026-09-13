@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://www.etched.com/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T22:46:03Z"
 alchemy:
   source_type: "url"

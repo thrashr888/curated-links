@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Security & identity, AI models 
 resource: "https://entropic.qu.ai/"
 tags: [websites-products, security-identity, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-21T00:00:27Z"
 alchemy:
   source_type: "url"

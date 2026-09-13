@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI agents & automation"
 resource: "https://radiusbrowser.com/"
 tags: [websites-products, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-03T16:43:16Z"
 alchemy:
   source_type: "url"

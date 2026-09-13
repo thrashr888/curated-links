@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://danielgross.com/agitrades"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-02T18:55:35Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI agents & automation, AI mode
 resource: "https://monid.ai/"
 tags: [websites-products, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-01T23:35:20Z"
 alchemy:
   source_type: "url"

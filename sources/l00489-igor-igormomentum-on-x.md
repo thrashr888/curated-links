@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by igormomentum"
 resource: "https://x.com/igormomentum/status/2041963744503480422"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-14T18:20:11Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by neural_avb"
 resource: "https://x.com/neural_avb/status/2031417353666441266"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-11T17:11:08Z"
 alchemy:
   source_type: "url"

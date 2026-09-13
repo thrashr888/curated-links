@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by fofrAI"
 resource: "https://x.com/fofrAI/status/2071537993693770052"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T22:42:41Z"
 alchemy:
   source_type: "url"

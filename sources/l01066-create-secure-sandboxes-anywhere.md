@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Security & identity"
 resource: "https://www.computesdk.com/"
 tags: [websites-products, security-identity]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-15T20:49:41Z"
 alchemy:
   source_type: "url"

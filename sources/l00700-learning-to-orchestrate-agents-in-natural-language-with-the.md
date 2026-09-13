@@ -5,7 +5,7 @@ description: "Research & papers · Research paper or index · Agent orchestratio
 resource: "https://arxiv.org/abs/2512.04388"
 tags: [research-papers, agent-orchestration-workspaces, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T23:05:48Z"
 alchemy:
   source_type: "url"

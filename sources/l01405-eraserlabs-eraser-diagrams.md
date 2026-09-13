@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by eraserlabs"
 resource: "https://github.com/eraserlabs/eraser-diagrams"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-09T23:55:21Z"
 alchemy:
   source_type: "url"

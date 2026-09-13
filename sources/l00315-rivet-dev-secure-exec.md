@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · Security & identity · by riv
 resource: "https://github.com/rivet-dev/secure-exec/"
 tags: [code-repositories, security-identity]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-21T00:22:28Z"
 alchemy:
   source_type: "url"

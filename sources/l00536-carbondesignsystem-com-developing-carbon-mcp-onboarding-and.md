@@ -5,7 +5,7 @@ description: "Websites & products · Web page · MCP & agent integrations"
 resource: "https://carbondesignsystem.com/developing/carbon-mcp/onboarding-and-setup/"
 tags: [websites-products, mcp-agent-integrations]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:16:20Z"
 alchemy:
   source_type: "url"

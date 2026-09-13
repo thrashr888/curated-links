@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI agents &
 resource: "https://www.the-main-thread.com/p/context-transfer-ai-agents"
 tags: [articles-announcements, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-01T14:43:58Z"
 alchemy:
   source_type: "url"

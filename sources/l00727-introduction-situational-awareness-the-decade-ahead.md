@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI models & research"
 resource: "https://situational-awareness.ai/"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T18:32:58Z"
 alchemy:
   source_type: "url"

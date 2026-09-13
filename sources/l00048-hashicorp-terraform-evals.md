@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · Observability & evaluation, C
 resource: "https://github.com/hashicorp/terraform-evals"
 tags: [code-repositories, observability-evaluation, cloud-infrastructure]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-20T20:28:28Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by deepfates"
 resource: "https://x.com/deepfates/status/2026496335449567494"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-27T16:58:56Z"
 alchemy:
   source_type: "url"

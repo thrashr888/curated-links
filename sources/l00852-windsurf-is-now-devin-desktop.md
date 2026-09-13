@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI models &
 resource: "https://devin.ai/blog/windsurf-is-now-devin-desktop"
 tags: [articles-announcements, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T17:10:14Z"
 alchemy:
   source_type: "url"

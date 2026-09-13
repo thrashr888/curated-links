@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://lilianweng.github.io/posts/2026-07-04-harness/"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T22:34:39Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · MCP & agent integrations, Desig
 resource: "https://impeccable.style/"
 tags: [websites-products, mcp-agent-integrations, design-frontend, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-17T21:43:59Z"
 alchemy:
   source_type: "url"

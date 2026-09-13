@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by jukan05"
 resource: "https://x.com/jukan05/status/2051892897159794757/photo/1"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T19:20:14Z"
 alchemy:
   source_type: "url"

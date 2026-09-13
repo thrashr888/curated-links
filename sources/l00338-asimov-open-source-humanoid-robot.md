@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://asimov.inc/diy-kit"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-24T00:25:50Z"
 alchemy:
   source_type: "url"

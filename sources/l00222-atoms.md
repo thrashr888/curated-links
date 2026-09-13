@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://atoms.co/vision"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:21:50Z"
 alchemy:
   source_type: "url"

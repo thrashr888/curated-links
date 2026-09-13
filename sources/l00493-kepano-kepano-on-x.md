@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by kepano"
 resource: "https://x.com/kepano/status/1876646531698512285"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-14T18:21:41Z"
 alchemy:
   source_type: "url"

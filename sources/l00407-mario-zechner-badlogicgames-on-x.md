@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by badlogicgames"
 resource: "https://x.com/badlogicgames/status/2037811643774652911"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-01T00:41:33Z"
 alchemy:
   source_type: "url"

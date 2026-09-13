@@ -5,7 +5,7 @@ description: "Social media & discussions · Social page · by nvidia"
 resource: "https://x.com/nvidia"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T23:18:35Z"
 alchemy:
   source_type: "url"

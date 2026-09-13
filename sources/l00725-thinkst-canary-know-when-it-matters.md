@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://canary.tools/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T18:24:17Z"
 alchemy:
   source_type: "url"

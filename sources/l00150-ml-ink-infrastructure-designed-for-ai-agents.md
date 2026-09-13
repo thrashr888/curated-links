@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Cloud & infrastructure, Design 
 resource: "https://ml.ink/"
 tags: [websites-products, cloud-infrastructure, design-frontend, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:30:44Z"
 alchemy:
   source_type: "url"

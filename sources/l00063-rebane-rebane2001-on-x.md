@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by rebane2001"
 resource: "https://x.com/rebane2001/status/2026120879755628980"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-27T16:58:48Z"
 alchemy:
   source_type: "url"

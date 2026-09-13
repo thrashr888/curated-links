@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by JuliusBrussee"
 resource: "https://github.com/JuliusBrussee/caveman"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-10T19:17:17Z"
 alchemy:
   source_type: "url"

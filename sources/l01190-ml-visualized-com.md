@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://ml-visualized.com/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-13T14:46:49Z"
 alchemy:
   source_type: "url"

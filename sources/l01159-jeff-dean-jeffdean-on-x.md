@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by JeffDean"
 resource: "https://x.com/JeffDean/status/2085034604172603724"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-06T16:33:38Z"
 alchemy:
   source_type: "url"

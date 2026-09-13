@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://danielmiessler.com/blog/companies-graph-of-algorithms"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-26T22:33:58Z"
 alchemy:
   source_type: "url"

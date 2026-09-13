@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://writer.computer/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T19:10:44Z"
 alchemy:
   source_type: "url"

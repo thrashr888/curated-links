@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by Ventali"
 resource: "https://x.com/Ventali/status/2069515059420901479"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T00:20:06Z"
 alchemy:
   source_type: "url"

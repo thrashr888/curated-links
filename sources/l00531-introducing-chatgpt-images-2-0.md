@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI models & research"
 resource: "https://openai.com/index/introducing-chatgpt-images-2-0/"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T20:07:55Z"
 alchemy:
   source_type: "url"

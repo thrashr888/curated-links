@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://snscratchpad.com/posts/frontier-ecosystem/"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T01:26:22Z"
 alchemy:
   source_type: "url"

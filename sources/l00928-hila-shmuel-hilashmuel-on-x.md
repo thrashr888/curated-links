@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by HilaShmuel"
 resource: "https://x.com/HilaShmuel/status/2065684864544747690"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T02:10:58Z"
 alchemy:
   source_type: "url"

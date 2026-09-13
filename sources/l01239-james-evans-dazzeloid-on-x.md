@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by dazzeloid"
 resource: "https://x.com/dazzeloid/status/2089380467745476714"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-19T18:43:07Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI coding & software developmen
 resource: "https://www.firecrawl.dev/developer-index"
 tags: [websites-products, ai-coding-software-development, ai-agents-automation, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-26T20:55:22Z"
 alchemy:
   source_type: "url"

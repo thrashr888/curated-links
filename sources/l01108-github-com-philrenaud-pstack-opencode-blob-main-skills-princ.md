@@ -5,7 +5,7 @@ description: "Code & repositories · Source file · MCP & agent integrations · 
 resource: "https://github.com/philrenaud/pstack-opencode/blob/main/skills/principle-laziness-protocol/SKILL.md"
 tags: [code-repositories, mcp-agent-integrations]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-20T21:17:35Z"
 alchemy:
   source_type: "url"

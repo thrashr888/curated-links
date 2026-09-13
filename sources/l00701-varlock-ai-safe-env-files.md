@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI models & research"
 resource: "https://varlock.dev/"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T23:05:58Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by clairevo"
 resource: "https://x.com/clairevo/status/2043720461201338702"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-14T18:27:30Z"
 alchemy:
   source_type: "url"

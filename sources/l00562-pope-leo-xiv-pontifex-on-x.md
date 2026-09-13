@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by Pontifex"
 resource: "https://x.com/Pontifex/status/2045208460967518253"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:32:51Z"
 alchemy:
   source_type: "url"

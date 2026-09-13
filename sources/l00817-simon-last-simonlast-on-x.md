@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by simonlast"
 resource: "https://x.com/simonlast/status/2057978156183957995"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-26T22:31:18Z"
 alchemy:
   source_type: "url"

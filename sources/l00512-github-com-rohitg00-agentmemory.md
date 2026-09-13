@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · Agent memory & knowledge, AI 
 resource: "https://github.com/rohitg00/agentmemory"
 tags: [code-repositories, agent-memory-knowledge, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-14T20:19:14Z"
 alchemy:
   source_type: "url"

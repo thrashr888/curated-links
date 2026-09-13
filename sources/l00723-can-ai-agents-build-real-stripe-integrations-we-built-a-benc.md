@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Observabili
 resource: "https://stripe.com/blog/can-ai-agents-build-real-stripe-integrations"
 tags: [articles-announcements, observability-evaluation, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-05T16:46:01Z"
 alchemy:
   source_type: "url"

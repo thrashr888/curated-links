@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://linqapp.com/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-22T12:37:34Z"
 alchemy:
   source_type: "url"

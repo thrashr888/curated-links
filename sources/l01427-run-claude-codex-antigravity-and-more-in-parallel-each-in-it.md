@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Agent orchestration & workspace
 resource: "https://termic.dev/"
 tags: [websites-products, agent-orchestration-workspaces, ai-coding-software-development, ai-models-research, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-10T07:40:54Z"
 alchemy:
   source_type: "url"

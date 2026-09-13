@@ -5,7 +5,7 @@ description: "Documentation & guides · Documentation · Cloud & infrastructure"
 resource: "https://docs.inference.net/introduction"
 tags: [documentation-guides, cloud-infrastructure]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-15T20:53:51Z"
 alchemy:
   source_type: "url"

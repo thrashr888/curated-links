@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by wavefnx"
 resource: "https://x.com/wavefnx/status/2034363750036164882"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-21T00:06:55Z"
 alchemy:
   source_type: "url"

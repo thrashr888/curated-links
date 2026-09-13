@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by repligate"
 resource: "https://x.com/repligate/status/2029374260872135038"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:26:36Z"
 alchemy:
   source_type: "url"

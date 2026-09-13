@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Design & fr
 resource: "https://x.ai/news/designing-grok-bot"
 tags: [articles-announcements, design-frontend, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T00:56:56Z"
 alchemy:
   source_type: "url"

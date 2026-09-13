@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · MCP & agent
 resource: "https://developers.cloudflare.com/changelog/post/2026-06-02-agents-sdk-v0140/"
 tags: [articles-announcements, mcp-agent-integrations, productivity-collaboration, ai-agents-automation, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T17:11:01Z"
 alchemy:
   source_type: "url"

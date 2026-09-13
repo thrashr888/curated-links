@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by semochkin_alex"
 resource: "https://x.com/semochkin_alex/status/2091815761044029800"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-26T16:55:12Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · MCP & agent integrations, AI ag
 resource: "https://browse.sh/"
 tags: [websites-products, mcp-agent-integrations, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T16:21:21Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Productivity & collaboration, A
 resource: "https://truespar.com/sentio"
 tags: [websites-products, productivity-collaboration, ai-agents-automation, ai-models-research, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-25T02:17:10Z"
 alchemy:
   source_type: "url"

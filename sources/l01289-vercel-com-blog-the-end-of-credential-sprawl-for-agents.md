@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI agents &
 resource: "https://vercel.com/blog/the-end-of-credential-sprawl-for-agents"
 tags: [articles-announcements, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-26T20:32:49Z"
 alchemy:
   source_type: "url"

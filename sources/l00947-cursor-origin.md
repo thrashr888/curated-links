@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI coding & software developmen
 resource: "https://cursor.com/origin"
 tags: [websites-products, ai-coding-software-development]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-25T23:54:13Z"
 alchemy:
   source_type: "url"

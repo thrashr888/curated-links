@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by ti_morse"
 resource: "https://x.com/ti_morse/status/2081068670478880854"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-27T16:54:14Z"
 alchemy:
   source_type: "url"

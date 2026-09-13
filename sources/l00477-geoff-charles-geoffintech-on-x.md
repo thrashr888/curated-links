@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by geoffintech"
 resource: "https://x.com/geoffintech/status/2042002590758572377"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-09T15:30:17Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Research & papers · Research paper or index · AI models & resear
 resource: "https://arxiv.org/abs/2602.16800"
 tags: [research-papers, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-25T13:49:08Z"
 alchemy:
   source_type: "url"

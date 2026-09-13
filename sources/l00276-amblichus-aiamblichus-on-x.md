@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by aiamblichus"
 resource: "https://x.com/aiamblichus/status/2034275928260386987"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-19T00:45:26Z"
 alchemy:
   source_type: "url"

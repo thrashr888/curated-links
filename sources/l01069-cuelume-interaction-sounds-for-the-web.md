@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://cuelume-site.pages.dev/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-15T20:51:53Z"
 alchemy:
   source_type: "url"

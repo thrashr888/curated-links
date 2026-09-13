@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by simpsoka"
 resource: "https://x.com/simpsoka/status/2032234010513154448"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:19:45Z"
 alchemy:
   source_type: "url"

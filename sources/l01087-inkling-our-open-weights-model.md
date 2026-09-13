@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI models &
 resource: "https://thinkingmachines.ai/news/introducing-inkling/"
 tags: [articles-announcements, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-17T19:23:14Z"
 alchemy:
   source_type: "url"

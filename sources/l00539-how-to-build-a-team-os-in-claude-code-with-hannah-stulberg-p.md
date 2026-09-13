@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI coding &
 resource: "https://www.news.aakashg.com/p/claude-code-team-os"
 tags: [articles-announcements, ai-coding-software-development, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:16:57Z"
 alchemy:
   source_type: "url"

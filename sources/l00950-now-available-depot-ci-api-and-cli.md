@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Developer t
 resource: "https://depot.dev/blog/now-available-depot-ci-api"
 tags: [articles-announcements, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-25T23:55:00Z"
 alchemy:
   source_type: "url"

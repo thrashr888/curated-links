@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI models &
 resource: "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/"
 tags: [articles-announcements, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-06T16:33:28Z"
 alchemy:
   source_type: "url"

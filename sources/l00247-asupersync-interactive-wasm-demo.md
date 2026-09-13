@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://dicklesworthstone.github.io/asupersync/asupersync_web_demo.html"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:31:46Z"
 alchemy:
   source_type: "url"

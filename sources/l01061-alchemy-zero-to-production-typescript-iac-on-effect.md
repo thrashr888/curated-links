@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://v2.alchemy.run/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-15T17:07:58Z"
 alchemy:
   source_type: "url"

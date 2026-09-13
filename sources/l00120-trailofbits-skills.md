@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · MCP & agent integrations · b
 resource: "https://github.com/trailofbits/skills"
 tags: [code-repositories, mcp-agent-integrations]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-04T00:31:49Z"
 alchemy:
   source_type: "url"

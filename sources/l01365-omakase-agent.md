@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI agents & automation"
 resource: "https://omakaseagent.com/"
 tags: [websites-products, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T00:53:31Z"
 alchemy:
   source_type: "url"

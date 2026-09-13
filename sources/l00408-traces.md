@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://traces.com/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-01T00:41:58Z"
 alchemy:
   source_type: "url"

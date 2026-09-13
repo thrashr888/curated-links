@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by Kangwook_Lee"
 resource: "https://x.com/Kangwook_Lee/status/2028955292025962534"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-04T00:32:48Z"
 alchemy:
   source_type: "url"

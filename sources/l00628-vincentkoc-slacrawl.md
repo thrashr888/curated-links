@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by vincentkoc"
 resource: "https://github.com/vincentkoc/slacrawl"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T23:15:01Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by dangtony98"
 resource: "https://x.com/dangtony98/status/2057940043826954463"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-26T22:30:35Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Documents & reference · Encyclopedia article"
 resource: "https://en.wikipedia.org/wiki/Grokipedia"
 tags: [documents-reference]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-22T16:43:57Z"
 alchemy:
   source_type: "url"

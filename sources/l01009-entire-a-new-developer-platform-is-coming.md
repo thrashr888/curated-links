@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Developer tools"
 resource: "https://entire.io/"
 tags: [websites-products, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T22:33:26Z"
 alchemy:
   source_type: "url"

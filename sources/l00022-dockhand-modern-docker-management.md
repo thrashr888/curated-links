@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Cloud & infrastructure"
 resource: "https://dockhand.pro/"
 tags: [websites-products, cloud-infrastructure]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-13T21:36:53Z"
 alchemy:
   source_type: "url"

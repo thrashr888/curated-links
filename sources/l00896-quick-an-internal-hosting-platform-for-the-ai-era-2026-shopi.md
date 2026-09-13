@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Cloud & infrastructure, AI mode
 resource: "https://shopify.engineering/quick"
 tags: [websites-products, cloud-infrastructure, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T01:58:46Z"
 alchemy:
   source_type: "url"

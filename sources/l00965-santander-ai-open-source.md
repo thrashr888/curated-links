@@ -5,7 +5,7 @@ description: "Code & repositories · GitHub profile or page · AI models & resea
 resource: "https://github.com/SantanderAI"
 tags: [code-repositories, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T00:10:17Z"
 alchemy:
   source_type: "url"

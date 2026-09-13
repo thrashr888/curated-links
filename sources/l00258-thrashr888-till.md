@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by thrashr888"
 resource: "https://github.com/thrashr888/till"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-18T20:32:08Z"
 alchemy:
   source_type: "url"

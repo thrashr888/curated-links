@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by finkd"
 resource: "https://x.com/finkd/status/2075218445356916847"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-15T20:49:19Z"
 alchemy:
   source_type: "url"

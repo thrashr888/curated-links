@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by paradite_"
 resource: "https://x.com/paradite_/status/2046431985720050042"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-22T13:09:09Z"
 alchemy:
   source_type: "url"

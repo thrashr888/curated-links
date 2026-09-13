@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://www.supaste.com/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T17:13:16Z"
 alchemy:
   source_type: "url"

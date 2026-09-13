@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI agents & automation"
 resource: "https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization"
 tags: [websites-products, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T19:25:41Z"
 alchemy:
   source_type: "url"

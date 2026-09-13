@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by rawwerks"
 resource: "https://github.com/rawwerks/ypi"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-24T00:29:51Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by sama"
 resource: "https://x.com/sama/status/2047379615589777666"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T23:36:13Z"
 alchemy:
   source_type: "url"

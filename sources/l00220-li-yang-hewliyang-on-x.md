@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by hewliyang"
 resource: "https://x.com/hewliyang/status/2032451815535722868"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:21:24Z"
 alchemy:
   source_type: "url"

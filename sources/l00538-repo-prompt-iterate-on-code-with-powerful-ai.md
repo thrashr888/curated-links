@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI models & research"
 resource: "https://repoprompt.com/"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:16:48Z"
 alchemy:
   source_type: "url"

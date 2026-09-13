@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by dmno-dev"
 resource: "https://github.com/dmno-dev/varlock"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:53:29Z"
 alchemy:
   source_type: "url"

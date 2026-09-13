@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by ii_posts"
 resource: "https://x.com/ii_posts/status/2046270977399505122"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:39:24Z"
 alchemy:
   source_type: "url"

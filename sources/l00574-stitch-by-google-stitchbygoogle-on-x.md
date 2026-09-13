@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by stitchbygoogle"
 resource: "https://x.com/stitchbygoogle/status/2046624729403142320"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:41:59Z"
 alchemy:
   source_type: "url"

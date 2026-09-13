@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by kitlangton"
 resource: "https://x.com/kitlangton/status/2050001114272014337"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-01T13:58:26Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by emmettshine"
 resource: "https://x.com/emmettshine/status/2054539694097015171"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T19:32:23Z"
 alchemy:
   source_type: "url"

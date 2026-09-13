@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by swyx"
 resource: "https://x.com/swyx/status/2031071059307601944"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:50:04Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI models & research"
 resource: "https://claude.com/platform/marketplace"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:40:18Z"
 alchemy:
   source_type: "url"

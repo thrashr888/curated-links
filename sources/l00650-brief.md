@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://nesbitt.io/2026/04/21/brief.html"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-24T15:55:29Z"
 alchemy:
   source_type: "url"

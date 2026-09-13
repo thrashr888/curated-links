@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Security & 
 resource: "https://vercel.com/changelog/drives-for-vercel-sandbox-in-private-beta"
 tags: [articles-announcements, security-identity]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T22:23:22Z"
 alchemy:
   source_type: "url"

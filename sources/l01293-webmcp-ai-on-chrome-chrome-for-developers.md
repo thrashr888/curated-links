@@ -5,7 +5,7 @@ description: "Documentation & guides · Documentation · MCP & agent integration
 resource: "https://developer.chrome.com/docs/ai/webmcp"
 tags: [documentation-guides, mcp-agent-integrations, ai-models-research, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-26T20:35:29Z"
 alchemy:
   source_type: "url"

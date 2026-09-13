@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by _heyrico"
 resource: "https://x.com/_heyrico/status/2063998746757886299"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T22:39:20Z"
 alchemy:
   source_type: "url"

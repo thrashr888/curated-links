@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · AI agents & automation · by 
 resource: "https://github.com/rivet-dev/agentos"
 tags: [code-repositories, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T23:25:42Z"
 alchemy:
   source_type: "url"

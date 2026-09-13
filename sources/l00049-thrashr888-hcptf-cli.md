@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · Developer tools · by thrashr
 resource: "https://github.com/thrashr888/hcptf-cli"
 tags: [code-repositories, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-20T20:28:43Z"
 alchemy:
   source_type: "url"

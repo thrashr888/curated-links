@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by AmbsdOP"
 resource: "https://x.com/AmbsdOP/status/2023152707045937541"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-17T00:07:46Z"
 alchemy:
   source_type: "url"

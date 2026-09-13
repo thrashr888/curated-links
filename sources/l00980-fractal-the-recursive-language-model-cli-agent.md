@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI agents & automation, AI mode
 resource: "https://fractal.trampoline.ai/"
 tags: [websites-products, ai-agents-automation, ai-models-research, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T00:19:08Z"
 alchemy:
   source_type: "url"

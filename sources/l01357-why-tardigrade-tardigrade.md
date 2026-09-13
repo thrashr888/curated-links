@@ -5,7 +5,7 @@ description: "Documentation & guides · Documentation"
 resource: "https://tardigrade.sh/docs/why"
 tags: [documentation-guides]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T00:51:11Z"
 alchemy:
   source_type: "url"

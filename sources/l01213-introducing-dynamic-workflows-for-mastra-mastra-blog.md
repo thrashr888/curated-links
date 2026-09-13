@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Productivit
 resource: "https://mastra.ai/blog/introducing-dynamic-workflows"
 tags: [articles-announcements, productivity-collaboration, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T21:28:50Z"
 alchemy:
   source_type: "url"

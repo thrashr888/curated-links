@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by BHolmesDev"
 resource: "https://x.com/BHolmesDev/status/2042212054304469100"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-14T18:20:20Z"
 alchemy:
   source_type: "url"

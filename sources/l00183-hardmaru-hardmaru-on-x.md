@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by hardmaru"
 resource: "https://x.com/hardmaru/status/2030466210476048893"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:46:12Z"
 alchemy:
   source_type: "url"

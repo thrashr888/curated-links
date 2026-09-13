@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by JayScambler"
 resource: "https://x.com/JayScambler/status/2033971974284714355"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-19T00:38:54Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://duckdb.org/quack/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T15:48:25Z"
 alchemy:
   source_type: "url"

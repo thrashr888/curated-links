@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://depot.dev/blog/now-available-macos-26-github-actions"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-25T23:57:26Z"
 alchemy:
   source_type: "url"

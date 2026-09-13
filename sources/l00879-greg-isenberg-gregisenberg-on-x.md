@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by gregisenberg"
 resource: "https://x.com/gregisenberg/status/2062330678490882434"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T22:23:46Z"
 alchemy:
   source_type: "url"

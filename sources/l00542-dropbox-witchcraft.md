@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by dropbox"
 resource: "https://github.com/dropbox/witchcraft"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:21:35Z"
 alchemy:
   source_type: "url"

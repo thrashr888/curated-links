@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by NickSpisak_"
 resource: "https://x.com/NickSpisak_/status/2034635430700679445"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-21T00:12:33Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://dactyl.dev/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-26T16:45:33Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by alex_barashkov"
 resource: "https://x.com/alex_barashkov/status/2077406669647073370"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-17T19:24:00Z"
 alchemy:
   source_type: "url"

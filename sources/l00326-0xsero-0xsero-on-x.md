@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by 0xSero"
 resource: "https://x.com/0xSero/status/2035064089345478658"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-21T00:23:51Z"
 alchemy:
   source_type: "url"

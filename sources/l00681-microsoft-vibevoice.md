@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by microsoft"
 resource: "https://github.com/microsoft/VibeVoice"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T22:52:31Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://kenneth.io/post/crazyideas-at-stripe"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-25T23:50:21Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by supabase"
 resource: "https://github.com/supabase/server"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T15:39:38Z"
 alchemy:
   source_type: "url"

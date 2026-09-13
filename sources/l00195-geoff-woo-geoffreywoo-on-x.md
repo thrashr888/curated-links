@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by geoffreywoo"
 resource: "https://x.com/geoffreywoo/status/2030835805367751045"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-11T17:10:38Z"
 alchemy:
   source_type: "url"

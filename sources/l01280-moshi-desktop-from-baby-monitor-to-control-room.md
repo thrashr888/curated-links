@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://getmoshi.app/desktop"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-26T16:51:43Z"
 alchemy:
   source_type: "url"

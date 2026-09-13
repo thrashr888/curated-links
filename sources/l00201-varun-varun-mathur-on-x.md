@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by varun_mathur"
 resource: "https://x.com/varun_mathur/status/2031641979826675920"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-11T17:14:36Z"
 alchemy:
   source_type: "url"

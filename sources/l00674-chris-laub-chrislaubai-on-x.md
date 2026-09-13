@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by ChrisLaubAI"
 resource: "https://x.com/ChrisLaubAI/status/2047628152139366766"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T22:47:03Z"
 alchemy:
   source_type: "url"

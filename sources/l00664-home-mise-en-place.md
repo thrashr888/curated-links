@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://mise.jdx.dev/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T22:40:29Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by anolilab"
 resource: "https://github.com/anolilab/lunora"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T22:46:56Z"
 alchemy:
   source_type: "url"

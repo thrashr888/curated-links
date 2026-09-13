@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI agents & automation, AI mode
 resource: "https://atatapp.com/"
 tags: [websites-products, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-20T23:31:55Z"
 alchemy:
   source_type: "url"

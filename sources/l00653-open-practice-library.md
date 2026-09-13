@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://openpracticelibrary.com/learn/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-27T10:20:30Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI agents & automation, Develop
 resource: "https://maggieappleton.com/zero-alignment"
 tags: [websites-products, ai-agents-automation, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T20:54:58Z"
 alchemy:
   source_type: "url"

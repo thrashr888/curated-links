@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by Ibelick"
 resource: "https://x.com/Ibelick/status/2033888346552881201"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-19T00:44:27Z"
 alchemy:
   source_type: "url"

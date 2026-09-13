@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by iruletheworldmo"
 resource: "https://x.com/iruletheworldmo/status/2086587213190516773"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-11T16:59:52Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by m0at"
 resource: "https://github.com/m0at/rvllm"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:30:38Z"
 alchemy:
   source_type: "url"

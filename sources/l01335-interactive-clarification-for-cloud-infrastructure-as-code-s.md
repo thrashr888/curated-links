@@ -5,7 +5,7 @@ description: "Research & papers · Research paper or index · Cloud & infrastruc
 resource: "https://arxiv.org/abs/2604.02382"
 tags: [research-papers, cloud-infrastructure]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-03T00:12:17Z"
 alchemy:
   source_type: "url"

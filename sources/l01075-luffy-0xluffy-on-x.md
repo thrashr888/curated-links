@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by 0xluffy"
 resource: "https://x.com/0xluffy/status/2076728363205673221"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-15T20:59:51Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by builderz-labs"
 resource: "https://github.com/builderz-labs/mission-control"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-02T18:50:17Z"
 alchemy:
   source_type: "url"

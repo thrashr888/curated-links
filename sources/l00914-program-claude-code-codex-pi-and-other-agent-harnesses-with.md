@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI coding &
 resource: "https://vercel.com/changelog/program-agent-harnesses-with-ai-sdk"
 tags: [articles-announcements, ai-coding-software-development, ai-agents-automation, ai-models-research, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T02:06:39Z"
 alchemy:
   source_type: "url"

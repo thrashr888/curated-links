@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by eng_khairallah1"
 resource: "https://x.com/eng_khairallah1/status/2066437136354545981"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-25T23:49:56Z"
 alchemy:
   source_type: "url"

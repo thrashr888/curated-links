@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by ChatGPT"
 resource: "https://x.com/ChatGPT/status/2090499359641329950"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-22T00:06:15Z"
 alchemy:
   source_type: "url"

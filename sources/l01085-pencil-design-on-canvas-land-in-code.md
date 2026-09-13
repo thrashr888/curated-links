@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Design & frontend"
 resource: "https://www.pencil.dev/"
 tags: [websites-products, design-frontend]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-17T01:58:27Z"
 alchemy:
   source_type: "url"

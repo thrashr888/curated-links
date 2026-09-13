@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by tricalt"
 resource: "https://x.com/tricalt/status/2057173322924806651"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T16:24:23Z"
 alchemy:
   source_type: "url"

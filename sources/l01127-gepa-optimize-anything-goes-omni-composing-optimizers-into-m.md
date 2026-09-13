@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI models &
 resource: "https://gepa-ai.github.io/gepa/blog/2026/07/22/optimize-anything-omni/"
 tags: [articles-announcements, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-27T16:50:58Z"
 alchemy:
   source_type: "url"

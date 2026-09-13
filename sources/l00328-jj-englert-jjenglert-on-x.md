@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by JJEnglert"
 resource: "https://x.com/JJEnglert/status/2035047653583565121"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-21T00:24:10Z"
 alchemy:
   source_type: "url"

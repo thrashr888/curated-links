@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by justrach"
 resource: "https://github.com/justrach/codedb"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-26T22:36:22Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by rememberlenny"
 resource: "https://x.com/rememberlenny/status/2070003572142674119/photo/1"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T23:32:45Z"
 alchemy:
   source_type: "url"

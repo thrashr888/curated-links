@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://outlook.office.com/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-08T18:20:34Z"
 alchemy:
   source_type: "url"

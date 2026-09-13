@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by theodorvaryag"
 resource: "https://x.com/theodorvaryag/status/2039765900518195382"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-03T21:46:37Z"
 alchemy:
   source_type: "url"

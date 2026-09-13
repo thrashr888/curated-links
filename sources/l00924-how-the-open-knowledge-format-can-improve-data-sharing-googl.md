@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Agent memor
 resource: "https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/"
 tags: [articles-announcements, agent-memory-knowledge, cloud-infrastructure, data-databases]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T02:09:04Z"
 alchemy:
   source_type: "url"

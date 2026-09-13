@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://www.userinterface.wiki/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-13T01:19:29Z"
 alchemy:
   source_type: "url"

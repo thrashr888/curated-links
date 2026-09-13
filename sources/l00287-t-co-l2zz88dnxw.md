@@ -5,7 +5,7 @@ description: "Shortened links · Redirect URL"
 resource: "https://t.co/l2ZZ88dnxw"
 tags: [shortened-links]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-20T23:57:30Z"
 alchemy:
   source_type: "url"

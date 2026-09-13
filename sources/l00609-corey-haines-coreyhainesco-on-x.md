@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by coreyhainesco"
 resource: "https://x.com/coreyhainesco/status/2046715514387660904"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T20:58:12Z"
 alchemy:
   source_type: "url"

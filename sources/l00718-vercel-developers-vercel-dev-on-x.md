@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by vercel_dev"
 resource: "https://x.com/vercel_dev/status/2051381241283539255"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-04T19:31:45Z"
 alchemy:
   source_type: "url"

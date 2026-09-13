@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://instinct.co/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T21:37:59Z"
 alchemy:
   source_type: "url"

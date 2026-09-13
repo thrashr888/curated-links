@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Cloud & infrastructure"
 resource: "https://outlook.cloud.microsoft/"
 tags: [websites-products, cloud-infrastructure]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-08T18:20:34Z"
 alchemy:
   source_type: "url"

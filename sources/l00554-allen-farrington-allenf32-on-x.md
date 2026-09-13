@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by allenf32"
 resource: "https://x.com/allenf32/status/2045477517201477686"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:27:21Z"
 alchemy:
   source_type: "url"

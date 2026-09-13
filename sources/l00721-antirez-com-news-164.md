@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://antirez.com/news/164"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-05T15:46:37Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://www.whatcani.run/?device=Apple+M1+Pro:10:Apple+M1+Pro:16:32"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-01T00:45:33Z"
 alchemy:
   source_type: "url"

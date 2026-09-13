@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by jacob_posel"
 resource: "https://x.com/jacob_posel/status/2071986932452925616"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T22:47:50Z"
 alchemy:
   source_type: "url"

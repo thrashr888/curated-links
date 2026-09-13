@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI agents &
 resource: "https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint"
 tags: [articles-announcements, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T22:37:37Z"
 alchemy:
   source_type: "url"

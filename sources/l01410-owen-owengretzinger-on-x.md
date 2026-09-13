@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by owengretzinger"
 resource: "https://x.com/owengretzinger/status/2097288108026826964"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-09T23:59:34Z"
 alchemy:
   source_type: "url"

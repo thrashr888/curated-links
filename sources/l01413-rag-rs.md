@@ -5,7 +5,7 @@ description: "Code & repositories · Source file · Agent memory & knowledge · 
 resource: "https://github.com/thrashr888/alchemy/blob/efcc02c50f720298d577fae3d08cd85ca2275e3d/src-tauri/src/rag.rs#L28-L133"
 tags: [code-repositories, agent-memory-knowledge]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-10T00:04:23Z"
 alchemy:
   source_type: "url"

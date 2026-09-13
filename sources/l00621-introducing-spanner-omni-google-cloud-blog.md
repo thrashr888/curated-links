@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Cloud & inf
 resource: "https://cloud.google.com/blog/products/databases/introducing-spanner-omni"
 tags: [articles-announcements, cloud-infrastructure, data-databases]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T22:58:58Z"
 alchemy:
   source_type: "url"

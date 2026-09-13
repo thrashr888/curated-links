@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by elder_plinius"
 resource: "https://x.com/elder_plinius/status/2051613121303961887"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T19:14:44Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by chintanturakhia"
 resource: "https://x.com/chintanturakhia/status/2019921786834411728"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-13T01:15:40Z"
 alchemy:
   source_type: "url"

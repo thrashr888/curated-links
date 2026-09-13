@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Design & frontend, AI agents & 
 resource: "https://arrow-js.com/"
 tags: [websites-products, design-frontend, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-24T00:30:10Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Security & 
 resource: "https://blog.cloudflare.com/emdash-wordpress/"
 tags: [articles-announcements, security-identity]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-03T21:26:25Z"
 alchemy:
   source_type: "url"

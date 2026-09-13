@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://radiant-shaders.com/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-20T23:58:12Z"
 alchemy:
   source_type: "url"

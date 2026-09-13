@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by microsoft"
 resource: "https://github.com/microsoft/ghqr"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T22:47:40Z"
 alchemy:
   source_type: "url"

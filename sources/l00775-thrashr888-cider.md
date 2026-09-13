@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by thrashr888"
 resource: "https://github.com/thrashr888/cider"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-08T02:03:39Z"
 alchemy:
   source_type: "url"

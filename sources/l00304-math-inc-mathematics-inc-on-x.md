@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by mathematics_inc"
 resource: "https://x.com/mathematics_inc/status/2034700606498083025"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-21T00:09:43Z"
 alchemy:
   source_type: "url"

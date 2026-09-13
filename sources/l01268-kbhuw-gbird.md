@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by kbhuw"
 resource: "https://github.com/kbhuw/gbird"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-25T01:25:51Z"
 alchemy:
   source_type: "url"

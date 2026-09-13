@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by clattner_llvm"
 resource: "https://x.com/clattner_llvm/status/2036319753736954126"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:13:21Z"
 alchemy:
   source_type: "url"

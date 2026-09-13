@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by ironsh"
 resource: "https://github.com/ironsh/iron-proxy"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-03T21:39:08Z"
 alchemy:
   source_type: "url"

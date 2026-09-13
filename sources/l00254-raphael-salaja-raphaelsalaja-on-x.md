@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by raphaelsalaja"
 resource: "https://x.com/raphaelsalaja/status/2033945823973671283"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:34:28Z"
 alchemy:
   source_type: "url"

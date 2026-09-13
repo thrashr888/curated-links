@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by mattparlmer"
 resource: "https://x.com/mattparlmer/status/2080393274083430783"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-23T23:23:58Z"
 alchemy:
   source_type: "url"

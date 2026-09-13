@@ -5,7 +5,7 @@ description: "Videos & talks · Video · AI coding & software development, AI mo
 resource: "https://youtu.be/LACyqdAfnaw?si=AoRSl5uPZq0YIUZr"
 tags: [videos-talks, ai-coding-software-development, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-25T02:27:17Z"
 alchemy:
   source_type: "url"

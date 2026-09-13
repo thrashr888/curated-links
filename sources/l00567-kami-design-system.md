@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Design & frontend"
 resource: "https://kami.tw93.fun/"
 tags: [websites-products, design-frontend]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:37:20Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by thdxr"
 resource: "https://x.com/thdxr/status/2068664103917240757"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T00:07:51Z"
 alchemy:
   source_type: "url"

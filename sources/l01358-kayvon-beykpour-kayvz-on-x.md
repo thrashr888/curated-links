@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by kayvz"
 resource: "https://x.com/kayvz/status/2095583373859410090"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T00:52:08Z"
 alchemy:
   source_type: "url"

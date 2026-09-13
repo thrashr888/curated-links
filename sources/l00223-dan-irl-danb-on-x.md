@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by irl_danB"
 resource: "https://x.com/irl_danB/status/2032513611994677439"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:22:34Z"
 alchemy:
   source_type: "url"

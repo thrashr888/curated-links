@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · AI models & research · by m1
 resource: "https://github.com/m1ckc3s/claude-status-bar"
 tags: [code-repositories, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T00:06:13Z"
 alchemy:
   source_type: "url"

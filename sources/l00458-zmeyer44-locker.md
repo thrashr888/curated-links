@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by zmeyer44"
 resource: "https://github.com/zmeyer44/Locker"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-07T23:44:37Z"
 alchemy:
   source_type: "url"

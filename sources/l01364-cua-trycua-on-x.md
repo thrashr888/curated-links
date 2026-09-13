@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by trycua"
 resource: "https://x.com/trycua/status/2095568683003494735"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T00:53:16Z"
 alchemy:
   source_type: "url"

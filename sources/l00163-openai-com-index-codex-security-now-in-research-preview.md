@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI coding & software developmen
 resource: "https://openai.com/index/codex-security-now-in-research-preview/"
 tags: [websites-products, ai-coding-software-development, security-identity, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:38:05Z"
 alchemy:
   source_type: "url"

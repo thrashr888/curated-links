@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://genotype-lang.org/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-09T23:51:51Z"
 alchemy:
   source_type: "url"

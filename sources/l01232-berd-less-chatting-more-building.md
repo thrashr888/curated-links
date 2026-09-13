@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://berd.xyz/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-19T18:38:28Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · AI agents & automation · by 
 resource: "https://github.com/aws/agent-toolkit-for-aws"
 tags: [code-repositories, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T19:27:01Z"
 alchemy:
   source_type: "url"

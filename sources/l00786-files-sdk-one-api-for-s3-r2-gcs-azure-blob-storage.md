@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Developer tools"
 resource: "https://files-sdk.dev/"
 tags: [websites-products, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T15:46:40Z"
 alchemy:
   source_type: "url"

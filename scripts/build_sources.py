@@ -59,7 +59,7 @@ def concept(row: dict) -> str:
         f"resource: {yaml_str(row['url'])}",
         f"tags: [{', '.join(tags)}]",
         "generated:",
-        '  by: "curated-links"',
+        '  by: "curated-links/1"',
         f"  at: {yaml_str(row['first_seen'])}",
         "alchemy:",
         '  source_type: "url"',

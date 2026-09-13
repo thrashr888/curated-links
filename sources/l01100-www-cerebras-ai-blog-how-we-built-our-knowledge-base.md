@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Agent memor
 resource: "https://www.cerebras.ai/blog/how-we-built-our-knowledge-base"
 tags: [articles-announcements, agent-memory-knowledge, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-17T19:26:28Z"
 alchemy:
   source_type: "url"

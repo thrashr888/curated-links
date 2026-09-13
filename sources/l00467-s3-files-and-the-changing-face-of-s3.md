@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-07T23:56:56Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by VirtualElena"
 resource: "https://x.com/VirtualElena/status/2086890946634154185"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-11T17:00:22Z"
 alchemy:
   source_type: "url"

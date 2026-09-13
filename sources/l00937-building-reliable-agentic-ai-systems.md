@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI agents &
 resource: "https://martinfowler.com/articles/reliable-llm-bayer.html"
 tags: [articles-announcements, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-17T13:39:38Z"
 alchemy:
   source_type: "url"

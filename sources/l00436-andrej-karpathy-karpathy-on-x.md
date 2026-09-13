@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by karpathy"
 resource: "https://x.com/karpathy/status/2039805659525644595"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-03T21:34:44Z"
 alchemy:
   source_type: "url"

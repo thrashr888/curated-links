@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Cloud & infrastructure"
 resource: "https://learn-inference.com/"
 tags: [websites-products, cloud-infrastructure]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-20T23:31:42Z"
 alchemy:
   source_type: "url"

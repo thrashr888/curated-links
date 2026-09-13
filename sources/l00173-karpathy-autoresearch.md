@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by karpathy"
 resource: "https://github.com/karpathy/autoresearch"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:42:35Z"
 alchemy:
   source_type: "url"

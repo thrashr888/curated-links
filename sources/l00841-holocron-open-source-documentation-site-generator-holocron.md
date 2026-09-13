@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://holocron.so/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-27T19:09:14Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by HiTw93"
 resource: "https://x.com/HiTw93/status/2046585177170968778"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:37:37Z"
 alchemy:
   source_type: "url"

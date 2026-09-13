@@ -5,7 +5,7 @@ description: "Documentation & guides · Documentation · AI models & research"
 resource: "https://unsloth.ai/docs/new/studio"
 tags: [documentation-guides, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T15:53:25Z"
 alchemy:
   source_type: "url"

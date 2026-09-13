@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by gothburz"
 resource: "https://x.com/gothburz/status/2046575505160225010"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:59:55Z"
 alchemy:
   source_type: "url"

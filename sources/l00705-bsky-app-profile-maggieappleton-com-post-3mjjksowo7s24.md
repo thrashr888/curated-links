@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post"
 resource: "https://bsky.app/profile/maggieappleton.com/post/3mjjksowo7s24"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-30T12:17:36Z"
 alchemy:
   source_type: "url"

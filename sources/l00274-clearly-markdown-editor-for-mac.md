@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Productivity & collaboration"
 resource: "https://clearly.md/"
 tags: [websites-products, productivity-collaboration]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-19T00:44:59Z"
 alchemy:
   source_type: "url"

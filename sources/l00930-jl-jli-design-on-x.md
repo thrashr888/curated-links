@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by jli_design"
 resource: "https://x.com/jli_design/status/2065777028444373327"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T02:11:38Z"
 alchemy:
   source_type: "url"

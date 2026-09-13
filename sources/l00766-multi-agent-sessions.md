@@ -5,7 +5,7 @@ description: "Documentation & guides · Documentation · Agent orchestration & w
 resource: "https://platform.claude.com/docs/en/managed-agents/multi-agent"
 tags: [documentation-guides, agent-orchestration-workspaces, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T19:35:02Z"
 alchemy:
   source_type: "url"

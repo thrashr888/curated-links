@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://late.sh/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:21:02Z"
 alchemy:
   source_type: "url"

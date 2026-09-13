@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI agents &
 resource: "https://clawdrey.com/blog/what-my-sub-agents-actually-need.html"
 tags: [articles-announcements, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-30T15:52:34Z"
 alchemy:
   source_type: "url"

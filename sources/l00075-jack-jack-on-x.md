@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by jack"
 resource: "https://x.com/jack/status/2027129697092731343"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-27T17:03:07Z"
 alchemy:
   source_type: "url"

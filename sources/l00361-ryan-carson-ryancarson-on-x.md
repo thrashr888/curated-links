@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by ryancarson"
 resource: "https://x.com/ryancarson/status/2036544756096889324"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:15:43Z"
 alchemy:
   source_type: "url"

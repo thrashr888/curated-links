@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://static.stepfun.com/blog/step-3.5-flash/"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-20T00:40:12Z"
 alchemy:
   source_type: "url"

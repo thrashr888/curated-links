@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by ihtesham2005"
 resource: "https://x.com/ihtesham2005/status/2030214970353602806"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:42:22Z"
 alchemy:
   source_type: "url"

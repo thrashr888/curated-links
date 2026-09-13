@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by google"
 resource: "https://github.com/google/sam"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-19T18:44:09Z"
 alchemy:
   source_type: "url"

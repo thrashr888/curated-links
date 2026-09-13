@@ -5,7 +5,7 @@ description: "Research & papers · Research paper or index · AI agents & automa
 resource: "https://arxiv.org/abs/2406.04151"
 tags: [research-papers, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-08T00:00:04Z"
 alchemy:
   source_type: "url"

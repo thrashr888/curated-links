@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI agents & automation, AI mode
 resource: "https://browser-use.com/stealth-browsers"
 tags: [websites-products, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-02T01:09:08Z"
 alchemy:
   source_type: "url"

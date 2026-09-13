@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://www.trychroma.com/foundation"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-20T23:36:10Z"
 alchemy:
   source_type: "url"

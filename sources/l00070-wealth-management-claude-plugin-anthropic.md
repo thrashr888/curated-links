@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI models & research"
 resource: "https://claude.com/plugins/wealth-management"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-27T17:01:05Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by cjzafir"
 resource: "https://x.com/cjzafir/status/2063305526285578573"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T22:25:10Z"
 alchemy:
   source_type: "url"

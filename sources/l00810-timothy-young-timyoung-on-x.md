@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by timyoung"
 resource: "https://x.com/timyoung/status/2057845311574245393"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-23T17:26:09Z"
 alchemy:
   source_type: "url"

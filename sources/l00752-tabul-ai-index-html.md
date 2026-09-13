@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI models & research"
 resource: "https://tabul.ai/index.html"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T19:19:34Z"
 alchemy:
   source_type: "url"

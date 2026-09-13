@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by btaylor"
 resource: "https://x.com/btaylor/status/2077767352431882355"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-17T19:25:53Z"
 alchemy:
   source_type: "url"

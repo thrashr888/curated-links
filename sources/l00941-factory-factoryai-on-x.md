@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by FactoryAI"
 resource: "https://x.com/FactoryAI/status/2066588050617249904"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-25T23:52:36Z"
 alchemy:
   source_type: "url"

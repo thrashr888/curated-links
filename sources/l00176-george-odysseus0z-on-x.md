@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by odysseus0z"
 resource: "https://x.com/odysseus0z/status/2030416758138634583"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:43:26Z"
 alchemy:
   source_type: "url"

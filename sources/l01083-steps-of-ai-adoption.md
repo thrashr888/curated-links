@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI models & research"
 resource: "https://claude.ai/code/artifact/bfdfaef9-bc62-4dfe-ba9e-c58a26c9accf"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-17T01:54:25Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by OdinLovis"
 resource: "https://x.com/OdinLovis/status/2046261211411652887"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:35:35Z"
 alchemy:
   source_type: "url"

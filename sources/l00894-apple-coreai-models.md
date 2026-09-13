@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by apple"
 resource: "https://github.com/apple/coreai-models"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T01:57:38Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by daleverett"
 resource: "https://x.com/daleverett/status/2055332581659566288"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T16:20:46Z"
 alchemy:
   source_type: "url"

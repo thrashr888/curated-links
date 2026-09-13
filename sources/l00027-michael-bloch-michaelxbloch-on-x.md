@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by michaelxbloch"
 resource: "https://x.com/michaelxbloch/status/2022678437362598163"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-17T00:06:55Z"
 alchemy:
   source_type: "url"

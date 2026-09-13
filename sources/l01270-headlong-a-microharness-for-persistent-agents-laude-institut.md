@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI agents & automation"
 resource: "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents"
 tags: [websites-products, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-25T02:14:03Z"
 alchemy:
   source_type: "url"

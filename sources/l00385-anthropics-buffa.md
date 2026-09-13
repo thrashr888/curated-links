@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by anthropics"
 resource: "https://github.com/anthropics/buffa"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:30:24Z"
 alchemy:
   source_type: "url"

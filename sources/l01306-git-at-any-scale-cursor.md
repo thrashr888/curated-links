@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI coding &
 resource: "https://cursor.com/blog/git-at-any-scale"
 tags: [articles-announcements, ai-coding-software-development, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-27T09:22:52Z"
 alchemy:
   source_type: "url"

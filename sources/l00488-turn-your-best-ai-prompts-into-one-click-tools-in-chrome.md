@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · MCP & agent
 resource: "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/"
 tags: [articles-announcements, mcp-agent-integrations, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-14T18:03:36Z"
 alchemy:
   source_type: "url"

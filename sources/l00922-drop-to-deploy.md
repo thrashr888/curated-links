@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Cloud & infrastructure"
 resource: "https://vercel.com/drop"
 tags: [websites-products, cloud-infrastructure]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T02:08:36Z"
 alchemy:
   source_type: "url"

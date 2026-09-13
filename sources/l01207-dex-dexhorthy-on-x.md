@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by dexhorthy"
 resource: "https://x.com/dexhorthy/status/2087569590268391897"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T21:20:19Z"
 alchemy:
   source_type: "url"

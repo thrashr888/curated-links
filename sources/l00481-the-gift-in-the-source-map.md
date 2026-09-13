@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://hyperclaude.cc/gifts/false-claims/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-09T15:32:06Z"
 alchemy:
   source_type: "url"

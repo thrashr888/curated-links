@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by natebjones"
 resource: "https://x.com/natebjones/status/2089457435459404093"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-19T18:45:05Z"
 alchemy:
   source_type: "url"

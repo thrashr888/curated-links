@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://beads.asupersync.com/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-25T23:53:17Z"
 alchemy:
   source_type: "url"

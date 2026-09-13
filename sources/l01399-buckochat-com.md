@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://buckochat.com/?v=2"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-09T23:49:18Z"
 alchemy:
   source_type: "url"

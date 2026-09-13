@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://steve-yegge.medium.com/gas-town-from-clown-show-to-v1-0-c239d9a407ec"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-03T11:33:39Z"
 alchemy:
   source_type: "url"

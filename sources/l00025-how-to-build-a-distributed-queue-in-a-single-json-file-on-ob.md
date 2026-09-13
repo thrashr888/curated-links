@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://turbopuffer.com/blog/object-storage-queue"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-13T21:38:07Z"
 alchemy:
   source_type: "url"

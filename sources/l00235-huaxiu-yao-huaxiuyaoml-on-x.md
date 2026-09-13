@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by HuaxiuYaoML"
 resource: "https://x.com/HuaxiuYaoML/status/2033038170653405308"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:27:16Z"
 alchemy:
   source_type: "url"

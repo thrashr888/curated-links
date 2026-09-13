@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · AI models & research · by op
 resource: "https://github.com/openai/symphony"
 tags: [code-repositories, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:25:22Z"
 alchemy:
   source_type: "url"

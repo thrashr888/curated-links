@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI coding &
 resource: "https://www.latent.space/p/reviews-dead"
 tags: [articles-announcements, ai-coding-software-development]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-03T17:15:13Z"
 alchemy:
   source_type: "url"

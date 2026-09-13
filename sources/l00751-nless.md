@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://mpryor.github.io/nothing-less/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T19:18:49Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI coding &
 resource: "https://www.the-main-thread.com/p/coding-agents-change-budget"
 tags: [articles-announcements, ai-coding-software-development, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T08:51:17Z"
 alchemy:
   source_type: "url"

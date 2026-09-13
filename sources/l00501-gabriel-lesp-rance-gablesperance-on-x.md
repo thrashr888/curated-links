@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by GabLesperance"
 resource: "https://x.com/GabLesperance/status/2042950334469787975"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-14T18:24:44Z"
 alchemy:
   source_type: "url"

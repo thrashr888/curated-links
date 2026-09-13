@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://nikitabobko.github.io/AeroSpace/guide"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-15T20:59:42Z"
 alchemy:
   source_type: "url"

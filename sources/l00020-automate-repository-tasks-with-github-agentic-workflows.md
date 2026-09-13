@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Productivity & collaboration, A
 resource: "https://github.blog/ai-and-ml/automate-repository-tasks-with-github-agentic-workflows/"
 tags: [websites-products, productivity-collaboration, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-13T20:07:26Z"
 alchemy:
   source_type: "url"

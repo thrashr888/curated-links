@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by iamdothash"
 resource: "https://x.com/iamdothash/status/2033619186371412071"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:33:41Z"
 alchemy:
   source_type: "url"

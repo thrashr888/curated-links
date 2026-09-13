@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Developer tools"
 resource: "https://projects.dev/"
 tags: [websites-products, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-01T22:56:44Z"
 alchemy:
   source_type: "url"

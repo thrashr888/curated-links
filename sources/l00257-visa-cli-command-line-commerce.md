@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Developer tools"
 resource: "https://visacli.sh/"
 tags: [websites-products, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-18T20:30:02Z"
 alchemy:
   source_type: "url"

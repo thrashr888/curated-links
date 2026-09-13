@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by akothari"
 resource: "https://x.com/akothari/status/2026842341420708282"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-26T06:23:06Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by ayghri"
 resource: "https://github.com/ayghri/i-have-adhd"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-20T18:00:59Z"
 alchemy:
   source_type: "url"

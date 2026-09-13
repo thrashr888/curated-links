@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI coding & software developmen
 resource: "https://cursor.com/marketplace/cursor/cursor-team-kit"
 tags: [websites-products, ai-coding-software-development]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T19:10:05Z"
 alchemy:
   source_type: "url"

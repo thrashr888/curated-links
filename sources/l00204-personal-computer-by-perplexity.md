@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI models & research"
 resource: "https://www.perplexity.ai/personal-computer-waitlist"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-12T19:02:08Z"
 alchemy:
   source_type: "url"

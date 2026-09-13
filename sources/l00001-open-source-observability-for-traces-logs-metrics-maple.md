@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Observability & evaluation"
 resource: "https://maple.dev/"
 tags: [websites-products, observability-evaluation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-13T01:13:31Z"
 alchemy:
   source_type: "url"

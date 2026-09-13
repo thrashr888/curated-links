@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Design & fr
 resource: "https://open.substack.com/pub/abinoda/p/designing-the-ai-native-engineering?r=17bggb"
 tags: [articles-announcements, design-frontend, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-05T11:09:48Z"
 alchemy:
   source_type: "url"

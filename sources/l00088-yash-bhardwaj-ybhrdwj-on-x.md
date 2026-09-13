@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by ybhrdwj"
 resource: "https://x.com/ybhrdwj/status/2027270061820657843"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-28T01:22:55Z"
 alchemy:
   source_type: "url"

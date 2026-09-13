@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by sudoingX"
 resource: "https://x.com/sudoingX/status/2032538498969030759"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:23:39Z"
 alchemy:
   source_type: "url"

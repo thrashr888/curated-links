@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by HamelHusain"
 resource: "https://x.com/HamelHusain/status/2028894099483578872"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-04T00:33:55Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI models & research"
 resource: "https://www.jeffreyemanuel.com/writing/tax_gpt_using_ai_for_tax_prep"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:54:02Z"
 alchemy:
   source_type: "url"

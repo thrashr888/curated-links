@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by levie"
 resource: "https://x.com/levie/status/2034484203522261293"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-21T00:06:36Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by jasonkneen"
 resource: "https://x.com/jasonkneen/status/2032967762583118261"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:27:47Z"
 alchemy:
   source_type: "url"

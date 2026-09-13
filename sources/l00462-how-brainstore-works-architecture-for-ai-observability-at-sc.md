@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Observabili
 resource: "https://www.braintrust.dev/blog/brainstore-architecture"
 tags: [articles-announcements, observability-evaluation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-07T23:46:06Z"
 alchemy:
   source_type: "url"

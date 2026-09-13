@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by yetone"
 resource: "https://github.com/yetone/cumora"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-19T18:44:45Z"
 alchemy:
   source_type: "url"

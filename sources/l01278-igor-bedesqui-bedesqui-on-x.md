@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by bedesqui"
 resource: "https://x.com/bedesqui/status/2091991254963749046"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-26T16:49:52Z"
 alchemy:
   source_type: "url"

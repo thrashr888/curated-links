@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Data & databases, AI agents & a
 resource: "https://archil.com/"
 tags: [websites-products, data-databases, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-11T16:54:28Z"
 alchemy:
   source_type: "url"

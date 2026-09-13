@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by poteto"
 resource: "https://x.com/poteto/status/2094457600259842065"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-01T23:37:37Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · Developer tools · by apple"
 resource: "https://github.com/apple/python-apple-fm-sdk"
 tags: [code-repositories, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-27T17:00:32Z"
 alchemy:
   source_type: "url"

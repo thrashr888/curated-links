@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · AI models & research · by Ri
 resource: "https://github.com/RightNow-AI/openfang"
 tags: [code-repositories, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-27T16:59:41Z"
 alchemy:
   source_type: "url"

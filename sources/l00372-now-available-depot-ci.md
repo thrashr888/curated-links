@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://depot.dev/blog/now-available-depot-ci"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:21:25Z"
 alchemy:
   source_type: "url"

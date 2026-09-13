@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by rafaquint"
 resource: "https://x.com/rafaquint/status/2082942652811485549"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-06T16:23:24Z"
 alchemy:
   source_type: "url"

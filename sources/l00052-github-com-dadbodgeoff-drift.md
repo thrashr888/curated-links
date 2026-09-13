@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by dadbodgeoff"
 resource: "https://github.com/dadbodgeoff/drift"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-24T18:53:46Z"
 alchemy:
   source_type: "url"

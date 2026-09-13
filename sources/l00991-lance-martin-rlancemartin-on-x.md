@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by RLanceMartin"
 resource: "https://x.com/RLanceMartin/status/2070571422913876182"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T23:19:55Z"
 alchemy:
   source_type: "url"

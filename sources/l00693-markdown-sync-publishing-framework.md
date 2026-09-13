@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Productivity & collaboration"
 resource: "https://www.markdown.fast/"
 tags: [websites-products, productivity-collaboration]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T23:01:49Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Cloud & infrastructure, AI agen
 resource: "http://cloud.browser-use.com/bux"
 tags: [websites-products, cloud-infrastructure, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T22:59:46Z"
 alchemy:
   source_type: "url"

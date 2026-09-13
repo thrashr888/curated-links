@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by Vercantez"
 resource: "https://x.com/Vercantez/status/2035431659290730914"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-24T00:27:01Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by ClementDelangue"
 resource: "https://x.com/ClementDelangue/status/2044053580504584349"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-14T18:30:02Z"
 alchemy:
   source_type: "url"

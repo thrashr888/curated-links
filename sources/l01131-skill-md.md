@@ -5,7 +5,7 @@ description: "Code & repositories · Source file · MCP & agent integrations, AI
 resource: "https://github.com/openclaw/agent-skills/blob/main/skills/autoreview/SKILL.md"
 tags: [code-repositories, mcp-agent-integrations, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-27T16:53:10Z"
 alchemy:
   source_type: "url"

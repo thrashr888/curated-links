@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://www.browserbase.com/blog/browserbase-functions"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-13T01:18:49Z"
 alchemy:
   source_type: "url"

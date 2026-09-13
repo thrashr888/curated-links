@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · MCP & agent
 resource: "https://claude.com/blog/equipping-agents-for-the-real-world-with-agent-skills"
 tags: [articles-announcements, mcp-agent-integrations, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:43:08Z"
 alchemy:
   source_type: "url"

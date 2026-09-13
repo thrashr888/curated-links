@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI agents & automation"
 resource: "https://vercel.com/templates/template/open-agents"
 tags: [websites-products, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-14T16:17:06Z"
 alchemy:
   source_type: "url"

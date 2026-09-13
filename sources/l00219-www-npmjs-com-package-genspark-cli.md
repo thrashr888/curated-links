@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Developer tools"
 resource: "https://www.npmjs.com/package/@genspark/cli"
 tags: [websites-products, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:21:02Z"
 alchemy:
   source_type: "url"

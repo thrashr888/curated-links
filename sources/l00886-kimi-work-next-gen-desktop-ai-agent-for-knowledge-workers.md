@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Agent memory & knowledge, AI ag
 resource: "https://www.kimi.com/products/kimi-work"
 tags: [websites-products, agent-memory-knowledge, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T22:26:10Z"
 alchemy:
   source_type: "url"

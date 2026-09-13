@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by archiexzzz"
 resource: "https://x.com/archiexzzz/status/2033034161611817300"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:28:47Z"
 alchemy:
   source_type: "url"

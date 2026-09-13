@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://ii.inc/web/releases/one-postulate"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:39:07Z"
 alchemy:
   source_type: "url"

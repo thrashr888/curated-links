@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://blog.exe.dev/bones-of-the-software-factory"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-01T00:35:47Z"
 alchemy:
   source_type: "url"

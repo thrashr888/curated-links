@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Design & fr
 resource: "https://www.anthropic.com/news/claude-design-anthropic-labs"
 tags: [articles-announcements, design-frontend, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:23:57Z"
 alchemy:
   source_type: "url"

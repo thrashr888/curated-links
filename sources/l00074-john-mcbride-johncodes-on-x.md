@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by johncodes"
 resource: "https://x.com/johncodes/status/2027079574513664071"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-27T17:02:57Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · Design & frontend · by googl
 resource: "https://github.com/google-labs-code/design.md"
 tags: [code-repositories, design-frontend]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:39:41Z"
 alchemy:
   source_type: "url"

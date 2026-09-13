@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI agents & automation"
 resource: "https://agent-plugins.org/specification"
 tags: [websites-products, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T21:26:18Z"
 alchemy:
   source_type: "url"

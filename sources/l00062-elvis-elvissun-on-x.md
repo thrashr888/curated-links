@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by elvissun"
 resource: "https://x.com/elvissun/status/2025920521871716562"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-27T16:58:40Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by balintorosz"
 resource: "https://x.com/balintorosz/status/2031078786670776559"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-11T17:10:48Z"
 alchemy:
   source_type: "url"

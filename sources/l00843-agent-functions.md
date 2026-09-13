@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI agents &
 resource: "https://githubnext.com/posts/agent-functions/"
 tags: [articles-announcements, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-27T19:10:40Z"
 alchemy:
   source_type: "url"

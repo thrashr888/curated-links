@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by _ashleypeacock"
 resource: "https://x.com/_ashleypeacock/status/2038251328892272804"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-01T00:43:34Z"
 alchemy:
   source_type: "url"

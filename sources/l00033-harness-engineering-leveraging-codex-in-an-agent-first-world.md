@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI coding & software developmen
 resource: "https://openai.com/index/harness-engineering/"
 tags: [websites-products, ai-coding-software-development, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-17T23:09:12Z"
 alchemy:
   source_type: "url"

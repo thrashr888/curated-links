@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://vercel.com/plugin"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-30T00:14:27Z"
 alchemy:
   source_type: "url"

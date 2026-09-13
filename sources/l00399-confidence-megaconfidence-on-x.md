@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by megaconfidence"
 resource: "https://x.com/megaconfidence/status/2037504734794219863"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-01T00:36:57Z"
 alchemy:
   source_type: "url"

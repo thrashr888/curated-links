@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by bagusindrayana_"
 resource: "https://x.com/bagusindrayana_/status/2032812013274149197"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:25:19Z"
 alchemy:
   source_type: "url"

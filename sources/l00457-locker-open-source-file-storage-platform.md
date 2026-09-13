@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://locker.dev/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-07T23:44:08Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by _ARahim_"
 resource: "https://x.com/_ARahim_/status/2008221602283225371"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-02T18:55:00Z"
 alchemy:
   source_type: "url"

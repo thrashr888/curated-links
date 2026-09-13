@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Productivity & collaboration, A
 resource: "https://draftai.us/"
 tags: [websites-products, productivity-collaboration, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T22:38:26Z"
 alchemy:
   source_type: "url"

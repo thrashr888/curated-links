@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://www.cell.com/cell/abstract/S0092-8674(26)00330-2"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-16T22:19:59Z"
 alchemy:
   source_type: "url"

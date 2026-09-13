@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI coding &
 resource: "https://techtrenches.dev/p/the-snake-that-ate-itself-what-claude"
 tags: [articles-announcements, ai-coding-software-development, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-27T14:38:25Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI agents &
 resource: "https://vercel.com/blog/chat-sdk-brings-agents-to-your-users"
 tags: [articles-announcements, ai-agents-automation, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-21T00:22:55Z"
 alchemy:
   source_type: "url"

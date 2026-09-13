@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by signulll"
 resource: "https://x.com/signulll/status/2048260954090082525"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T22:56:57Z"
 alchemy:
   source_type: "url"

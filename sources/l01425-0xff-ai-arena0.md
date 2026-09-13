@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · AI models & research · by 0x
 resource: "https://github.com/0xff-ai/arena0"
 tags: [code-repositories, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-10T00:28:55Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by tobilg"
 resource: "https://github.com/tobilg/quacklake"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-27T19:11:03Z"
 alchemy:
   source_type: "url"

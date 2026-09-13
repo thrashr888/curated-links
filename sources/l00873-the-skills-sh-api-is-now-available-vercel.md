@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · MCP & agent
 resource: "https://vercel.com/changelog/the-skills-sh-api-is-now-available"
 tags: [articles-announcements, mcp-agent-integrations, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T21:48:20Z"
 alchemy:
   source_type: "url"

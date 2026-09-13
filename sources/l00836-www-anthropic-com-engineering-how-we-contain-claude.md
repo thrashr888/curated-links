@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI models & research"
 resource: "https://www.anthropic.com/engineering/how-we-contain-claude"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-27T01:11:30Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Source file · MCP & agent integrations · 
 resource: "https://github.com/humanlayer/skills/blob/main/plugins/show-me/skills/show-me/SKILL.md"
 tags: [code-repositories, mcp-agent-integrations]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T21:20:04Z"
 alchemy:
   source_type: "url"

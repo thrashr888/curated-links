@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI coding & software developmen
 resource: "https://prose.ami.rip/"
 tags: [websites-products, ai-coding-software-development]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-15T20:58:09Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · MCP & agent
 resource: "https://cloud.google.com/blog/topics/developers-practitioners/level-up-your-agents-announcing-googles-official-skills-repository"
 tags: [articles-announcements, mcp-agent-integrations, cloud-infrastructure, ai-agents-automation, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T23:34:49Z"
 alchemy:
   source_type: "url"

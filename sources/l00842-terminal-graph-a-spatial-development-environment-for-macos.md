@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Developer tools"
 resource: "https://terminalgraph.com/"
 tags: [websites-products, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-27T19:09:44Z"
 alchemy:
   source_type: "url"

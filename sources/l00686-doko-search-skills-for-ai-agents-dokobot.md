@@ -5,7 +5,7 @@ description: "Websites & products · Web page · MCP & agent integrations, AI ag
 resource: "https://dokobot.ai/skill/173023680392200192"
 tags: [websites-products, mcp-agent-integrations, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T22:57:33Z"
 alchemy:
   source_type: "url"

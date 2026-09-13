@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://dreamer.com/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-17T23:21:22Z"
 alchemy:
   source_type: "url"

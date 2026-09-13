@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by dan__marek"
 resource: "https://x.com/dan__marek/status/2069093069215961259"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T00:12:22Z"
 alchemy:
   source_type: "url"

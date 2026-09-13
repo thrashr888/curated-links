@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by zodchiii"
 resource: "https://x.com/zodchiii/status/2030267008625873324"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:42:48Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by leftcurvedev_"
 resource: "https://x.com/leftcurvedev_/status/2042285416624128456"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-14T18:23:11Z"
 alchemy:
   source_type: "url"

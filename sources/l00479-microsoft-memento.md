@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by microsoft"
 resource: "https://github.com/microsoft/memento"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-09T15:31:33Z"
 alchemy:
   source_type: "url"

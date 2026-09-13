@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by TheNoahHein"
 resource: "https://x.com/TheNoahHein/status/2037573208707137639"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-01T00:36:00Z"
 alchemy:
   source_type: "url"

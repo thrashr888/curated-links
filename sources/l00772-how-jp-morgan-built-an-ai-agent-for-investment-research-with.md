@@ -5,7 +5,7 @@ description: "Videos & talks · Video · AI agents & automation, AI models & res
 resource: "https://www.youtube.com/watch?v=yMalr0jiOAc"
 tags: [videos-talks, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T19:37:53Z"
 alchemy:
   source_type: "url"

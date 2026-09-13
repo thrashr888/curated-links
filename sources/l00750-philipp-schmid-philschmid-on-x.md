@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by _philschmid"
 resource: "https://x.com/_philschmid/status/2051674663965606052"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T19:17:51Z"
 alchemy:
   source_type: "url"

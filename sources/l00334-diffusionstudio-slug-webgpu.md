@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by diffusionstudio"
 resource: "https://github.com/diffusionstudio/slug-webgpu"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-24T00:24:09Z"
 alchemy:
   source_type: "url"

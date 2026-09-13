@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by DottChen"
 resource: "https://x.com/DottChen/status/2048733210096611539"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T22:59:18Z"
 alchemy:
   source_type: "url"

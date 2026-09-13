@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · Security & identity · by Ten
 resource: "https://github.com/TencentCloud/CubeSandbox"
 tags: [code-repositories, security-identity]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:57:02Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://blog.val.town/connectors"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T00:58:28Z"
 alchemy:
   source_type: "url"

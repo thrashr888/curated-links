@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://blickeditor.com/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-03T16:34:57Z"
 alchemy:
   source_type: "url"

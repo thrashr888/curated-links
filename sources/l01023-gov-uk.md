@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "http://gov.uk/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T22:40:44Z"
 alchemy:
   source_type: "url"

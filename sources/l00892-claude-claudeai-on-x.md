@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by claudeai"
 resource: "https://x.com/claudeai/status/2064394146916229443"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T01:57:10Z"
 alchemy:
   source_type: "url"

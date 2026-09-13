@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://lefthook.dev/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-22T00:09:25Z"
 alchemy:
   source_type: "url"

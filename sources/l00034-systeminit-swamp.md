@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by systeminit"
 resource: "https://github.com/systeminit/swamp"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-17T23:11:34Z"
 alchemy:
   source_type: "url"

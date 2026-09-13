@@ -5,7 +5,7 @@ description: "Documents & reference · Encyclopedia article"
 resource: "https://en.wikipedia.org/wiki/Active_Channel"
 tags: [documents-reference]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-24T00:02:21Z"
 alchemy:
   source_type: "url"

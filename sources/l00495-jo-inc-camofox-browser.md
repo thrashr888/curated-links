@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by jo-inc"
 resource: "https://github.com/jo-inc/camofox-browser"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-14T18:23:02Z"
 alchemy:
   source_type: "url"

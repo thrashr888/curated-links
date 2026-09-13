@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · AI models & research · by zv
 resource: "https://github.com/zvec-ai/zvec-grep"
 tags: [code-repositories, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-03T16:37:02Z"
 alchemy:
   source_type: "url"

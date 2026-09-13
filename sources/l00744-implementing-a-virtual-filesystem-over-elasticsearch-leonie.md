@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://leoniemonigatti.com/blog/virtual-filesystem-elasticsearch.html"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T19:13:48Z"
 alchemy:
   source_type: "url"

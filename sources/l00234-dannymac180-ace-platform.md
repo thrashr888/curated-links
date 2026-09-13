@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by DannyMac180"
 resource: "https://github.com/DannyMac180/ace-platform"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:26:58Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by katanemo"
 resource: "https://github.com/katanemo/plano"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:29:15Z"
 alchemy:
   source_type: "url"

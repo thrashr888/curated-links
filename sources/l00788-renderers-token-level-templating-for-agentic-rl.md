@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI agents &
 resource: "https://www.primeintellect.ai/blog/renderers"
 tags: [articles-announcements, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T15:47:41Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://carbondesignsystem.com/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T22:05:59Z"
 alchemy:
   source_type: "url"

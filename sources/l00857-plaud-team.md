@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI models & research"
 resource: "https://www.plaud.ai/pages/plaud-team"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T17:12:05Z"
 alchemy:
   source_type: "url"

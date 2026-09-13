@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by patrickmineault"
 resource: "https://x.com/patrickmineault/status/2044853995249041803"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:22:04Z"
 alchemy:
   source_type: "url"

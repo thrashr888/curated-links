@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by Michaelliv"
 resource: "https://github.com/Michaelliv/markit"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-01T00:35:06Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by jolandgraf"
 resource: "https://x.com/jolandgraf/status/2022340825498218558"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-17T00:07:30Z"
 alchemy:
   source_type: "url"

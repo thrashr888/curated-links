@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Design & fr
 resource: "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles/"
 tags: [articles-announcements, design-frontend, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T20:54:47Z"
 alchemy:
   source_type: "url"

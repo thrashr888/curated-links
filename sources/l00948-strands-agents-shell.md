@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · AI agents & automation · by 
 resource: "https://github.com/strands-agents/shell"
 tags: [code-repositories, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-25T23:54:24Z"
 alchemy:
   source_type: "url"

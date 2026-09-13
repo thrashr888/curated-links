@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://pixelpoint.io/aval/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-17T19:23:47Z"
 alchemy:
   source_type: "url"

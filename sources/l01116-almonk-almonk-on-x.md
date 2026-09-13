@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by almonk"
 resource: "https://x.com/almonk/status/2079461952577802549"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-22T01:19:56Z"
 alchemy:
   source_type: "url"

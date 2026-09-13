@@ -5,7 +5,7 @@ description: "Code & repositories · Source directory · MCP & agent integration
 resource: "https://github.com/swyxio/skills/tree/main#kakuna-codebase-hardening-suite"
 tags: [code-repositories, mcp-agent-integrations]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-26T22:29:15Z"
 alchemy:
   source_type: "url"

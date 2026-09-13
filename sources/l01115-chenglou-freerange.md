@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by chenglou"
 resource: "https://github.com/chenglou/freerange"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-22T01:19:33Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI coding &
 resource: "https://www.the-main-thread.com/p/code-is-spec-wrong-answer"
 tags: [articles-announcements, ai-coding-software-development, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T15:18:15Z"
 alchemy:
   source_type: "url"

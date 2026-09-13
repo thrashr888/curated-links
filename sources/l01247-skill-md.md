@@ -5,7 +5,7 @@ description: "Code & repositories · Source file · MCP & agent integrations, AI
 resource: "https://github.com/thrashr888/thrashr888-agent-kit/blob/main/skills/copy-review/SKILL.md"
 tags: [code-repositories, mcp-agent-integrations, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-20T22:43:22Z"
 alchemy:
   source_type: "url"

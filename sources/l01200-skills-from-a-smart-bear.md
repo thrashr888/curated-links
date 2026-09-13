@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · MCP & agent integrations"
 resource: "https://skills.asmartbear.com/"
 tags: [websites-products, mcp-agent-integrations]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T21:13:43Z"
 alchemy:
   source_type: "url"

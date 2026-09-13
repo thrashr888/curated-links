@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://blog.cloudflare.com/meerkat-introduction/"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-15T20:50:33Z"
 alchemy:
   source_type: "url"

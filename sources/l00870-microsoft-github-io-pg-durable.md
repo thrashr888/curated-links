@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://microsoft.github.io/pg_durable/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T21:46:59Z"
 alchemy:
   source_type: "url"

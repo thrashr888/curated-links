@@ -5,7 +5,7 @@ description: "Websites & products · Web page · MCP & agent integrations, AI ag
 resource: "https://www.philschmid.de/testing-skills"
 tags: [websites-products, mcp-agent-integrations, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:41:15Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by DrewTumaABC7"
 resource: "https://x.com/DrewTumaABC7/status/2034750450487238968"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-21T00:07:29Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by gauri__gupta"
 resource: "https://x.com/gauri__gupta/status/2040251170099524025"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-07T23:43:07Z"
 alchemy:
   source_type: "url"

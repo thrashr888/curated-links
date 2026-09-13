@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by intern"
 resource: "https://x.com/intern/status/2022058797229908385"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-13T21:36:36Z"
 alchemy:
   source_type: "url"

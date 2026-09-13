@@ -5,7 +5,7 @@ description: "Documentation & guides · Documentation · Productivity & collabor
 resource: "https://mdx-graphs.kshv.me/docs"
 tags: [documentation-guides, productivity-collaboration]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-01T23:31:26Z"
 alchemy:
   source_type: "url"

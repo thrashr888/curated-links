@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI models &
 resource: "http://tailscale.com/blog/aperture-self-serve/"
 tags: [articles-announcements, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-24T00:34:20Z"
 alchemy:
   source_type: "url"

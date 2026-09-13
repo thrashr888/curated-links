@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by gokulr"
 resource: "https://x.com/gokulr/status/2071271664135152018"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T22:38:38Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Design & frontend, Developer to
 resource: "https://tui.studio/"
 tags: [websites-products, design-frontend, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:29:21Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by sotoalt_"
 resource: "https://x.com/sotoalt_/status/2020897581048500536"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-13T01:17:43Z"
 alchemy:
   source_type: "url"

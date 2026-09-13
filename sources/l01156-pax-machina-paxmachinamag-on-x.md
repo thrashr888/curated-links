@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by PaxMachinaMag"
 resource: "https://x.com/PaxMachinaMag/status/2084669620024389872"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-06T16:33:02Z"
 alchemy:
   source_type: "url"

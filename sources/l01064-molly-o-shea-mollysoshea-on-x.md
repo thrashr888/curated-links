@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by MollySOShea"
 resource: "https://x.com/MollySOShea/status/2074905099889992119"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-15T20:49:05Z"
 alchemy:
   source_type: "url"

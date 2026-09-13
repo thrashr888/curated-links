@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Agent orchestration & workspace
 resource: "https://buzzkit.dev/"
 tags: [websites-products, agent-orchestration-workspaces]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-10T00:09:54Z"
 alchemy:
   source_type: "url"

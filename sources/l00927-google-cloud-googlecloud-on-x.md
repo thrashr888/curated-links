@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by googlecloud"
 resource: "https://x.com/googlecloud/status/2048447013985865914"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T02:10:23Z"
 alchemy:
   source_type: "url"

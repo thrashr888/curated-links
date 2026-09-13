@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by kushbhuwalka"
 resource: "https://x.com/kushbhuwalka/status/2092016368929608018"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-25T01:26:11Z"
 alchemy:
   source_type: "url"

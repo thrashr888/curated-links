@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://www.kickstarter.com/projects/2124728444/modos-flow-the-fast-paper-like-monitor-for-everyday-use"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-19T00:38:20Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by jeffreyhuber"
 resource: "https://x.com/jeffreyhuber/status/2079266941366407380"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-22T01:20:14Z"
 alchemy:
   source_type: "url"

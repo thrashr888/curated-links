@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · Developer tools · by nozomio
 resource: "https://github.com/nozomio-labs/nia-cli"
 tags: [code-repositories, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:25:46Z"
 alchemy:
   source_type: "url"

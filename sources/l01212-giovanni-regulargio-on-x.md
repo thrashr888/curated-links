@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by regulargio"
 resource: "https://x.com/regulargio/status/2087644734269649034"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T21:28:02Z"
 alchemy:
   source_type: "url"

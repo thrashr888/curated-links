@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by h100envy"
 resource: "https://x.com/h100envy/status/2077371640690672001"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-17T19:26:00Z"
 alchemy:
   source_type: "url"

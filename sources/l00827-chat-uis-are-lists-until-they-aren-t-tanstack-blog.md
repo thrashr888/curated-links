@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://tanstack.com/blog/tanstack-virtual-chat"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-26T22:36:38Z"
 alchemy:
   source_type: "url"

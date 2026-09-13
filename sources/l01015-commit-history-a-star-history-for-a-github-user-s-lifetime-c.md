@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://commit-history.com/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T22:38:08Z"
 alchemy:
   source_type: "url"

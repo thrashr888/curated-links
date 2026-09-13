@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Agent memory & knowledge, Data 
 resource: "https://birdclaw.sh/"
 tags: [websites-products, agent-memory-knowledge, data-databases]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T00:07:02Z"
 alchemy:
   source_type: "url"

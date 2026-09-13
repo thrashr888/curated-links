@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by robzilla1738"
 resource: "https://github.com/robzilla1738/supergoal"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T22:23:37Z"
 alchemy:
   source_type: "url"

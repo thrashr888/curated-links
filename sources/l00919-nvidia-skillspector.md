@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by NVIDIA"
 resource: "https://github.com/NVIDIA/SkillSpector"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T02:07:36Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://stencil.so/blog/prewalk"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-21T04:21:09Z"
 alchemy:
   source_type: "url"

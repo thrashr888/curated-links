@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by gabrielchua"
 resource: "https://x.com/gabrielchua/status/2096097151524978891"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T00:59:31Z"
 alchemy:
   source_type: "url"

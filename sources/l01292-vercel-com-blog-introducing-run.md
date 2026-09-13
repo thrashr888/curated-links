@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://vercel.com/blog/introducing-run"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-26T20:34:16Z"
 alchemy:
   source_type: "url"

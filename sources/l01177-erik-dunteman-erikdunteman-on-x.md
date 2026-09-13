@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by erikdunteman"
 resource: "https://x.com/erikdunteman/status/2085899578436657661"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-11T16:57:21Z"
 alchemy:
   source_type: "url"

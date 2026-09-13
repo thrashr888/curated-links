@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI agents & automation, AI mode
 resource: "https://fin.ai/operator"
 tags: [websites-products, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T16:20:11Z"
 alchemy:
   source_type: "url"

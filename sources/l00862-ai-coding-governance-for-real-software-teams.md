@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI coding &
 resource: "https://www.the-main-thread.com/p/ai-coding-real-systems"
 tags: [articles-announcements, ai-coding-software-development, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T18:15:43Z"
 alchemy:
   source_type: "url"

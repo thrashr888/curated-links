@@ -5,7 +5,7 @@ description: "Code & repositories · Source file · by kubestellar"
 resource: "https://github.com/kubestellar/hive/blob/v4/src/docs/architecture.md"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-27T16:55:29Z"
 alchemy:
   source_type: "url"

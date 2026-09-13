@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by mitch_troy"
 resource: "https://x.com/mitch_troy/status/2082513195357307158"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-06T16:28:18Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Cloud & infrastructure"
 resource: "https://blink.new/claw"
 tags: [websites-products, cloud-infrastructure]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-21T00:01:35Z"
 alchemy:
   source_type: "url"

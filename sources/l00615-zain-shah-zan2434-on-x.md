@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by zan2434"
 resource: "https://x.com/zan2434/status/2046982383430496444"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T21:01:58Z"
 alchemy:
   source_type: "url"

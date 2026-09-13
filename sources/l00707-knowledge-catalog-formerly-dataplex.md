@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Agent memory & knowledge, Cloud
 resource: "https://cloud.google.com/products/knowledge-catalog"
 tags: [websites-products, agent-memory-knowledge, cloud-infrastructure]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-30T15:15:37Z"
 alchemy:
   source_type: "url"

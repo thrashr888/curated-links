@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by mstockton"
 resource: "https://x.com/mstockton/status/2048428300486258916"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T23:02:33Z"
 alchemy:
   source_type: "url"

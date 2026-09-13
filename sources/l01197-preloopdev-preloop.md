@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by preloopdev"
 resource: "https://github.com/preloopdev/preloop"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T21:12:14Z"
 alchemy:
   source_type: "url"

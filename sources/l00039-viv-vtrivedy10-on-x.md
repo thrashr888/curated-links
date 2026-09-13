@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by Vtrivedy10"
 resource: "https://x.com/Vtrivedy10/status/2023805578561060992"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-17T23:21:08Z"
 alchemy:
   source_type: "url"

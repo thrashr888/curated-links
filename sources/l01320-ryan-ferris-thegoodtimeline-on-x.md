@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by thegoodtimeline"
 resource: "https://x.com/thegoodtimeline/status/2093046196851917266"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-01T23:28:55Z"
 alchemy:
   source_type: "url"

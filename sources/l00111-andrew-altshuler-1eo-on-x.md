@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by 1eo"
 resource: "https://x.com/1eo/status/2028566640145670413"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-03T17:14:54Z"
 alchemy:
   source_type: "url"

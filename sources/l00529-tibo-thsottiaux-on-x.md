@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by thsottiaux"
 resource: "https://x.com/thsottiaux/status/2046291546325369065"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-20T18:18:02Z"
 alchemy:
   source_type: "url"

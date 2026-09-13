@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · AI coding & software developm
 resource: "https://github.com/openai/codex-plugin-cc"
 tags: [code-repositories, ai-coding-software-development, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-07T23:55:07Z"
 alchemy:
   source_type: "url"

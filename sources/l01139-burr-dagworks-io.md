@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://burr.dagworks.io/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-27T17:52:03Z"
 alchemy:
   source_type: "url"

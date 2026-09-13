@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by google"
 resource: "https://github.com/google/langextract"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-13T01:20:52Z"
 alchemy:
   source_type: "url"

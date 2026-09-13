@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by ClaudeDevs"
 resource: "https://xcancel.com/ClaudeDevs/status/2071671418245492926"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-01T00:30:48Z"
 alchemy:
   source_type: "url"

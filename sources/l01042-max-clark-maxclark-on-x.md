@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by maxclark"
 resource: "https://x.com/maxclark/status/2072055112021741899"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T22:50:28Z"
 alchemy:
   source_type: "url"

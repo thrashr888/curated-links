@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by ivanburazin"
 resource: "https://x.com/ivanburazin/status/2041199368296931595"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-07T23:54:53Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by Aurelien_Gz"
 resource: "https://x.com/Aurelien_Gz/status/2034727553273942362"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-24T00:24:47Z"
 alchemy:
   source_type: "url"

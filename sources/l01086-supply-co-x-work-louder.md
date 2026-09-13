@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI models & research"
 resource: "https://openai.com/supply/co-lab/work-louder/"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-17T19:23:04Z"
 alchemy:
   source_type: "url"

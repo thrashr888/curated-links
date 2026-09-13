@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://runway.com/news/research/introducing-solaris"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-01T23:38:03Z"
 alchemy:
   source_type: "url"

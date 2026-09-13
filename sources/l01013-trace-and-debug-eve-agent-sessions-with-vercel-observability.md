@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Observabili
 resource: "https://vercel.com/changelog/eve-agent-observability"
 tags: [articles-announcements, observability-evaluation, ai-agents-automation, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T22:36:36Z"
 alchemy:
   source_type: "url"

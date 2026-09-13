@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by bensig"
 resource: "https://x.com/bensig/status/2041236952998171118"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-07T23:52:10Z"
 alchemy:
   source_type: "url"

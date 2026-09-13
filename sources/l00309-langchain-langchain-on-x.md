@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by LangChain"
 resource: "https://x.com/LangChain/status/2034694530478612777"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-21T00:11:35Z"
 alchemy:
   source_type: "url"

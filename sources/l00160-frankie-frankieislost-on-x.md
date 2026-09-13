@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by FrankieIsLost"
 resource: "https://x.com/FrankieIsLost/status/2029720495600423258"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:37:03Z"
 alchemy:
   source_type: "url"

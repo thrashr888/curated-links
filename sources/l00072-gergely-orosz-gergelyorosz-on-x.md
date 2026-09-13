@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by GergelyOrosz"
 resource: "https://x.com/GergelyOrosz/status/2026704789136888283"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-27T17:02:15Z"
 alchemy:
   source_type: "url"

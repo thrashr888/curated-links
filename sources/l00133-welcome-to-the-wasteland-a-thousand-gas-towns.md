@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://steve-yegge.medium.com/welcome-to-the-wasteland-a-thousand-gas-towns-a5eb9bc8dc1f"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-04T09:55:04Z"
 alchemy:
   source_type: "url"

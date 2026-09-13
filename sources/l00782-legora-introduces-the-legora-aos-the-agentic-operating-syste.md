@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI agents & automation"
 resource: "https://legora.com/newsroom/legora-introduces-the-legora-aos-the-agentic-operating-system-for-legal-work"
 tags: [websites-products, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T15:41:53Z"
 alchemy:
   source_type: "url"

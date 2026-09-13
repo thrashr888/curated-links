@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Productivity & collaboration"
 resource: "https://busy.app/"
 tags: [websites-products, productivity-collaboration]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-11T16:55:23Z"
 alchemy:
   source_type: "url"

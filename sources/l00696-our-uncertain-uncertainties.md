@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://kevinkelly.substack.com/p/our-uncertain-uncertainties"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T23:03:16Z"
 alchemy:
   source_type: "url"

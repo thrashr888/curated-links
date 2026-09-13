@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by daniel_mac8"
 resource: "https://x.com/daniel_mac8/status/2034344165211832481"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-16T22:21:35Z"
 alchemy:
   source_type: "url"

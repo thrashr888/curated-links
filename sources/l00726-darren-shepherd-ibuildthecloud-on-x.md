@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by ibuildthecloud"
 resource: "https://x.com/ibuildthecloud/status/2050246433547436380"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T18:32:20Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://model-pareto-frontier.pages.dev/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-04T13:59:21Z"
 alchemy:
   source_type: "url"

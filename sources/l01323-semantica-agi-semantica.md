@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by semantica-agi"
 resource: "https://github.com/semantica-agi/semantica"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-01T23:30:57Z"
 alchemy:
   source_type: "url"

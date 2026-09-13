@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by dsp_"
 resource: "https://x.com/dsp_/status/2057780712187580924"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-26T22:28:02Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · Security & identity, Cloud & 
 resource: "https://github.com/kubernetes-sigs/agent-sandbox"
 tags: [code-repositories, security-identity, cloud-infrastructure, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-26T22:35:24Z"
 alchemy:
   source_type: "url"

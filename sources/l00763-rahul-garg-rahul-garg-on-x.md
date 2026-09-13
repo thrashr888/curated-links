@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by rahul_garg"
 resource: "https://x.com/rahul_garg/status/2051919689333522583"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T19:26:43Z"
 alchemy:
   source_type: "url"

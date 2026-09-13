@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by Pseudo_Sid26"
 resource: "https://x.com/Pseudo_Sid26/status/2051680656351281565"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T19:21:24Z"
 alchemy:
   source_type: "url"

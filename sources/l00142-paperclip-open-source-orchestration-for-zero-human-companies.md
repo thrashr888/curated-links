@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Agent orchestration & workspace
 resource: "https://paperclip.ing/"
 tags: [websites-products, agent-orchestration-workspaces]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:25:13Z"
 alchemy:
   source_type: "url"

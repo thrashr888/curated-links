@@ -5,7 +5,7 @@ description: "Apps & extensions · Extension listing"
 resource: "https://chromewebstore.google.com/detail/paper-snapshot/lidfahaahiogmnlccifabccgplofocck?pli=1"
 tags: [apps-extensions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:18:52Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Documentation & guides · Documentation · AI coding & software de
 resource: "https://code.claude.com/docs/en/claude-code-on-the-web#auto-fix-pull-requests"
 tags: [documentation-guides, ai-coding-software-development, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-01T00:38:08Z"
 alchemy:
   source_type: "url"

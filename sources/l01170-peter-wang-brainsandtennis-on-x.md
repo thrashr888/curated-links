@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by BrainsAndTennis"
 resource: "https://x.com/BrainsAndTennis/status/2085246447382057355"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-06T16:40:11Z"
 alchemy:
   source_type: "url"

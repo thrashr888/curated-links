@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by dguido"
 resource: "https://x.com/dguido/status/2028878085568020667"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-04T00:34:12Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by andruyeung"
 resource: "https://x.com/andruyeung/status/2051444322927526248/photo/1"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T19:12:46Z"
 alchemy:
   source_type: "url"

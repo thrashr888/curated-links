@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by hieusats"
 resource: "https://github.com/hieusats/pstack"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-02T00:16:37Z"
 alchemy:
   source_type: "url"

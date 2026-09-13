@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://workos.com/auth-md"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-26T22:28:39Z"
 alchemy:
   source_type: "url"

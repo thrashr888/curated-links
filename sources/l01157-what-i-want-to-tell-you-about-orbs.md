@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://ampcode.com/notes/what-i-want-to-tell-you-about-orbs"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-06T16:33:17Z"
 alchemy:
   source_type: "url"

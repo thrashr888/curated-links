@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Agent orche
 resource: "https://workspace.google.com/blog/product-announcements/introducing-workspace-intelligence"
 tags: [articles-announcements, agent-orchestration-workspaces, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T22:58:30Z"
 alchemy:
   source_type: "url"

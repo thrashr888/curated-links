@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Design & frontend"
 resource: "https://www.ibm.com/design/language/infographics/technical-diagrams/design/"
 tags: [websites-products, design-frontend]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T22:13:11Z"
 alchemy:
   source_type: "url"

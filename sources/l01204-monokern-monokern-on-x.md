@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by monokern"
 resource: "https://x.com/monokern/status/2087241401649996149"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T21:18:57Z"
 alchemy:
   source_type: "url"

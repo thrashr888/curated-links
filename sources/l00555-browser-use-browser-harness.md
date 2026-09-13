@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · AI agents & automation · by 
 resource: "https://github.com/browser-use/browser-harness"
 tags: [code-repositories, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:27:46Z"
 alchemy:
   source_type: "url"

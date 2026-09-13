@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by sytaylor"
 resource: "https://x.com/sytaylor/status/2068684111183495368"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T00:10:24Z"
 alchemy:
   source_type: "url"

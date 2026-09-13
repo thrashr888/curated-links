@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI coding &
 resource: "https://rubriclabs.com/blog/how-does-claude-code-actually-work"
 tags: [articles-announcements, ai-coding-software-development, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-13T01:20:17Z"
 alchemy:
   source_type: "url"

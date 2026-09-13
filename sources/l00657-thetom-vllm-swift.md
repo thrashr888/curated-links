@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by TheTom"
 resource: "https://github.com/TheTom/vllm-swift"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T22:35:10Z"
 alchemy:
   source_type: "url"

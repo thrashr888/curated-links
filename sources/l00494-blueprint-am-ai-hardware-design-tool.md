@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Design & frontend, AI models & 
 resource: "https://www.blueprint.am/"
 tags: [websites-products, design-frontend, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-14T18:21:58Z"
 alchemy:
   source_type: "url"

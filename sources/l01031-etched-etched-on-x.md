@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by Etched"
 resource: "https://x.com/Etched/status/2071972062202343590"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T22:46:14Z"
 alchemy:
   source_type: "url"

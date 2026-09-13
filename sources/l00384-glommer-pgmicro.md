@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by glommer"
 resource: "https://github.com/glommer/pgmicro"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:29:59Z"
 alchemy:
   source_type: "url"

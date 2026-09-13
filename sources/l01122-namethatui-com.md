@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://namethatui.com/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-22T01:22:04Z"
 alchemy:
   source_type: "url"

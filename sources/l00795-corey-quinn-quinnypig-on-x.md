@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by QuinnyPig"
 resource: "https://x.com/QuinnyPig/status/2055497559813304735"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T15:53:07Z"
 alchemy:
   source_type: "url"

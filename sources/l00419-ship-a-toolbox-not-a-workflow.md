@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Productivit
 resource: "https://strehl.dev/blog/ship-a-toolbox-not-a-workflow"
 tags: [articles-announcements, productivity-collaboration]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-01T17:26:11Z"
 alchemy:
   source_type: "url"

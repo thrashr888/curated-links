@@ -5,7 +5,7 @@ description: "Documents & reference · PDF"
 resource: "https://cs229.stanford.edu/main_notes.pdf"
 tags: [documents-reference]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-19T18:37:41Z"
 alchemy:
   source_type: "url"

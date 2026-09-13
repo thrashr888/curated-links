@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by jsrailton"
 resource: "https://x.com/jsrailton/status/2028945001162625270"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-04T02:36:35Z"
 alchemy:
   source_type: "url"

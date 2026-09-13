@@ -5,7 +5,7 @@ description: "Documentation & guides · Documentation · AI models & research"
 resource: "https://claude.com/docs/cowork/3p/overview"
 tags: [documentation-guides, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-22T22:40:28Z"
 alchemy:
   source_type: "url"

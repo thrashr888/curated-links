@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by StartupSpells"
 resource: "https://x.com/StartupSpells/status/2065114245159887257"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T02:06:07Z"
 alchemy:
   source_type: "url"

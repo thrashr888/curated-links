@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Data & data
 resource: "https://alexeyondata.substack.com/p/how-i-dropped-our-production-database"
 tags: [articles-announcements, data-databases]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:37:38Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by AmandaAskell"
 resource: "https://x.com/AmandaAskell/status/2072176948961526215"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T23:04:58Z"
 alchemy:
   source_type: "url"

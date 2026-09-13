@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · Data & databases · by asg017
 resource: "https://github.com/asg017/sqlite-vec"
 tags: [code-repositories, data-databases]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T13:28:26Z"
 alchemy:
   source_type: "url"

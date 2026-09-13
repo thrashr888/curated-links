@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://codegraff.com/blog/codedb-0-2-5818"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-26T22:36:13Z"
 alchemy:
   source_type: "url"

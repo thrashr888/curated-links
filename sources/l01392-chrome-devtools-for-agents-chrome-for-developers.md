@@ -5,7 +5,7 @@ description: "Documentation & guides · Documentation · AI agents & automation,
 resource: "https://developer.chrome.com/docs/devtools/agents"
 tags: [documentation-guides, ai-agents-automation, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-08T18:16:57Z"
 alchemy:
   source_type: "url"

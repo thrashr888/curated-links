@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://simonwillison.net/2026/Jan/28/the-five-levels/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-19T00:35:04Z"
 alchemy:
   source_type: "url"

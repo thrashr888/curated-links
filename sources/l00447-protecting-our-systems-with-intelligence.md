@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://engineering.block.xyz/blog/protecting-our-systems-with-intelligence"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-03T21:48:32Z"
 alchemy:
   source_type: "url"

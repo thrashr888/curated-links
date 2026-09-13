@@ -5,7 +5,7 @@ description: "Code & repositories · Code snippet · by VivianBalakrishnan"
 resource: "https://gist.github.com/VivianBalakrishnan/83d1ea5f929d0ae51bca7fe25129b0d7"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T21:37:34Z"
 alchemy:
   source_type: "url"

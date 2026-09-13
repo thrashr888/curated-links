@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by akshay_pachaar"
 resource: "https://x.com/akshay_pachaar/status/2041146899319971922"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-03T15:33:55Z"
 alchemy:
   source_type: "url"

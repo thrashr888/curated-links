@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by GoogleCloudTech"
 resource: "https://x.com/GoogleCloudTech/status/2087733334617063503"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T21:26:35Z"
 alchemy:
   source_type: "url"

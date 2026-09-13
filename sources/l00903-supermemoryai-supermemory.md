@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by supermemoryai"
 resource: "https://github.com/supermemoryai/supermemory"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T02:01:22Z"
 alchemy:
   source_type: "url"

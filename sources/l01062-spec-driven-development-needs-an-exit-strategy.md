@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI coding &
 resource: "https://www.the-main-thread.com/p/spec-driven-development-exit-strategy"
 tags: [articles-announcements, ai-coding-software-development]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-15T17:29:38Z"
 alchemy:
   source_type: "url"

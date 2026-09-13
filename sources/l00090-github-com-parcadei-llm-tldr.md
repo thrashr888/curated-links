@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · AI models & research · by pa
 resource: "https://github.com/parcadei/llm-tldr"
 tags: [code-repositories, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-02T09:25:29Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by morganlinton"
 resource: "https://x.com/morganlinton/status/2031795683897077965"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-12T00:02:17Z"
 alchemy:
   source_type: "url"

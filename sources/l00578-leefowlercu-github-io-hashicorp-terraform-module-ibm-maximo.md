@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Cloud & infrastructure"
 resource: "https://leefowlercu.github.io/hashicorp-terraform-module-ibm-maximo-application-suite/"
 tags: [websites-products, cloud-infrastructure]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-22T00:53:14Z"
 alchemy:
   source_type: "url"

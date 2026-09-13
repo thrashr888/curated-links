@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by bnj"
 resource: "https://x.com/bnj/status/2033958542521037001"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:34:08Z"
 alchemy:
   source_type: "url"

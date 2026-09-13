@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by john_ssuh"
 resource: "https://x.com/john_ssuh/status/2065184662344048789"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T02:05:46Z"
 alchemy:
   source_type: "url"

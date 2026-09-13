@@ -5,7 +5,7 @@ description: "Code & repositories · Source file · MCP & agent integrations · 
 resource: "https://github.com/philrenaud/pstack-opencode/blob/main/skills/arena/SKILL.md"
 tags: [code-repositories, mcp-agent-integrations]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-09T17:38:43Z"
 alchemy:
   source_type: "url"

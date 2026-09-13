@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI coding &
 resource: "https://www.keycard.ai/blog/announcing-keycard-for-coding-agents"
 tags: [articles-announcements, ai-coding-software-development, security-identity, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-21T00:04:21Z"
 alchemy:
   source_type: "url"

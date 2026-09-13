@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by trevin"
 resource: "https://x.com/trevin/status/2047066108763770998"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T23:27:51Z"
 alchemy:
   source_type: "url"

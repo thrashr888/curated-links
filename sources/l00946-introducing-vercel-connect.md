@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://vercel.com/blog/introducing-vercel-connect"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-25T23:53:41Z"
 alchemy:
   source_type: "url"

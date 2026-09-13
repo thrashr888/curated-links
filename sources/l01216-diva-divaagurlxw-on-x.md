@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by divaagurlxw"
 resource: "https://x.com/divaagurlxw/status/2087756697469440442"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T21:31:29Z"
 alchemy:
   source_type: "url"

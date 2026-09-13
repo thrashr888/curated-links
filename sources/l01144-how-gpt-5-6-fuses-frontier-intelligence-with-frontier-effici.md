@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI models & research"
 resource: "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency/"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-06T16:22:05Z"
 alchemy:
   source_type: "url"

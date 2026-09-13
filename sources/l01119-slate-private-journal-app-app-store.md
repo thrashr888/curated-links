@@ -5,7 +5,7 @@ description: "Apps & extensions · App-store listing · Productivity & collabora
 resource: "https://apps.apple.com/us/app/slate-private-journal/id6787531627"
 tags: [apps-extensions, productivity-collaboration]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-22T01:20:47Z"
 alchemy:
   source_type: "url"

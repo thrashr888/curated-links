@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://www.warp.dev/factories/request-access"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-19T18:38:57Z"
 alchemy:
   source_type: "url"

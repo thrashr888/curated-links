@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by adamhjk"
 resource: "https://x.com/adamhjk/status/2073970300107231363"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T23:05:55Z"
 alchemy:
   source_type: "url"

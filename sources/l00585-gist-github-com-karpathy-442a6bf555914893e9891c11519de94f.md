@@ -5,7 +5,7 @@ description: "Code & repositories · Code snippet · by karpathy"
 resource: "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-22T16:40:48Z"
 alchemy:
   source_type: "url"

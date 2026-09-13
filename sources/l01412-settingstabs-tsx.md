@@ -5,7 +5,7 @@ description: "Code & repositories · Source file · Design & frontend · by thra
 resource: "https://github.com/thrashr888/alchemy/blob/efcc02c50f720298d577fae3d08cd85ca2275e3d/src/components/settings/SettingsTabs.tsx#L38-L52"
 tags: [code-repositories, design-frontend]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-10T00:02:21Z"
 alchemy:
   source_type: "url"

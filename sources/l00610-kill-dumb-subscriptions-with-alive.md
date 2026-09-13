@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://alivecontext.com/savings"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T20:59:40Z"
 alchemy:
   source_type: "url"

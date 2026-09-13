@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by pushmatrix"
 resource: "https://x.com/pushmatrix/status/2064722585019969727"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T01:58:56Z"
 alchemy:
   source_type: "url"

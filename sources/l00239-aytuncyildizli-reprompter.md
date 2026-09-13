@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by AytuncYildizli"
 resource: "https://github.com/AytuncYildizli/reprompter"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:27:59Z"
 alchemy:
   source_type: "url"

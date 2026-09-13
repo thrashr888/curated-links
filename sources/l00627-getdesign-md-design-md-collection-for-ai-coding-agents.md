@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI coding & software developmen
 resource: "https://getdesign.md/"
 tags: [websites-products, ai-coding-software-development, design-frontend, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T23:11:04Z"
 alchemy:
   source_type: "url"

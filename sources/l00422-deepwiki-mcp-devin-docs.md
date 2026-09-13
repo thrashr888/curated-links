@@ -5,7 +5,7 @@ description: "Documentation & guides · Documentation · MCP & agent integration
 resource: "https://docs.devin.ai/work-with-devin/deepwiki-mcp"
 tags: [documentation-guides, mcp-agent-integrations, agent-memory-knowledge, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-01T20:54:08Z"
 alchemy:
   source_type: "url"

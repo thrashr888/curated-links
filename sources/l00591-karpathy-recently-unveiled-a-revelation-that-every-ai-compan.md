@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post"
 resource: "https://www.linkedin.com/feed/update/urn:li:share:7443809639495794688/"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-22T16:55:58Z"
 alchemy:
   source_type: "url"

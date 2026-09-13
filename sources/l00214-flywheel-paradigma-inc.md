@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://flywheel.paradigma.inc/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:18:17Z"
 alchemy:
   source_type: "url"

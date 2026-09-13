@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by Gitlawb"
 resource: "https://github.com/Gitlawb/zero"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T23:05:30Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by brijr"
 resource: "https://github.com/brijr/iris"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-20T23:29:41Z"
 alchemy:
   source_type: "url"

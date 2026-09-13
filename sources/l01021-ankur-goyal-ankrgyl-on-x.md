@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by ankrgyl"
 resource: "https://x.com/ankrgyl/status/2071329164125147440"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T22:40:01Z"
 alchemy:
   source_type: "url"

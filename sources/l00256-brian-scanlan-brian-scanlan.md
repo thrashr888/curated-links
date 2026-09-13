@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by brian_scanlan"
 resource: "https://xcancel.com/brian_scanlan/status/2033978300003987527"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-18T15:39:25Z"
 alchemy:
   source_type: "url"

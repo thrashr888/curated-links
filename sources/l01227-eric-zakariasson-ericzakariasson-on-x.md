@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by ericzakariasson"
 resource: "https://x.com/ericzakariasson/status/2089466749943152806"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T22:31:11Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by aaronistan"
 resource: "https://x.com/aaronistan/status/2041909335220220252"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-08T18:35:07Z"
 alchemy:
   source_type: "url"

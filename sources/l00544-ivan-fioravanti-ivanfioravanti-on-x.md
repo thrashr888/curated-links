@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by ivanfioravanti"
 resource: "https://x.com/ivanfioravanti/status/2045019293851533529"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:22:45Z"
 alchemy:
   source_type: "url"

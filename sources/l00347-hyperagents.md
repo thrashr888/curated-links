@@ -5,7 +5,7 @@ description: "Research & papers · Research paper or index"
 resource: "https://arxiv.org/abs/2603.19461"
 tags: [research-papers]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-24T00:30:45Z"
 alchemy:
   source_type: "url"

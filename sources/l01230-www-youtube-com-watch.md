@@ -5,7 +5,7 @@ description: "Videos & talks · Video"
 resource: "https://www.youtube.com/watch?v=pwQ0l4hFCVI"
 tags: [videos-talks]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-19T18:37:25Z"
 alchemy:
   source_type: "url"

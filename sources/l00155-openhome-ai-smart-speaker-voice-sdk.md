@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI models & research, Developer
 resource: "https://openhome.com/"
 tags: [websites-products, ai-models-research, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:33:06Z"
 alchemy:
   source_type: "url"

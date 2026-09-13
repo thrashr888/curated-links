@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · Cloud & infrastructure · by 
 resource: "https://github.com/hashicorp/terraform"
 tags: [code-repositories, cloud-infrastructure]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-22T16:45:45Z"
 alchemy:
   source_type: "url"

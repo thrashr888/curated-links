@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://www.eraser.io/blog/open-sourcing-eraser-diagrams"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-09T23:55:33Z"
 alchemy:
   source_type: "url"

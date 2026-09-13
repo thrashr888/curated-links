@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by PrimeIntellect"
 resource: "https://x.com/PrimeIntellect/status/2085086999267144083"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-06T16:35:46Z"
 alchemy:
   source_type: "url"

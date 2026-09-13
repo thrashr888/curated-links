@@ -5,7 +5,7 @@ description: "Documentation & guides · Documentation · AI models & research, D
 resource: "https://docs.parallel.ai/integrations/cli"
 tags: [documentation-guides, ai-models-research, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-12T19:03:35Z"
 alchemy:
   source_type: "url"

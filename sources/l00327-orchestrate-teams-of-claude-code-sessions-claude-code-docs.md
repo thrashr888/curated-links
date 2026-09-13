@@ -5,7 +5,7 @@ description: "Documentation & guides · Documentation · Agent orchestration & w
 resource: "https://code.claude.com/docs/en/agent-teams"
 tags: [documentation-guides, agent-orchestration-workspaces, ai-coding-software-development, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-21T00:24:10Z"
 alchemy:
   source_type: "url"

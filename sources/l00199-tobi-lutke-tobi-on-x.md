@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by tobi"
 resource: "https://x.com/tobi/status/2031479027316179341"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-11T17:12:39Z"
 alchemy:
   source_type: "url"

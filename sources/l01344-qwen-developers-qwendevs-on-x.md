@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by QwenDevs"
 resource: "https://x.com/QwenDevs/status/2095157452904018263"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-03T16:37:08Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · Developer tools · by million
 resource: "https://github.com/millionco/cli-to-js"
 tags: [code-repositories, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-14T19:47:22Z"
 alchemy:
   source_type: "url"

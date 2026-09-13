@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by gordonmurray"
 resource: "https://github.com/gordonmurray/firnflow"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T18:35:13Z"
 alchemy:
   source_type: "url"

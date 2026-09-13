@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://openrun.sh/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-01T23:29:09Z"
 alchemy:
   source_type: "url"

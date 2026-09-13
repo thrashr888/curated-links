@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by benln"
 resource: "https://x.com/benln/status/2048447555868963259"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T23:08:43Z"
 alchemy:
   source_type: "url"

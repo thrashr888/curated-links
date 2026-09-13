@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by RampLabs"
 resource: "https://x.com/RampLabs/status/2052447438795833506"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T15:42:42Z"
 alchemy:
   source_type: "url"

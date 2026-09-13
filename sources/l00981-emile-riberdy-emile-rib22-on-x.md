@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by emile_rib22"
 resource: "https://x.com/emile_rib22/status/2069761367607828555"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T00:19:48Z"
 alchemy:
   source_type: "url"

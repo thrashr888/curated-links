@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by modal-labs"
 resource: "https://github.com/modal-labs/overeasy"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-11T16:57:07Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by per_simmons_"
 resource: "https://x.com/per_simmons_/status/2067051453022363992"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-25T23:54:46Z"
 alchemy:
   source_type: "url"

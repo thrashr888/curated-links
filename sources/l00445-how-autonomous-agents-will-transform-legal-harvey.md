@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI agents &
 resource: "https://www.harvey.ai/blog/autonomous-agents-legal-is-next"
 tags: [articles-announcements, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-03T21:47:56Z"
 alchemy:
   source_type: "url"

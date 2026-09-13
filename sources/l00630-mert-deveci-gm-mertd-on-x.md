@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by gm_mertd"
 resource: "https://x.com/gm_mertd/status/2047058306762420593"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T23:18:13Z"
 alchemy:
   source_type: "url"

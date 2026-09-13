@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by adamghowiba"
 resource: "https://x.com/adamghowiba/status/2050886233921061281"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T18:36:04Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Productivit
 resource: "https://blog.cloudflare.com/email-for-agents/"
 tags: [articles-announcements, productivity-collaboration, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:18:03Z"
 alchemy:
   source_type: "url"

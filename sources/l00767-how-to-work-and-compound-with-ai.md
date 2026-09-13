@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI models & research"
 resource: "https://eugeneyan.com/writing/working-with-ai/"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T19:35:18Z"
 alchemy:
   source_type: "url"

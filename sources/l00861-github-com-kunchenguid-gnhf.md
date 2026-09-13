@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by kunchenguid"
 resource: "https://github.com/kunchenguid/gnhf"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T18:02:58Z"
 alchemy:
   source_type: "url"

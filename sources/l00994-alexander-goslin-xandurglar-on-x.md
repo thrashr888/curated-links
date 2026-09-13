@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by xandurglar"
 resource: "https://x.com/xandurglar/status/2070212896848822737/photo/1"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T23:27:30Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by pariscestchiant"
 resource: "https://x.com/pariscestchiant/status/2034256718494880091"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-21T00:04:06Z"
 alchemy:
   source_type: "url"

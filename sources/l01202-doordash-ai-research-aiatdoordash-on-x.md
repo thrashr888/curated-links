@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by AIatDoorDash"
 resource: "https://x.com/AIatDoorDash/status/2087284229751394705"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T21:15:53Z"
 alchemy:
   source_type: "url"

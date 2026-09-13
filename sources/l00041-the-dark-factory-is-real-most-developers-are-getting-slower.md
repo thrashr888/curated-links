@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Developer t
 resource: "https://natesnewsletter.substack.com/p/the-5-level-framework-that-explains"
 tags: [articles-announcements, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-19T00:35:00Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by quarker1337"
 resource: "https://github.com/quarker1337/hermelinChat"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-21T00:13:07Z"
 alchemy:
   source_type: "url"

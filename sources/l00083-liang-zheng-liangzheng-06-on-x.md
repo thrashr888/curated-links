@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by LiangZheng_06"
 resource: "https://x.com/LiangZheng_06/status/2027324015954821565"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-27T17:05:32Z"
 alchemy:
   source_type: "url"

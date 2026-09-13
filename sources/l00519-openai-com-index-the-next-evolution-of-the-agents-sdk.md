@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI agents & automation, AI mode
 resource: "https://openai.com/index/the-next-evolution-of-the-agents-sdk/"
 tags: [websites-products, ai-agents-automation, ai-models-research, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-16T22:18:28Z"
 alchemy:
   source_type: "url"

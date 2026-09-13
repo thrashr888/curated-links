@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Security & 
 resource: "https://deno.com/blog/clawpatrol"
 tags: [articles-announcements, security-identity, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T16:37:19Z"
 alchemy:
   source_type: "url"

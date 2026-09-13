@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · MCP & agent integrations · b
 resource: "https://github.com/deanpeters/Product-Manager-Skills"
 tags: [code-repositories, mcp-agent-integrations]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-27T17:08:32Z"
 alchemy:
   source_type: "url"

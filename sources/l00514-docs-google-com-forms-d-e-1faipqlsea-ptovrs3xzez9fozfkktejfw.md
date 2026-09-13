@@ -5,7 +5,7 @@ description: "Documentation & guides · Documentation"
 resource: "https://docs.google.com/forms/d/e/1FAIpQLSea_ptovrS3xZeZ9FoZFkKtEJFWGxNrZb1c52GW4BVjB2KVNA/viewform"
 tags: [documentation-guides]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-15T01:13:22Z"
 alchemy:
   source_type: "url"

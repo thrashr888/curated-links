@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · AI agents & automation, AI mo
 resource: "https://github.com/PrimeIntellect-ai/prime-agent"
 tags: [code-repositories, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-06T16:36:03Z"
 alchemy:
   source_type: "url"

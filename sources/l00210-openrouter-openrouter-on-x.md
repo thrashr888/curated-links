@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by OpenRouter"
 resource: "https://x.com/OpenRouter/status/2031854839035298190"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-12T19:05:14Z"
 alchemy:
   source_type: "url"

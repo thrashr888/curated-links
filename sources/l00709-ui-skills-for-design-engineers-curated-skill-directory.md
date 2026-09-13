@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · MCP & agent integrations, Desig
 resource: "https://www.ui-skills.com/"
 tags: [websites-products, mcp-agent-integrations, design-frontend]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-30T15:16:20Z"
 alchemy:
   source_type: "url"

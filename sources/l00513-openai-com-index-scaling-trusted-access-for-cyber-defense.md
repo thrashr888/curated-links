@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI models & research"
 resource: "https://openai.com/index/scaling-trusted-access-for-cyber-defense/"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-14T23:48:50Z"
 alchemy:
   source_type: "url"

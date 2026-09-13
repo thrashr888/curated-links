@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by coinbase"
 resource: "https://x.com/coinbase/status/2033334977929101478"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-19T00:31:29Z"
 alchemy:
   source_type: "url"

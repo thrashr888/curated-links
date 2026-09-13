@@ -5,7 +5,7 @@ description: "Code & repositories · Source file · MCP & agent integrations, AI
 resource: "https://github.com/steipete/agent-scripts/blob/main/skills/skill-cleaner/SKILL.md"
 tags: [code-repositories, mcp-agent-integrations, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-26T22:33:01Z"
 alchemy:
   source_type: "url"

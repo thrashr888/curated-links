@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://www.44xdesign.com/spatial"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T22:48:08Z"
 alchemy:
   source_type: "url"

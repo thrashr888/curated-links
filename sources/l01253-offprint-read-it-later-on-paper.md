@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://getoffprint.com/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-20T23:30:16Z"
 alchemy:
   source_type: "url"

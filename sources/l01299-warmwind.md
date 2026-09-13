@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://warmwind.com/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-26T20:39:55Z"
 alchemy:
   source_type: "url"

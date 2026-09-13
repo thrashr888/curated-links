@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by patrickc"
 resource: "https://x.com/patrickc/status/2063337800209179029"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T22:23:55Z"
 alchemy:
   source_type: "url"

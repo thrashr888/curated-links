@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://endless.lakebed.app/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-22T00:11:05Z"
 alchemy:
   source_type: "url"

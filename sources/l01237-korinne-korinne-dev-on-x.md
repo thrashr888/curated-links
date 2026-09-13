@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by korinne_dev"
 resource: "https://x.com/korinne_dev/status/2089747594847436878"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-19T18:42:03Z"
 alchemy:
   source_type: "url"

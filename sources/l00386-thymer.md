@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://thymer.com/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:30:49Z"
 alchemy:
   source_type: "url"

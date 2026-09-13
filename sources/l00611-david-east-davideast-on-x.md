@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by _davideast"
 resource: "https://x.com/_davideast/status/2046752775942418943"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T21:00:10Z"
 alchemy:
   source_type: "url"

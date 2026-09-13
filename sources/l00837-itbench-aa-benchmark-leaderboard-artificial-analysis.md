@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Observability & evaluation, AI 
 resource: "https://artificialanalysis.ai/evaluations/itbench-aa"
 tags: [websites-products, observability-evaluation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-27T18:36:45Z"
 alchemy:
   source_type: "url"

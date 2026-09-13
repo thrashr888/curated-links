@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by otso-run"
 resource: "https://github.com/otso-run/otso"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-08T15:39:46Z"
 alchemy:
   source_type: "url"

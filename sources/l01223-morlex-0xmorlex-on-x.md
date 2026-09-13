@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by 0xMorlex"
 resource: "https://x.com/0xMorlex/status/2086754640968732729"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T21:39:48Z"
 alchemy:
   source_type: "url"

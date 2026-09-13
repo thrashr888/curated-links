@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Design & frontend, AI models & 
 resource: "https://www.beautifului.dev/"
 tags: [websites-products, design-frontend, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T21:17:09Z"
 alchemy:
   source_type: "url"

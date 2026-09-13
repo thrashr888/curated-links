@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by VectifyAI"
 resource: "https://github.com/VectifyAI/OpenKB"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-01T23:28:33Z"
 alchemy:
   source_type: "url"

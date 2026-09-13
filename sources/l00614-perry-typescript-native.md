@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://www.perryts.com/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T21:01:22Z"
 alchemy:
   source_type: "url"

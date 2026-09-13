@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by jamiepine"
 resource: "https://x.com/jamiepine/status/2035414149359153447"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-24T00:26:50Z"
 alchemy:
   source_type: "url"

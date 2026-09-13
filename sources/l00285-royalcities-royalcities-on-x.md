@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by RoyalCities"
 resource: "https://x.com/RoyalCities/status/2033652117643395428"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-20T23:57:16Z"
 alchemy:
   source_type: "url"

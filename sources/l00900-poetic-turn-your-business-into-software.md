@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://poetic.com/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T02:00:22Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Cloud & infrastructure, AI mode
 resource: "https://openai.com/index/openai-launches-the-deployment-company/"
 tags: [websites-products, cloud-infrastructure, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T15:47:03Z"
 alchemy:
   source_type: "url"

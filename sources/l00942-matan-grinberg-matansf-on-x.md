@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by matanSF"
 resource: "https://x.com/matanSF/status/2066578088184680920"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-25T23:52:47Z"
 alchemy:
   source_type: "url"

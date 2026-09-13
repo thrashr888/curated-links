@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Cloud & infrastructure, AI agen
 resource: "https://encore.dev/"
 tags: [websites-products, cloud-infrastructure, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-01T23:15:54Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Videos & talks · Video · AI coding & software development, AI ag
 resource: "https://www.youtube.com/watch?v=96jN2OCOfLs"
 tags: [videos-talks, ai-coding-software-development, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-11T18:23:50Z"
 alchemy:
   source_type: "url"

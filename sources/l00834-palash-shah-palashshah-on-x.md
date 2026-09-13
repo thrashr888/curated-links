@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by palashshah"
 resource: "https://x.com/palashshah/status/2059308707112947948"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-26T23:46:02Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Commit · by denoland"
 resource: "https://github.com/denoland/celld/commit/ae8fac053d79f971bfcb996054bb43eb2f9b05da"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T13:26:39Z"
 alchemy:
   source_type: "url"

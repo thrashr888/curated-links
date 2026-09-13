@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Cloud & infrastructure, AI agen
 resource: "https://here.now/"
 tags: [websites-products, cloud-infrastructure, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T01:01:22Z"
 alchemy:
   source_type: "url"

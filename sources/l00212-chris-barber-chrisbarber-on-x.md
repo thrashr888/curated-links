@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by chrisbarber"
 resource: "https://x.com/chrisbarber/status/2032111394779513308"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:17:38Z"
 alchemy:
   source_type: "url"

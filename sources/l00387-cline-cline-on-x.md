@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by cline"
 resource: "https://x.com/cline/status/2037182739695493399"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:32:00Z"
 alchemy:
   source_type: "url"

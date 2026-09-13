@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · Developer tools · by googlew
 resource: "https://github.com/googleworkspace/cli"
 tags: [code-repositories, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:30:02Z"
 alchemy:
   source_type: "url"

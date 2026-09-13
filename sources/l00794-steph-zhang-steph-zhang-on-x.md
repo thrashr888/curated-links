@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by steph_zhang"
 resource: "https://x.com/steph_zhang/status/2054925688097128603"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T15:51:03Z"
 alchemy:
   source_type: "url"

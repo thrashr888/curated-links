@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by mattyp"
 resource: "https://x.com/mattyp/status/2087252657589412119"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T21:19:07Z"
 alchemy:
   source_type: "url"

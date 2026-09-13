@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by ruvnet"
 resource: "https://github.com/ruvnet/rvm"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-07T23:45:29Z"
 alchemy:
   source_type: "url"

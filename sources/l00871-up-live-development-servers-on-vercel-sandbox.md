@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Security & identity"
 resource: "https://upcli.dev/"
 tags: [websites-products, security-identity]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T21:47:56Z"
 alchemy:
   source_type: "url"

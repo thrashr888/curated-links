@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by noahzweben"
 resource: "https://x.com/noahzweben/status/2026371260805271615"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-27T16:58:24Z"
 alchemy:
   source_type: "url"

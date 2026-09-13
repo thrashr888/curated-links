@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Cloud & inf
 resource: "https://www.liquid.ai/blog/no-cloud-tool-calling-agents-consumer-hardware-lfm2-24b-a2b"
 tags: [articles-announcements, cloud-infrastructure, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:37:23Z"
 alchemy:
   source_type: "url"

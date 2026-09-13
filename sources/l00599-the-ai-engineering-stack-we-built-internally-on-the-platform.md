@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI models &
 resource: "https://blog.cloudflare.com/internal-ai-engineering-stack/"
 tags: [articles-announcements, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T00:46:37Z"
 alchemy:
   source_type: "url"

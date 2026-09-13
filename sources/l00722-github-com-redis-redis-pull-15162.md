@@ -5,7 +5,7 @@ description: "Code & repositories · Pull request · by redis"
 resource: "https://github.com/redis/redis/pull/15162"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-05T16:10:57Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by michaelmicasso"
 resource: "https://x.com/michaelmicasso/status/2072174973553360949"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T23:04:38Z"
 alchemy:
   source_type: "url"

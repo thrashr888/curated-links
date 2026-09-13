@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by meta_alchemist"
 resource: "https://x.com/meta_alchemist/status/2022614255426769129"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-17T00:07:39Z"
 alchemy:
   source_type: "url"

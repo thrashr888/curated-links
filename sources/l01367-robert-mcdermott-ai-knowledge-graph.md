@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · Agent memory & knowledge, AI 
 resource: "https://github.com/robert-mcdermott/ai-knowledge-graph"
 tags: [code-repositories, agent-memory-knowledge, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T00:54:39Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI coding & software developmen
 resource: "https://labs.google/playwithputty"
 tags: [websites-products, ai-coding-software-development, productivity-collaboration]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-26T20:34:04Z"
 alchemy:
   source_type: "url"

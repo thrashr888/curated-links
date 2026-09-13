@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI coding & software developmen
 resource: "https://jules.google.com/earlyaccess"
 tags: [websites-products, ai-coding-software-development, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T23:27:37Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://www.spawn.co/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:22:27Z"
 alchemy:
   source_type: "url"

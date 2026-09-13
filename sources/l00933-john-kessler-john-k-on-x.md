@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by john_k"
 resource: "https://x.com/john_k/status/2044821803302846536"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T02:13:18Z"
 alchemy:
   source_type: "url"

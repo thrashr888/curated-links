@@ -5,7 +5,7 @@ description: "Code & repositories · Source file · AI agents & automation · by
 resource: "https://github.com/NousResearch/hermes-agent-self-evolution/blob/main/reports/phase1_validation_report.pdf"
 tags: [code-repositories, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:49:18Z"
 alchemy:
   source_type: "url"

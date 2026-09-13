@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://anyhumanever.com/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T00:52:39Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by RetroBayArea"
 resource: "https://x.com/RetroBayArea/status/2044599171404214355"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-16T22:21:34Z"
 alchemy:
   source_type: "url"

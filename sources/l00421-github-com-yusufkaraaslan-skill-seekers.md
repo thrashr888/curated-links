@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by yusufkaraaslan"
 resource: "https://github.com/yusufkaraaslan/Skill_Seekers"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-01T20:09:47Z"
 alchemy:
   source_type: "url"

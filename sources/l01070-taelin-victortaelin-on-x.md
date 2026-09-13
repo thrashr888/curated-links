@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by VictorTaelin"
 resource: "https://x.com/VictorTaelin/status/2075984822489460846"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-15T20:52:52Z"
 alchemy:
   source_type: "url"

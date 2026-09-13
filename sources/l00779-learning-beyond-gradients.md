@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://trinkle23897.github.io/learning-beyond-gradients/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T15:38:24Z"
 alchemy:
   source_type: "url"

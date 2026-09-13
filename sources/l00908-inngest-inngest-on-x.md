@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by inngest"
 resource: "https://x.com/inngest/status/2065093888709177737"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T02:02:15Z"
 alchemy:
   source_type: "url"

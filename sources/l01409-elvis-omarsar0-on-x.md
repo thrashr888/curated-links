@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by omarsar0"
 resource: "https://x.com/omarsar0/status/2097059598960132110"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-09T23:57:23Z"
 alchemy:
   source_type: "url"

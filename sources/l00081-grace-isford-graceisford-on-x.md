@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by graceisford"
 resource: "https://x.com/graceisford/status/2027227876186345663"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-27T17:05:09Z"
 alchemy:
   source_type: "url"

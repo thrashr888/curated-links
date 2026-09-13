@@ -5,7 +5,7 @@ description: "Code & repositories · Source file · MCP & agent integrations · 
 resource: "https://github.com/lassejlv/skills/blob/main/skills/build-gpui-apps/references/apple-glass.md"
 tags: [code-repositories, mcp-agent-integrations]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-20T23:28:58Z"
 alchemy:
   source_type: "url"

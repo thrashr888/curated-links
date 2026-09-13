@@ -5,7 +5,7 @@ description: "Documentation & guides · Documentation"
 resource: "https://docs.evokoa.com/pggraph"
 tags: [documentation-guides]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T16:20:38Z"
 alchemy:
   source_type: "url"

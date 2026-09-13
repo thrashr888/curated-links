@@ -5,7 +5,7 @@ description: "Code & repositories · Source file · MCP & agent integrations, AI
 resource: "https://github.com/cursor/plugins/blob/main/pstack/skills/arena/SKILL.md"
 tags: [code-repositories, mcp-agent-integrations, ai-coding-software-development]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-09T14:39:40Z"
 alchemy:
   source_type: "url"

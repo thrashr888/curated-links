@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by Saboo_Shubham_"
 resource: "https://x.com/Saboo_Shubham_/status/2028328693911912841"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-02T18:50:01Z"
 alchemy:
   source_type: "url"

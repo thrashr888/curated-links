@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Data & databases"
 resource: "https://gordonmurray.ie/data/2026/05/02/s3-is-the-perfect-place-to-store-data-until-you-try-to-search-it.html"
 tags: [websites-products, data-databases]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T18:34:56Z"
 alchemy:
   source_type: "url"

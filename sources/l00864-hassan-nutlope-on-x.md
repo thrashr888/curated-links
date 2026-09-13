@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by nutlope"
 resource: "https://x.com/nutlope/status/2062226108154618268"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T19:32:43Z"
 alchemy:
   source_type: "url"

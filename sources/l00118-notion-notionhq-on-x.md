@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by NotionHQ"
 resource: "https://x.com/NotionHQ/status/2028533326966088188"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-03T17:15:44Z"
 alchemy:
   source_type: "url"

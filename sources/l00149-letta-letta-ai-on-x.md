@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by Letta_AI"
 resource: "https://x.com/Letta_AI/status/2029348848913793333"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:30:31Z"
 alchemy:
   source_type: "url"

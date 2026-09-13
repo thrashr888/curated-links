@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by khemaridh"
 resource: "https://x.com/khemaridh/status/2070294198469968237"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T23:29:54Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by mercury"
 resource: "https://x.com/mercury/status/2050273511537885329"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-01T18:08:15Z"
 alchemy:
   source_type: "url"

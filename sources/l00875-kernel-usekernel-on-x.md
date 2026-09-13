@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by usekernel"
 resource: "https://x.com/usekernel/status/2062896263767703999"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T21:49:26Z"
 alchemy:
   source_type: "url"

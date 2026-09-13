@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by pashmerepat"
 resource: "https://x.com/pashmerepat/status/2077530045082644977"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-17T19:26:09Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by JayaGup10"
 resource: "https://x.com/JayaGup10/status/2052870394093408558"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T15:45:04Z"
 alchemy:
   source_type: "url"

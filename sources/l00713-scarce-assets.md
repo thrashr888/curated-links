@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://www.notboring.co/p/scarce-assets"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-30T15:22:39Z"
 alchemy:
   source_type: "url"

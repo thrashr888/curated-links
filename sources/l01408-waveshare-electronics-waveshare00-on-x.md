@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by waveshare00"
 resource: "https://x.com/waveshare00/status/2097212631975428236"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-09T23:56:18Z"
 alchemy:
   source_type: "url"

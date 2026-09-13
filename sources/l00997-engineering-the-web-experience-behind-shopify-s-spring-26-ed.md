@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://tympanus.net/codrops/2026/06/26/engineering-the-web-experience-behind-shopifys-spring-26-edition-everywhere/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T23:28:45Z"
 alchemy:
   source_type: "url"

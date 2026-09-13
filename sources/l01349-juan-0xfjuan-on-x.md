@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by 0xfJuan"
 resource: "https://x.com/0xfJuan/status/2095192939169234945"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-03T16:40:22Z"
 alchemy:
   source_type: "url"

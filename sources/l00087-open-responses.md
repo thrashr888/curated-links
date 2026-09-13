@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://www.openresponses.org/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-27T18:04:08Z"
 alchemy:
   source_type: "url"

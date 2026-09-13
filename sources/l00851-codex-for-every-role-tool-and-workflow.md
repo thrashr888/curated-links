@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI coding & software developmen
 resource: "https://openai.com/index/codex-for-every-role-tool-workflow/"
 tags: [websites-products, ai-coding-software-development, productivity-collaboration, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T17:09:40Z"
 alchemy:
   source_type: "url"

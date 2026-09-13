@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by itsolelehmann"
 resource: "https://x.com/itsolelehmann/status/2033919415771713715"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-20T23:58:55Z"
 alchemy:
   source_type: "url"

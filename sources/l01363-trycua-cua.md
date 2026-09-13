@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by trycua"
 resource: "https://github.com/trycua/cua"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T00:53:08Z"
 alchemy:
   source_type: "url"

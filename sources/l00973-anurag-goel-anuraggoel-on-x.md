@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by anuraggoel"
 resource: "https://x.com/anuraggoel/status/2069218653137142074"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T00:12:59Z"
 alchemy:
   source_type: "url"

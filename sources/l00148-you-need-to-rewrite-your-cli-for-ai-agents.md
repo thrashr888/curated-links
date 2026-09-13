@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI agents &
 resource: "https://justin.poehnelt.com/posts/rewrite-your-cli-for-ai-agents/"
 tags: [articles-announcements, ai-agents-automation, ai-models-research, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:30:22Z"
 alchemy:
   source_type: "url"

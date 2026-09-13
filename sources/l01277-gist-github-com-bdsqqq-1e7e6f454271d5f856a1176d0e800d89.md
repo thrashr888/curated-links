@@ -5,7 +5,7 @@ description: "Code & repositories · Code snippet · by bdsqqq"
 resource: "https://gist.github.com/bdsqqq/1e7e6f454271d5f856a1176d0e800d89"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-26T16:49:16Z"
 alchemy:
   source_type: "url"

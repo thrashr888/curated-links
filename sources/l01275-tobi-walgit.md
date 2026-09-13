@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by tobi"
 resource: "https://github.com/tobi/walgit"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-26T16:48:19Z"
 alchemy:
   source_type: "url"

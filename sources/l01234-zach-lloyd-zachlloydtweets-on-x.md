@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by zachlloydtweets"
 resource: "https://x.com/zachlloydtweets/status/2089734641863286877"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-19T18:39:09Z"
 alchemy:
   source_type: "url"

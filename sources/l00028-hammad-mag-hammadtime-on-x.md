@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by HammadTime"
 resource: "https://x.com/HammadTime/status/2022868742259327107"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-17T00:07:13Z"
 alchemy:
   source_type: "url"

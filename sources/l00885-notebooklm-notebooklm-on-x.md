@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by NotebookLM"
 resource: "https://x.com/NotebookLM/status/2064016460964585549"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T22:25:58Z"
 alchemy:
   source_type: "url"

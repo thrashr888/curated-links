@@ -5,7 +5,7 @@ description: "Documentation & guides · Documentation · Developer tools"
 resource: "https://docs.archil.com/sdks/typescript"
 tags: [documentation-guides, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-02T18:50:53Z"
 alchemy:
   source_type: "url"

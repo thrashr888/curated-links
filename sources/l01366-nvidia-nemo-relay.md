@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by NVIDIA"
 resource: "https://github.com/NVIDIA/NeMo-Relay"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T00:54:29Z"
 alchemy:
   source_type: "url"

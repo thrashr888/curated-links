@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://desertant.com/blog/introducing-desert-ant-labs/"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-09T23:52:59Z"
 alchemy:
   source_type: "url"

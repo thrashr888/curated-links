@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI coding &
 resource: "https://addyosmani.com/blog/new-sdlc-vibe-coding/"
 tags: [articles-announcements, ai-coding-software-development]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T00:14:43Z"
 alchemy:
   source_type: "url"

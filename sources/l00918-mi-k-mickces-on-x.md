@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by mickces"
 resource: "https://x.com/mickces/status/2065387473794994355"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T02:07:18Z"
 alchemy:
   source_type: "url"

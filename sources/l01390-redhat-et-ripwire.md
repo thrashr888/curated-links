@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by redhat-et"
 resource: "https://github.com/redhat-et/ripwire"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T01:04:49Z"
 alchemy:
   source_type: "url"

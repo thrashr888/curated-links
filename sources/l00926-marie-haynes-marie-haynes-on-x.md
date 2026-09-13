@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by Marie_Haynes"
 resource: "https://x.com/Marie_Haynes/status/2065531158356717721"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T02:10:09Z"
 alchemy:
   source_type: "url"

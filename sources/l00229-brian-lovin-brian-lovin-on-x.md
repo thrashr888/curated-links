@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by brian_lovin"
 resource: "https://x.com/brian_lovin/status/2032979339604857170"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:25:31Z"
 alchemy:
   source_type: "url"

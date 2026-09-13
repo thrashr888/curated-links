@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by admcrlsn"
 resource: "https://x.com/admcrlsn/status/2026477341694710024"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-27T17:03:21Z"
 alchemy:
   source_type: "url"

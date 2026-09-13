@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by pbakaus"
 resource: "https://x.com/pbakaus/status/2077114326985687525"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-15T21:03:18Z"
 alchemy:
   source_type: "url"

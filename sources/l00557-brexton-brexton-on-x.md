@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by brexton"
 resource: "https://x.com/brexton/status/2045577849550102801"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:28:51Z"
 alchemy:
   source_type: "url"

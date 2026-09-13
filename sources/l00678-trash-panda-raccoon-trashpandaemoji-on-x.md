@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by trashpandaemoji"
 resource: "https://x.com/trashpandaemoji/status/2048026069375029267"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T22:50:07Z"
 alchemy:
   source_type: "url"

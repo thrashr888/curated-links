@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://transformer-circuits.pub/2026/emotions/index.html?ref=platformer.news#reward-hacking"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-20T14:22:32Z"
 alchemy:
   source_type: "url"

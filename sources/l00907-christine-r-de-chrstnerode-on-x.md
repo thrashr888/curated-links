@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by chrstnerode"
 resource: "https://x.com/chrstnerode/status/2065070625970946175"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T02:02:01Z"
 alchemy:
   source_type: "url"

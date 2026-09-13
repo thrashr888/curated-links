@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by Fried_rice"
 resource: "https://x.com/Fried_rice/status/2038894956459290963"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-01T00:46:29Z"
 alchemy:
   source_type: "url"

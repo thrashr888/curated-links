@@ -5,7 +5,7 @@ description: "Documentation & guides · Documentation · Security & identity, AI
 resource: "https://mastra.ai/docs/workspace/sandbox"
 tags: [documentation-guides, security-identity, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-20T23:56:50Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by belindmo"
 resource: "https://x.com/belindmo/status/2069840897676812669"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T00:21:23Z"
 alchemy:
   source_type: "url"

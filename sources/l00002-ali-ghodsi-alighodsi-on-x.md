@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by alighodsi"
 resource: "https://x.com/alighodsi/status/2020904120237031660"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-13T01:14:52Z"
 alchemy:
   source_type: "url"

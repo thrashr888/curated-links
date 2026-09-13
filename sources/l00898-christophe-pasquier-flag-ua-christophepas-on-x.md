@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by Christophepas"
 resource: "https://x.com/Christophepas/status/2064621538322579909"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T01:59:13Z"
 alchemy:
   source_type: "url"

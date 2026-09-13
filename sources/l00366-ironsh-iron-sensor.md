@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by ironsh"
 resource: "https://github.com/ironsh/iron-sensor"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:17:09Z"
 alchemy:
   source_type: "url"

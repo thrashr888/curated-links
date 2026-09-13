@@ -5,7 +5,7 @@ description: "Code & repositories · Source directory · by penberg"
 resource: "https://github.com/penberg/chimera/tree/main"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-27T16:49:29Z"
 alchemy:
   source_type: "url"

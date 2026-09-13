@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://atlasformac.com/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-20T17:58:51Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by pdev110"
 resource: "https://x.com/pdev110/status/2044936351481823673"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:24:19Z"
 alchemy:
   source_type: "url"

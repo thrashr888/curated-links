@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by tenobrus"
 resource: "https://x.com/tenobrus/status/2062729311233454363"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T19:34:53Z"
 alchemy:
   source_type: "url"

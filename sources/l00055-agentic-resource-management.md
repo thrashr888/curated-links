@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI agents &
 resource: "https://nulldivide.com/blog/agentic-resource-management"
 tags: [articles-announcements, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-26T05:39:41Z"
 alchemy:
   source_type: "url"

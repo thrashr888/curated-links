@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by darraghcurran"
 resource: "https://x.com/darraghcurran/status/2044821435378438503"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:25:29Z"
 alchemy:
   source_type: "url"

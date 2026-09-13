@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by afterlabsai"
 resource: "https://x.com/afterlabsai/status/2078067479146848701"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-20T17:59:41Z"
 alchemy:
   source_type: "url"

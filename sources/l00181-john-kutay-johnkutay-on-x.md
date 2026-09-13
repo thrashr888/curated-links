@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by JohnKutay"
 resource: "https://x.com/JohnKutay/status/2030719547159011495"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:44:47Z"
 alchemy:
   source_type: "url"

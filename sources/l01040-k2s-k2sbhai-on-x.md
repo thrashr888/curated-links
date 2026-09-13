@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by k2sbhai"
 resource: "https://x.com/k2sbhai/status/2071981082594210054"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T22:49:37Z"
 alchemy:
   source_type: "url"

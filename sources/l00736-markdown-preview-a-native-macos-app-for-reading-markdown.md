@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Productivity & collaboration"
 resource: "https://md-preview.app/"
 tags: [websites-products, productivity-collaboration]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T19:10:44Z"
 alchemy:
   source_type: "url"

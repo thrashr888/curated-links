@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by fabro-sh"
 resource: "https://github.com/fabro-sh/fabro"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-19T00:30:57Z"
 alchemy:
   source_type: "url"

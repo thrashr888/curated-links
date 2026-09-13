@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post"
 resource: "https://www.linkedin.com/posts/seanacassidy_if-you-are-making-a-product-dont-have-an-activity-7500699106407862275-eCfw"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-03T01:54:56Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Security & identity"
 resource: "https://www.citadelsecurities.com/news-and-insights/2026-global-intelligence-crisis/"
 tags: [websites-products, security-identity]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-27T17:04:17Z"
 alchemy:
   source_type: "url"

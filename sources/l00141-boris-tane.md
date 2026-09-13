@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://boristane.com/blog/the-software-development-lifecycle-is-dead/"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:24:39Z"
 alchemy:
   source_type: "url"

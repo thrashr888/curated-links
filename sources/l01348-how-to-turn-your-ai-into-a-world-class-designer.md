@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Design & fr
 resource: "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world"
 tags: [articles-announcements, design-frontend, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-03T16:40:06Z"
 alchemy:
   source_type: "url"

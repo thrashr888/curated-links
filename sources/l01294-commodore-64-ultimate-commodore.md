@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://commodore.net/store/commodore64/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-26T20:35:42Z"
 alchemy:
   source_type: "url"

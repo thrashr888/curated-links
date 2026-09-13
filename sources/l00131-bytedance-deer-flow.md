@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by bytedance"
 resource: "https://github.com/bytedance/deer-flow"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-04T02:54:19Z"
 alchemy:
   source_type: "url"

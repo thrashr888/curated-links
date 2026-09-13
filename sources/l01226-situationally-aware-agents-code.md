@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI agents & automation"
 resource: "https://labs.google/code/experiments/situationally-aware-agents"
 tags: [websites-products, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T22:12:37Z"
 alchemy:
   source_type: "url"

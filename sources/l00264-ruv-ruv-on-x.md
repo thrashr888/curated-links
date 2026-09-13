@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by rUv"
 resource: "https://x.com/rUv/status/2034044866422845760"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-19T00:35:22Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by atullchaurasia"
 resource: "https://x.com/atullchaurasia/status/2087838102698246570"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T21:29:46Z"
 alchemy:
   source_type: "url"

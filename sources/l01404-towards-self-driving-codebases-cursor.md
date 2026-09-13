@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI coding &
 resource: "https://cursor.com/blog/self-driving-codebases"
 tags: [articles-announcements, ai-coding-software-development]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-09T23:55:06Z"
 alchemy:
   source_type: "url"

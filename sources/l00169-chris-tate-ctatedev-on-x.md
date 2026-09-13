@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by ctatedev"
 resource: "https://x.com/ctatedev/status/2030100369506709691"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:41:03Z"
 alchemy:
   source_type: "url"

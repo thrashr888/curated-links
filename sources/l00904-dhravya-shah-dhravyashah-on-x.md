@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by DhravyaShah"
 resource: "https://x.com/DhravyaShah/status/2064749237498519923"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T02:01:27Z"
 alchemy:
   source_type: "url"

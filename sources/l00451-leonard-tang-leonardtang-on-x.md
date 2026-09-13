@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by leonardtang_"
 resource: "https://x.com/leonardtang_/status/2040122646197612557"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-07T23:41:45Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Documentation & guides · Documentation · Security & identity, AI
 resource: "https://platform.claude.com/docs/en/manage-claude/workload-identity-federation"
 tags: [documentation-guides, security-identity, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T19:12:13Z"
 alchemy:
   source_type: "url"

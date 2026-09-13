@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Data & databases"
 resource: "https://traks.dev/"
 tags: [websites-products, data-databases]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T00:57:32Z"
 alchemy:
   source_type: "url"

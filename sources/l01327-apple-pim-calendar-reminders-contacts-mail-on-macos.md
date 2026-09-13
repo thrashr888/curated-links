@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Productivity & collaboration"
 resource: "https://apple-pim.omarknows.app/"
 tags: [websites-products, productivity-collaboration]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-01T23:33:51Z"
 alchemy:
   source_type: "url"

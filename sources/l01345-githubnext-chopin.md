@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by githubnext"
 resource: "https://github.com/githubnext/chopin"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-03T16:37:20Z"
 alchemy:
   source_type: "url"

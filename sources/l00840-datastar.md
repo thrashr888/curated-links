@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Data & databases"
 resource: "https://data-star.dev/"
 tags: [websites-products, data-databases]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-27T19:09:00Z"
 alchemy:
   source_type: "url"

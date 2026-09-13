@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by WillManidis"
 resource: "https://x.com/WillManidis/status/2021655191901155534"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-13T01:22:16Z"
 alchemy:
   source_type: "url"

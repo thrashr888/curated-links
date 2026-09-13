@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Cloud & inf
 resource: "https://parallel.ai/blog/parallel-mpp-dev"
 tags: [articles-announcements, cloud-infrastructure, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T19:16:06Z"
 alchemy:
   source_type: "url"

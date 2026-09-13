@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Productivity & collaboration, A
 resource: "https://useblume.dev/"
 tags: [websites-products, productivity-collaboration, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-15T20:58:37Z"
 alchemy:
   source_type: "url"

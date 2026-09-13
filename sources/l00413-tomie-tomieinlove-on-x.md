@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by tomieinlove"
 resource: "https://x.com/tomieinlove/status/2009064543239196855"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-01T00:45:06Z"
 alchemy:
   source_type: "url"

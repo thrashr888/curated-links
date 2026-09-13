@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by gakonst"
 resource: "https://x.com/gakonst/status/2028188886594404497"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-02T18:50:29Z"
 alchemy:
   source_type: "url"

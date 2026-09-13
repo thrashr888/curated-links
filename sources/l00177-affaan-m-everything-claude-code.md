@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · AI coding & software developm
 resource: "https://github.com/affaan-m/everything-claude-code"
 tags: [code-repositories, ai-coding-software-development, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:43:47Z"
 alchemy:
   source_type: "url"

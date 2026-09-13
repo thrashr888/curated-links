@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by synthwavedd"
 resource: "https://x.com/synthwavedd/status/2085365276640702915"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-06T16:56:48Z"
 alchemy:
   source_type: "url"

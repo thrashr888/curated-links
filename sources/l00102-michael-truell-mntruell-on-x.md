@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by mntruell"
 resource: "https://x.com/mntruell/status/2026736314272591924"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-02T18:54:35Z"
 alchemy:
   source_type: "url"

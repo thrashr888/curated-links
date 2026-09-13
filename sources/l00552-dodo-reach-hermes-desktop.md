@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by dodo-reach"
 resource: "https://github.com/dodo-reach/hermes-desktop"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:26:27Z"
 alchemy:
   source_type: "url"

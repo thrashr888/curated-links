@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by pinchtab"
 resource: "https://github.com/pinchtab/pinchtab"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-20T00:40:26Z"
 alchemy:
   source_type: "url"

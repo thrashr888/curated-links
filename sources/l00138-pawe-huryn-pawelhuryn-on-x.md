@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by PawelHuryn"
 resource: "https://x.com/PawelHuryn/status/2028902129536999818"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:24:04Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Design & fr
 resource: "https://www.copilotkit.ai/blog/a2ui-whats-new-in-google-generative-ui-spec"
 tags: [articles-announcements, design-frontend, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:26:48Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI coding & software developmen
 resource: "https://www.opensession.com/"
 tags: [websites-products, ai-coding-software-development, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-01T22:58:57Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by steveruizok"
 resource: "https://x.com/steveruizok/status/2037081981201129584"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:28:50Z"
 alchemy:
   source_type: "url"

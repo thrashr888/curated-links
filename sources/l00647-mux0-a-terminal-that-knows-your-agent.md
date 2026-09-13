@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI agents & automation, Develop
 resource: "https://mux0.com/"
 tags: [websites-products, ai-agents-automation, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T23:53:27Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Cloud & infrastructure, AI agen
 resource: "https://opencomputer.dev/"
 tags: [websites-products, cloud-infrastructure, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-24T05:55:40Z"
 alchemy:
   source_type: "url"

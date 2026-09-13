@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by GoogleCloudPlatform"
 resource: "https://github.com/GoogleCloudPlatform/scion"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-09T15:41:31Z"
 alchemy:
   source_type: "url"

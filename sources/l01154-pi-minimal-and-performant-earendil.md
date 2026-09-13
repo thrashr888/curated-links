@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://earendil.com/posts/pi-autoresearch-and-databricks/"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-06T16:32:29Z"
 alchemy:
   source_type: "url"

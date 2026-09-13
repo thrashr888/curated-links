@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by DimitrisPapail"
 resource: "https://x.com/DimitrisPapail/status/2028669695344148946"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-03T17:15:32Z"
 alchemy:
   source_type: "url"

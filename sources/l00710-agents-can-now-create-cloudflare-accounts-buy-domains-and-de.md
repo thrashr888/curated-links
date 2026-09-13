@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Cloud & inf
 resource: "https://blog.cloudflare.com/agents-stripe-projects/"
 tags: [articles-announcements, cloud-infrastructure, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-30T15:21:25Z"
 alchemy:
   source_type: "url"

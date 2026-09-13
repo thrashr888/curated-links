@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by slash1sol"
 resource: "https://x.com/slash1sol/status/2032564109791703167"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:26:16Z"
 alchemy:
   source_type: "url"

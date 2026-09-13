@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by tszzl"
 resource: "https://x.com/tszzl/status/2084766357531546045"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-06T16:29:50Z"
 alchemy:
   source_type: "url"

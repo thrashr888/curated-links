@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by LukeW"
 resource: "https://x.com/LukeW/status/2046622638051856689"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T21:00:50Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI agents & automation, AI mode
 resource: "https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/"
 tags: [websites-products, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-01T00:49:51Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by ripienaar"
 resource: "https://github.com/ripienaar/free-for-dev"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-22T00:08:06Z"
 alchemy:
   source_type: "url"

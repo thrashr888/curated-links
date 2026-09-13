@@ -5,7 +5,7 @@ description: "Websites & products · Web page · MCP & agent integrations"
 resource: "https://www.skills.sh/aminblg/simpleenglish/simple-english"
 tags: [websites-products, mcp-agent-integrations]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-09T23:59:37Z"
 alchemy:
   source_type: "url"

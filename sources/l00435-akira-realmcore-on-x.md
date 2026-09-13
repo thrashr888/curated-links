@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by realmcore_"
 resource: "https://x.com/realmcore_/status/2039382343581147414"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-03T21:34:38Z"
 alchemy:
   source_type: "url"

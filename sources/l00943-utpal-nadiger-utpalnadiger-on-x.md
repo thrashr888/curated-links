@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by utpalnadiger"
 resource: "https://x.com/utpalnadiger/status/2066719734650069141/photo/1"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-25T23:52:59Z"
 alchemy:
   source_type: "url"

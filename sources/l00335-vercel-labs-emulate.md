@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by vercel-labs"
 resource: "https://github.com/vercel-labs/emulate"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-24T00:24:22Z"
 alchemy:
   source_type: "url"

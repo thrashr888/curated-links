@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by repsiace"
 resource: "https://x.com/repsiace/status/2047025311590895744"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T22:57:52Z"
 alchemy:
   source_type: "url"

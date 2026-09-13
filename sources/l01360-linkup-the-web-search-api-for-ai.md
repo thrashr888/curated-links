@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI models & research, Developer
 resource: "https://www.linkup.so/"
 tags: [websites-products, ai-models-research, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T00:52:30Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI models & research, Developer
 resource: "https://gitnimble.com/"
 tags: [websites-products, ai-models-research, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T00:57:40Z"
 alchemy:
   source_type: "url"

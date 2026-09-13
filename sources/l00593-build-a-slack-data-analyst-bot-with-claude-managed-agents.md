@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Data & databases, AI agents & a
 resource: "https://platform.claude.com/cookbook/managed-agents-slack-data-bot"
 tags: [websites-products, data-databases, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-22T21:54:48Z"
 alchemy:
   source_type: "url"

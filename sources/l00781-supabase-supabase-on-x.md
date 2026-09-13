@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by supabase"
 resource: "https://x.com/supabase/status/2052392264627007585"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T15:39:47Z"
 alchemy:
   source_type: "url"

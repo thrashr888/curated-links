@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by arizeai"
 resource: "https://x.com/arizeai/status/2045615008453660917"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:28:40Z"
 alchemy:
   source_type: "url"

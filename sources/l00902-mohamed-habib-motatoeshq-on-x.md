@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by motatoeshq"
 resource: "https://x.com/motatoeshq/status/2064878292562538612"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T02:00:59Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by coreyganim"
 resource: "https://x.com/coreyganim/status/2029148164838555874"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:24:24Z"
 alchemy:
   source_type: "url"

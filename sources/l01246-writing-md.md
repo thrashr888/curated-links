@@ -5,7 +5,7 @@ description: "Code & repositories · Source file · by thrashr888"
 resource: "https://github.com/thrashr888/alchemy/blob/main/WRITING.md"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-19T18:58:19Z"
 alchemy:
   source_type: "url"

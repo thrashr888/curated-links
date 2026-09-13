@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by OpenAINewsroom"
 resource: "https://x.com/OpenAINewsroom/status/2034616934671724639"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-21T00:02:21Z"
 alchemy:
   source_type: "url"

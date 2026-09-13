@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T00:15:57Z"
 alchemy:
   source_type: "url"

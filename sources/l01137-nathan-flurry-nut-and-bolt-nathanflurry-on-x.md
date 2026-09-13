@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by NathanFlurry"
 resource: "https://x.com/NathanFlurry/status/2081498476970725735"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-27T17:41:59Z"
 alchemy:
   source_type: "url"

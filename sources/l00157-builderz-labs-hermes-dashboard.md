@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by builderz-labs"
 resource: "https://github.com/builderz-labs/hermes-dashboard"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:33:37Z"
 alchemy:
   source_type: "url"

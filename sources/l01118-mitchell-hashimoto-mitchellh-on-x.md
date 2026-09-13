@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by mitchellh"
 resource: "https://x.com/mitchellh/status/2078355782090060206"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-22T01:20:28Z"
 alchemy:
   source_type: "url"

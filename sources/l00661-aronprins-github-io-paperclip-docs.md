@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://aronprins.github.io/paperclip-docs/#/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T22:37:01Z"
 alchemy:
   source_type: "url"

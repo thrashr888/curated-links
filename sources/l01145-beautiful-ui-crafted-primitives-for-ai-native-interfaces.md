@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Design & frontend, AI models & 
 resource: "https://beautiful-ui-five.vercel.app/"
 tags: [websites-products, design-frontend, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-06T16:22:17Z"
 alchemy:
   source_type: "url"

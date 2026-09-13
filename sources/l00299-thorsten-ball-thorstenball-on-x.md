@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by thorstenball"
 resource: "https://x.com/thorstenball/status/2034529829681299593"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-21T00:05:40Z"
 alchemy:
   source_type: "url"

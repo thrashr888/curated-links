@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI coding &
 resource: "https://claude.com/blog/agent-view-in-claude-code"
 tags: [articles-announcements, ai-coding-software-development, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T15:47:58Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · AI coding & software developm
 resource: "https://github.com/openai/codex-security"
 tags: [code-repositories, ai-coding-software-development, security-identity, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-06T16:20:57Z"
 alchemy:
   source_type: "url"

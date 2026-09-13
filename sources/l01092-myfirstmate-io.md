@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://myfirstmate.io/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-17T19:24:23Z"
 alchemy:
   source_type: "url"

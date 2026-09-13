@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by rough__sea"
 resource: "https://x.com/rough__sea/status/2092091242377265562"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-26T16:52:07Z"
 alchemy:
   source_type: "url"

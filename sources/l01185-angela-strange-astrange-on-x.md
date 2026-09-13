@@ -5,7 +5,7 @@ description: "Social media & discussions · Social page · by astrange"
 resource: "https://x.com/astrange"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-11T17:00:39Z"
 alchemy:
   source_type: "url"

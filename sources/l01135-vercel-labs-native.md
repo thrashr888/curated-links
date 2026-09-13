@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by vercel-labs"
 resource: "https://github.com/vercel-labs/native"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-27T16:59:51Z"
 alchemy:
   source_type: "url"

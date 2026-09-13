@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by AdamRLucek"
 resource: "https://x.com/AdamRLucek/status/2059383656506920970"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-26T23:43:30Z"
 alchemy:
   source_type: "url"

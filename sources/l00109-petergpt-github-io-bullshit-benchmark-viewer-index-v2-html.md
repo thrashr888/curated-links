@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Observability & evaluation"
 resource: "https://petergpt.github.io/bullshit-benchmark/viewer/index.v2.html"
 tags: [websites-products, observability-evaluation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-03T17:12:59Z"
 alchemy:
   source_type: "url"

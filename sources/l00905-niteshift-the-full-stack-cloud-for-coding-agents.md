@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI coding & software developmen
 resource: "https://niteshift.dev/"
 tags: [websites-products, ai-coding-software-development, cloud-infrastructure, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T02:01:38Z"
 alchemy:
   source_type: "url"

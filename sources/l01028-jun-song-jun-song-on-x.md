@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by jun_song"
 resource: "https://x.com/jun_song/status/2071548123038757187"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T22:45:30Z"
 alchemy:
   source_type: "url"

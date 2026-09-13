@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by rivet_dev"
 resource: "https://x.com/rivet_dev/status/2034295508446187619"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-19T15:59:50Z"
 alchemy:
   source_type: "url"

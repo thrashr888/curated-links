@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://www.waveshare.com/esp32-s3-touch-amoled-1.75c.htm?sku=33691&aff_id=Waveshare"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-09T23:55:47Z"
 alchemy:
   source_type: "url"

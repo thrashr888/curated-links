@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by anomalyco"
 resource: "https://github.com/anomalyco/haunt"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T01:03:01Z"
 alchemy:
   source_type: "url"

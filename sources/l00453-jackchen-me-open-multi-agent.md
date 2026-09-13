@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · Agent orchestration & workspa
 resource: "https://github.com/JackChen-me/open-multi-agent"
 tags: [code-repositories, agent-orchestration-workspaces, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-07T23:42:34Z"
 alchemy:
   source_type: "url"

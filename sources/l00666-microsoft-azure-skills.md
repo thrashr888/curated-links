@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · MCP & agent integrations · b
 resource: "https://github.com/microsoft/azure-skills"
 tags: [code-repositories, mcp-agent-integrations]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T22:42:01Z"
 alchemy:
   source_type: "url"

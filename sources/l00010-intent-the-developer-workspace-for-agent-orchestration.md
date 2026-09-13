@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Agent orchestration & workspace
 resource: "https://www.augmentcode.com/product/intent"
 tags: [websites-products, agent-orchestration-workspaces, ai-agents-automation, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-13T01:19:07Z"
 alchemy:
   source_type: "url"

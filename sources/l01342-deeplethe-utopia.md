@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by deeplethe"
 resource: "https://github.com/deeplethe/utopia"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-03T16:36:30Z"
 alchemy:
   source_type: "url"

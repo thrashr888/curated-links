@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · Cloud & infrastructure · by 
 resource: "https://github.com/containers/libkrun"
 tags: [code-repositories, cloud-infrastructure]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:30:59Z"
 alchemy:
   source_type: "url"

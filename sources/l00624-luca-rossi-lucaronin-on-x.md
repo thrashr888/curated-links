@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by lucaronin"
 resource: "https://x.com/lucaronin/status/2046877445748322418"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T23:01:06Z"
 alchemy:
   source_type: "url"

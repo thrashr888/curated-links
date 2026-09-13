@@ -5,7 +5,7 @@ description: "Videos & talks · Video · AI models & research"
 resource: "https://www.youtube.com/watch?v=87DyyMV0kCY"
 tags: [videos-talks, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-11T16:56:22Z"
 alchemy:
   source_type: "url"

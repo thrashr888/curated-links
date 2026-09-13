@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by DanielMiessler"
 resource: "https://x.com/DanielMiessler/status/2058699741140222055"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-26T22:34:46Z"
 alchemy:
   source_type: "url"

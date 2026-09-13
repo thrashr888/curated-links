@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by sentry_fka"
 resource: "https://x.com/sentry_fka/status/2048578875714596946"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T22:56:46Z"
 alchemy:
   source_type: "url"

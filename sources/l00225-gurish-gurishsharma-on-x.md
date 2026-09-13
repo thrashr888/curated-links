@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by gurishsharma"
 resource: "https://x.com/gurishsharma/status/2032331313508671857"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:23:29Z"
 alchemy:
   source_type: "url"

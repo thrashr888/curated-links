@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by davis7"
 resource: "https://x.com/davis7/status/2032991801876033739"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:26:43Z"
 alchemy:
   source_type: "url"

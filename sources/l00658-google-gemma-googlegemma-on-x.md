@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by googlegemma"
 resource: "https://x.com/googlegemma/status/2047406475631624285"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T22:35:43Z"
 alchemy:
   source_type: "url"

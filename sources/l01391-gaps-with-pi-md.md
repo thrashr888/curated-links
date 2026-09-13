@@ -5,7 +5,7 @@ description: "Code & repositories · Source file · by thrashr888"
 resource: "https://github.com/thrashr888/shift/blob/main/docs/gaps-with-pi.md"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T08:23:19Z"
 alchemy:
   source_type: "url"

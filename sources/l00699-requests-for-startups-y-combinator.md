@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://www.ycombinator.com/rfs"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T23:05:32Z"
 alchemy:
   source_type: "url"

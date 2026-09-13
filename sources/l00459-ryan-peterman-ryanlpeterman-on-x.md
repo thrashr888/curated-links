@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by ryanlpeterman"
 resource: "https://x.com/ryanlpeterman/status/2038617623030808944"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-07T23:45:09Z"
 alchemy:
   source_type: "url"

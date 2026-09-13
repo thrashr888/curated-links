@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Data & data
 resource: "https://www.adaptionlabs.ai/blog/adaption-launches-adaptive-data-beta"
 tags: [articles-announcements, data-databases, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:23:06Z"
 alchemy:
   source_type: "url"

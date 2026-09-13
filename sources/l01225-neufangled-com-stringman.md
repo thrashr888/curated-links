@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://neufangled.com/stringman"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T22:09:08Z"
 alchemy:
   source_type: "url"

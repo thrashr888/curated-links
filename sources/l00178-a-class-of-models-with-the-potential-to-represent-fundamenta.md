@@ -5,7 +5,7 @@ description: "Research & papers · Research paper or index"
 resource: "https://arxiv.org/abs/2004.08210"
 tags: [research-papers]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:43:57Z"
 alchemy:
   source_type: "url"

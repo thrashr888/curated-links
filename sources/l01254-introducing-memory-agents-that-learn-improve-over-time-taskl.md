@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Agent memor
 resource: "https://tasklet.ai/blog/2026-08-12-agent-memory"
 tags: [articles-announcements, agent-memory-knowledge, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-20T23:30:30Z"
 alchemy:
   source_type: "url"

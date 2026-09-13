@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by poetengineer__"
 resource: "https://x.com/poetengineer__/status/2036479827193090399"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:14:59Z"
 alchemy:
   source_type: "url"

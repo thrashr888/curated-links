@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by samhogan"
 resource: "https://x.com/samhogan/status/2071608749429829858"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T22:42:06Z"
 alchemy:
   source_type: "url"

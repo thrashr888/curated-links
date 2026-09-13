@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by infisical"
 resource: "https://x.com/infisical/status/2052416761157279850"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T17:39:42Z"
 alchemy:
   source_type: "url"

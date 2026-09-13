@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Design & frontend, AI agents & 
 resource: "https://libraries.dev/"
 tags: [websites-products, design-frontend, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T00:52:47Z"
 alchemy:
   source_type: "url"

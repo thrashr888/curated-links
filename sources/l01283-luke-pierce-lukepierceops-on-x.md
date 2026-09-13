@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by lukepierceops"
 resource: "https://x.com/lukepierceops/status/2091949409231880377"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-26T16:54:05Z"
 alchemy:
   source_type: "url"

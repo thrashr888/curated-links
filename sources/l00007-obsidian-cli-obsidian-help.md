@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Developer tools"
 resource: "https://help.obsidian.md/cli"
 tags: [websites-products, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-13T01:18:00Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by vercel-labs"
 resource: "https://github.com/vercel-labs/zerolang"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T15:53:59Z"
 alchemy:
   source_type: "url"

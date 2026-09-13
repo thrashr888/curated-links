@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · MCP & agent
 resource: "https://blog.cloudflare.com/code-mode-mcp/"
 tags: [articles-announcements, mcp-agent-integrations, ai-agents-automation, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-14T19:37:49Z"
 alchemy:
   source_type: "url"

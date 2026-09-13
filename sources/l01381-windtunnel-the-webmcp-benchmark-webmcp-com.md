@@ -5,7 +5,7 @@ description: "Websites & products · Web page · MCP & agent integrations, Obser
 resource: "https://webmcp.com/benchmark"
 tags: [websites-products, mcp-agent-integrations, observability-evaluation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-07T00:59:48Z"
 alchemy:
   source_type: "url"

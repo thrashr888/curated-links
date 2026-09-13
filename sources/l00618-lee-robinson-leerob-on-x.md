@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by leerob"
 resource: "https://x.com/leerob/status/2046788389937000576"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T21:03:44Z"
 alchemy:
   source_type: "url"

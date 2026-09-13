@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by buchan_sm"
 resource: "https://x.com/buchan_sm/status/2044524727679566156"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-16T22:18:14Z"
 alchemy:
   source_type: "url"

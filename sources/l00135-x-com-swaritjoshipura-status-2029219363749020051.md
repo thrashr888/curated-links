@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by swaritjoshipura"
 resource: "https://x.com/swaritjoshipura/status/2029219363749020051"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-04T15:57:35Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by sarahwooders"
 resource: "https://x.com/sarahwooders/status/2040121230473457921"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-07T23:41:58Z"
 alchemy:
   source_type: "url"

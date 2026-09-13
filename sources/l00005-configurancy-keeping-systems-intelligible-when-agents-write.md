@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Data & data
 resource: "https://electric-sql.com/blog/2026/02/02/configurancy"
 tags: [articles-announcements, data-databases, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-13T01:17:21Z"
 alchemy:
   source_type: "url"

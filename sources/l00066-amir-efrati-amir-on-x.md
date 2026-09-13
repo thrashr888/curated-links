@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by amir"
 resource: "https://x.com/amir/status/2026694876658807236"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-27T16:59:19Z"
 alchemy:
   source_type: "url"

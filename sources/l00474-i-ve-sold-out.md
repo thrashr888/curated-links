@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement"
 resource: "https://mariozechner.at/posts/2026-04-08-ive-sold-out/"
 tags: [articles-announcements]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-09T15:27:54Z"
 alchemy:
   source_type: "url"

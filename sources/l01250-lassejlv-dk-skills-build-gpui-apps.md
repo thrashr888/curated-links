@@ -5,7 +5,7 @@ description: "Websites & products · Web page · MCP & agent integrations"
 resource: "https://lassejlv.dk/skills/build-gpui-apps"
 tags: [websites-products, mcp-agent-integrations]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-20T23:27:30Z"
 alchemy:
   source_type: "url"

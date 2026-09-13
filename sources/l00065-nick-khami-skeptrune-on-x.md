@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by skeptrune"
 resource: "https://x.com/skeptrune/status/2026453061951176956"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-27T16:59:11Z"
 alchemy:
   source_type: "url"

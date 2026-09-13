@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by michelleefang"
 resource: "https://x.com/michelleefang/status/2051407763071463475"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-07T19:11:27Z"
 alchemy:
   source_type: "url"

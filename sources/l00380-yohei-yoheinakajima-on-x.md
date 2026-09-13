@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by yoheinakajima"
 resource: "https://x.com/yoheinakajima/status/2036876167752659252"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:26:20Z"
 alchemy:
   source_type: "url"

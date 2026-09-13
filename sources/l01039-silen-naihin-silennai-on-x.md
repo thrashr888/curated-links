@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by silennai"
 resource: "https://x.com/silennai/status/2071980039873364036"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T22:49:04Z"
 alchemy:
   source_type: "url"

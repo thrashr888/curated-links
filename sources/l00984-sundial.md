@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://www.sundial.md/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T00:21:11Z"
 alchemy:
   source_type: "url"

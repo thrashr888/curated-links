@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI coding & software developmen
 resource: "https://livemy.app/"
 tags: [websites-products, ai-coding-software-development, cloud-infrastructure, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-09T12:49:28Z"
 alchemy:
   source_type: "url"

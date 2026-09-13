@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by jayfarei"
 resource: "https://x.com/jayfarei/status/2046206697325187254"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:36:35Z"
 alchemy:
   source_type: "url"

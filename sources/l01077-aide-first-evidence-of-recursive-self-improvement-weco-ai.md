@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI models &
 resource: "https://www.weco.ai/blog/first-evidence-of-recursive-self-improvement"
 tags: [articles-announcements, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-15T21:02:04Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by davebcn87"
 resource: "https://github.com/davebcn87/pi-autoresearch"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:17:48Z"
 alchemy:
   source_type: "url"

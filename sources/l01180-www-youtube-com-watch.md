@@ -5,7 +5,7 @@ description: "Videos & talks · Video"
 resource: "https://www.youtube.com/watch?v=UTTeXZrpMR0&t=1s"
 tags: [videos-talks]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-11T16:59:12Z"
 alchemy:
   source_type: "url"

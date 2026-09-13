@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by davidad"
 resource: "https://x.com/davidad/status/2046319263401619582"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:34:14Z"
 alchemy:
   source_type: "url"

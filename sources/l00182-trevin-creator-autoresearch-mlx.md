@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by trevin-creator"
 resource: "https://github.com/trevin-creator/autoresearch-mlx"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:44:57Z"
 alchemy:
   source_type: "url"

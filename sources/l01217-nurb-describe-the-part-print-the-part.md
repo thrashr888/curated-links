@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://nurb.dev/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-17T21:35:04Z"
 alchemy:
   source_type: "url"

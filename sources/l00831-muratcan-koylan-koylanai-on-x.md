@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by koylanai"
 resource: "https://x.com/koylanai/status/2059113412278227328"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-26T23:44:35Z"
 alchemy:
   source_type: "url"

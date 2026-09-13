@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Security & 
 resource: "https://workos.com/blog/agents-need-authorization-not-just-authentication"
 tags: [articles-announcements, security-identity, ai-agents-automation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-22T21:57:02Z"
 alchemy:
   source_type: "url"

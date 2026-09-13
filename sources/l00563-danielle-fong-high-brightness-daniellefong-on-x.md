@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by DanielleFong"
 resource: "https://x.com/DanielleFong/status/2046357527110340852"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-21T23:33:48Z"
 alchemy:
   source_type: "url"

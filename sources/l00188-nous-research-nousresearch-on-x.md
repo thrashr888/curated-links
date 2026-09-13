@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by NousResearch"
 resource: "https://x.com/NousResearch/status/2031137681439109147"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:51:07Z"
 alchemy:
   source_type: "url"

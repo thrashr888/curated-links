@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://ramp.com/router"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-22T01:17:18Z"
 alchemy:
   source_type: "url"

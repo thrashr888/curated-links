@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by antonbabenko"
 resource: "https://x.com/antonbabenko/status/2047017123965276663"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T23:33:45Z"
 alchemy:
   source_type: "url"

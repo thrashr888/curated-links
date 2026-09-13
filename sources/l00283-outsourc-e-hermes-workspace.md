@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by outsourc-e"
 resource: "https://github.com/outsourc-e/hermes-workspace"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-20T23:55:36Z"
 alchemy:
   source_type: "url"

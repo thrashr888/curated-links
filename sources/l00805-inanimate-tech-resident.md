@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by inanimate-tech"
 resource: "https://github.com/inanimate-tech/resident"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T16:24:06Z"
 alchemy:
   source_type: "url"

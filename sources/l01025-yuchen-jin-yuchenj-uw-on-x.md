@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by Yuchenj_UW"
 resource: "https://x.com/Yuchenj_UW/status/2071278256817574297"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T22:41:48Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Cloud & infrastructure, AI agen
 resource: "https://www.kernel.sh/"
 tags: [websites-products, cloud-infrastructure, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T21:49:03Z"
 alchemy:
   source_type: "url"

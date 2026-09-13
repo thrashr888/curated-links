@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by _prisis_"
 resource: "https://x.com/_prisis_/status/2071892044952256779"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T22:47:06Z"
 alchemy:
   source_type: "url"

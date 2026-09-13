@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Developer tools"
 resource: "https://www.notion.com/product/dev"
 tags: [websites-products, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T15:49:34Z"
 alchemy:
   source_type: "url"

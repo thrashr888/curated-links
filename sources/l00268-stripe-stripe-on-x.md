@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by stripe"
 resource: "https://x.com/stripe/status/2034257912973963374"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-19T00:39:02Z"
 alchemy:
   source_type: "url"

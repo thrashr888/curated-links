@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by astuyve"
 resource: "https://x.com/astuyve/status/2069220271915971015"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T00:12:52Z"
 alchemy:
   source_type: "url"

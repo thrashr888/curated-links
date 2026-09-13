@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by rivet-dev"
 resource: "https://github.com/rivet-dev/antiox"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-01T00:35:31Z"
 alchemy:
   source_type: "url"

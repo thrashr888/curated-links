@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI agents &
 resource: "https://www.developersdigest.tech/blog/log-is-the-agent-event-sourced-ai"
 tags: [articles-announcements, ai-agents-automation, ai-models-research, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-15T21:04:27Z"
 alchemy:
   source_type: "url"

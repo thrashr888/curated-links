@@ -5,7 +5,7 @@ description: "Code & repositories · Source file · Agent memory & knowledge · 
 resource: "https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md"
 tags: [code-repositories, agent-memory-knowledge]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-16T02:10:03Z"
 alchemy:
   source_type: "url"

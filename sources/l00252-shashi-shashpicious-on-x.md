@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by shashpicious_"
 resource: "https://x.com/shashpicious_/status/2033762606452965491"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:33:52Z"
 alchemy:
   source_type: "url"

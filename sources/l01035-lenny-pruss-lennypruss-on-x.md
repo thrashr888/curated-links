@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by lennypruss"
 resource: "https://x.com/lennypruss/status/2071980187445833842"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T22:47:33Z"
 alchemy:
   source_type: "url"

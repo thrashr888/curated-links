@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by sheruapp"
 resource: "https://x.com/sheruapp/status/2077302077068554480"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-15T21:06:53Z"
 alchemy:
   source_type: "url"

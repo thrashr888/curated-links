@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · AI models & research · by su
 resource: "https://github.com/sudocode-ai/sudocode?tab=readme-ov-file#external-integrations"
 tags: [code-repositories, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-03T14:59:17Z"
 alchemy:
   source_type: "url"

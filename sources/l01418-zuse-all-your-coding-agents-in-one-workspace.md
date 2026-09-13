@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Agent orchestration & workspace
 resource: "https://www.zuse.sh/"
 tags: [websites-products, agent-orchestration-workspaces, ai-coding-software-development, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-10T00:06:38Z"
 alchemy:
   source_type: "url"

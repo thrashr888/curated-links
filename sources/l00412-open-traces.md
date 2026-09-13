@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Observability & evaluation, AI 
 resource: "https://www.opentraces.ai/"
 tags: [websites-products, observability-evaluation, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-01T00:44:17Z"
 alchemy:
   source_type: "url"

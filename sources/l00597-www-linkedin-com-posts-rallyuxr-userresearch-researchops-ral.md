@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post"
 resource: "https://www.linkedin.com/posts/rallyuxr_userresearch-researchops-rallyuxr-activity-7452787006637707264-ZwCl?rcm=ACoAADMshV4BtG0l3mDisxwnoyXuWMMImhIxlSQ"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-22T22:22:07Z"
 alchemy:
   source_type: "url"

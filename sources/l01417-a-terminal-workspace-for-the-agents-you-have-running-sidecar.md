@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Agent orchestration & workspace
 resource: "https://sidecar.haplab.com/"
 tags: [websites-products, agent-orchestration-workspaces, ai-agents-automation, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-10T00:06:24Z"
 alchemy:
   source_type: "url"

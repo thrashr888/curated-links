@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by blakeandersonw"
 resource: "https://x.com/blakeandersonw/status/2038276867464061056"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-01T00:42:47Z"
 alchemy:
   source_type: "url"

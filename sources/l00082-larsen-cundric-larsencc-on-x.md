@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by larsencc"
 resource: "https://x.com/larsencc/status/2027225210412470668"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-27T17:05:24Z"
 alchemy:
   source_type: "url"

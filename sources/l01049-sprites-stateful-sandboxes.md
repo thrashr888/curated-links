@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Security & identity"
 resource: "https://sprites.dev/"
 tags: [websites-products, security-identity]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-07T23:05:36Z"
 alchemy:
   source_type: "url"

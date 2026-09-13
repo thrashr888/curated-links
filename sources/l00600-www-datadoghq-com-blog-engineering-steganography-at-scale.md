@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Security & 
 resource: "https://www.datadoghq.com/blog/engineering/steganography-at-scale/"
 tags: [articles-announcements, security-identity]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T20:53:36Z"
 alchemy:
   source_type: "url"

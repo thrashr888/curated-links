@@ -5,7 +5,7 @@ description: "Websites & products · Web page · AI models & research"
 resource: "https://paxmachina.ai/welcome-to-pax-machina"
 tags: [websites-products, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-06T16:32:53Z"
 alchemy:
   source_type: "url"

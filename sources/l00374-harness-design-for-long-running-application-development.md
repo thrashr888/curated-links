@@ -5,7 +5,7 @@ description: "Websites & products · Web page · Design & frontend, AI models & 
 resource: "https://www.anthropic.com/engineering/harness-design-long-running-apps"
 tags: [websites-products, design-frontend, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-27T17:24:00Z"
 alchemy:
   source_type: "url"

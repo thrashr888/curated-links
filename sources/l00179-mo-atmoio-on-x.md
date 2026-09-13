@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by atmoio"
 resource: "https://x.com/atmoio/status/2030289138126107074"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-10T16:44:20Z"
 alchemy:
   source_type: "url"

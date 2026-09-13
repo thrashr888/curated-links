@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by ashwingop"
 resource: "https://x.com/ashwingop/status/2093026452929405356"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-01T23:32:10Z"
 alchemy:
   source_type: "url"

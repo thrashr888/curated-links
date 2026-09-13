@@ -5,7 +5,7 @@ description: "Research & papers · Research paper or index · Data & databases, 
 resource: "https://arxiv.org/abs/2603.08938"
 tags: [research-papers, data-databases, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-12T19:03:06Z"
 alchemy:
   source_type: "url"

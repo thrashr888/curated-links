@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · AI coding & software developmen
 resource: "https://www.roughdraft.md/"
 tags: [websites-products, ai-coding-software-development, productivity-collaboration, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-21T16:22:54Z"
 alchemy:
   source_type: "url"

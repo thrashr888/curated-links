@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by Leonxlnx"
 resource: "https://github.com/Leonxlnx/taste-skill"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-17T21:29:32Z"
 alchemy:
   source_type: "url"

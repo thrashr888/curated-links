@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI models &
 resource: "https://charitydotwtf.substack.com/p/ai-demands-more-engineering-discipline"
 tags: [articles-announcements, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-26T15:12:07Z"
 alchemy:
   source_type: "url"

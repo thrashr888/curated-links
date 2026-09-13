@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by dabit3"
 resource: "https://x.com/dabit3/status/2028905998560436502"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-04T00:33:16Z"
 alchemy:
   source_type: "url"

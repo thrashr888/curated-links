@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Cloud & inf
 resource: "https://cloud.google.com/blog/products/serverless/whats-new-for-cloud-run-at-next26?e=48754805"
 tags: [articles-announcements, cloud-infrastructure]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-23T23:20:25Z"
 alchemy:
   source_type: "url"

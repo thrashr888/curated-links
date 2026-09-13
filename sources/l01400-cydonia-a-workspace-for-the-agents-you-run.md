@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Agent orchestration & workspace
 resource: "https://cydonia.sh/"
 tags: [websites-products, agent-orchestration-workspaces, ai-agents-automation]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-09-09T23:49:51Z"
 alchemy:
   source_type: "url"

@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by cloudflare"
 resource: "https://github.com/cloudflare/cloudflare-os"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-08-06T16:34:14Z"
 alchemy:
   source_type: "url"

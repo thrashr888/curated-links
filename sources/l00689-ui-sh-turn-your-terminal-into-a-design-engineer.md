@@ -5,7 +5,7 @@ description: "Websites & products · Homepage · Design & frontend, Developer to
 resource: "https://ui.sh/"
 tags: [websites-products, design-frontend, developer-tools]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-28T22:59:02Z"
 alchemy:
   source_type: "url"

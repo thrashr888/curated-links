@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by danshipper"
 resource: "https://x.com/danshipper/status/2035842017553465814"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-24T00:30:37Z"
 alchemy:
   source_type: "url"

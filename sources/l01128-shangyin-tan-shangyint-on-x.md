@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by ShangyinT"
 resource: "https://x.com/ShangyinT/status/2080334982988562452"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-07-27T16:51:08Z"
 alchemy:
   source_type: "url"

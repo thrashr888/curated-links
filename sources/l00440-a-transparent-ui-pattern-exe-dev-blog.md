@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · Design & fr
 resource: "https://blog.exe.dev/a-simple-ui-pattern"
 tags: [articles-announcements, design-frontend]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-03T21:38:08Z"
 alchemy:
   source_type: "url"

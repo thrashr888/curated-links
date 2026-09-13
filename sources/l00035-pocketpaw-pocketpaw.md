@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · by pocketpaw"
 resource: "https://github.com/pocketpaw/pocketpaw"
 tags: [code-repositories]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-17T23:12:02Z"
 alchemy:
   source_type: "url"

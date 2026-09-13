@@ -5,7 +5,7 @@ description: "Code & repositories · Repository · AI models & research · by op
 resource: "https://github.com/openai/privacy-filter"
 tags: [code-repositories, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-22T15:42:40Z"
 alchemy:
   source_type: "url"

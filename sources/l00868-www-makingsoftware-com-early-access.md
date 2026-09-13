@@ -5,7 +5,7 @@ description: "Websites & products · Web page"
 resource: "https://www.makingsoftware.com/early-access"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-06-08T21:45:14Z"
 alchemy:
   source_type: "url"

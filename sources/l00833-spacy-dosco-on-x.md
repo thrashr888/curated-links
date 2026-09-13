@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by dosco"
 resource: "https://x.com/dosco/status/2059338102230135198"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-05-26T23:45:25Z"
 alchemy:
   source_type: "url"

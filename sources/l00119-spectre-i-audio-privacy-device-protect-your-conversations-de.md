@@ -5,7 +5,7 @@ description: "Websites & products · Homepage"
 resource: "https://www.deveillance.com/"
 tags: [websites-products]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-03-03T17:31:44Z"
 alchemy:
   source_type: "url"

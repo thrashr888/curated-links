@@ -5,7 +5,7 @@ description: "Articles & announcements · Article or announcement · AI models &
 resource: "https://www.anthropic.com/news/claude-sonnet-4-6"
 tags: [articles-announcements, ai-models-research]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-02-17T23:21:00Z"
 alchemy:
   source_type: "url"

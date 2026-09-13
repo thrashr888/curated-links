@@ -5,7 +5,7 @@ description: "Social media & discussions · Social post · by essamsleiman"
 resource: "https://x.com/essamsleiman/status/2041224799746428944"
 tags: [social-media-discussions]
 generated:
-  by: "curated-links"
+  by: "curated-links/1"
   at: "2026-04-07T23:46:56Z"
 alchemy:
   source_type: "url"
