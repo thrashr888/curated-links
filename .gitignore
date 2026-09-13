@@ -1,0 +1,4 @@
+# Raw exports carry Slack permalinks and channel ids; they stay local.
+raw/
+__pycache__/
+.DS_Store
