@@ -33,7 +33,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/WillManidis/status/2021655191901155534": {
+ "https://x.com/willmanidis/status/2021655191901155534": {
   "status": "ok",
   "author": "WillManidis",
   "text": "",
@@ -54,7 +54,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/HammadTime/status/2022868742259327107": {
+ "https://x.com/hammadtime/status/2022868742259327107": {
   "status": "ok",
   "author": "HammadTime",
   "text": "Last year at @tryramp I laid out three predictions for how language models would evolve. I was trying to clarify which bets might actually be durable over time.\n\nA lot of it is now starting to take shape.\n\nHere’s an update. Thread 👇",
@@ -75,7 +75,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/AmbsdOP/status/2023152707045937541": {
+ "https://x.com/ambsdop/status/2023152707045937541": {
   "status": "ok",
   "author": "AmbsdOP",
   "text": "Mac user? You now have Suno at home.\nI ported ACE-Step 1.5 to native Swift  - Offline. no Python, no cloud, no subscription.\n- Runs 100% on Apple Silicon (Metal GPU)\n- Full song generation in seconds\n- Personas (LoRA voice styles) built in\n- Audio editor + stem separation\n- Coming to the App Store FOR FREE\nYour music. Your hardware. No limits.\nSave this -  dropping soon on App Store  🔥\n\n#Suno #MusicAI #OpenSource #udio #aimusic #acestep #apple #swift #macOS\n#acestep",
@@ -106,7 +106,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/Vtrivedy10/status/2023805578561060992": {
+ "https://x.com/vtrivedy10/status/2023805578561060992": {
   "status": "ok",
   "author": "Vtrivedy10",
   "text": "",
@@ -185,7 +185,7 @@
   "quote": "",
   "image": "https://pbs.twimg.com/media/HCBEEZ2aIAAhlfQ.jpg?name=orig"
  },
- "https://x.com/NousResearch/status/2026758996107898954": {
+ "https://x.com/nousresearch/status/2026758996107898954": {
   "status": "ok",
   "author": "NousResearch",
   "text": "Meet Hermes Agent, the open source agent that grows with you.\n\nHermes Agent remembers what it learns and gets more capable over time, with a multi-level memory system and persistent dedicated machine access.",
@@ -199,7 +199,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/GergelyOrosz/status/2026704789136888283": {
+ "https://x.com/gergelyorosz/status/2026704789136888283": {
   "status": "ok",
   "author": "GergelyOrosz",
   "text": "How has the day-to-day workflow of Mitchell Hashimoto (@mitchellh) changed, thanks to AI tools?\n\nTimestamps:\n\n00:00 Intro\n07:19 HashiCorp origins\n18:22 The 2010s startup scene in SF \n23:11 Funding HashiCorp\n25:23 The \"Hashi stack\"\n38:28 The open-core pivot\n48:08 Taking HashiCorp public\n51:58 The almost-VMware acquisition\n59:10 Mitchell’s take on AWS, GCP and Azure\n01:06:02 AI’s impact on open source\n01:07:00 Ghostty\n01:19:13 How Mitchell uses AI \n01:28:36 Open source + AI\n01:31:46 The problem of Git and monorepos\n01:39:57 Mitchell’s hiring practices\n01:47:52 Mitchell’s AI adoption journey\n01:50:41 Advice to future founders\n01:55:03 Closing\n\nAlso on YouTube, Spotify and Apple (see the next tweet)\n\nBrought to you by:\n\n• Statsig — ⁠ The unified platform for flags, analytics, experiments, and more. http://statsig.com/pragmatic\n\n• Sonar – The makers of SonarQube, the industry standard for automated code review. Join me online at the Sonar Summit on March 3rd: http://sonarsource.com/pragmatic/sonarsummit?utm_medium=paid&utm_source=pragmaticengineer&utm_campaign=ss-sonar-summit26&utm_content=podcast-sonar-summit&utm_term=ww-all-x&s_category=Paid&s_source=Paid%20Other&s_origin=pragmaticengineer\n\n• WorkOS – Everything you need to make your app enterprise ready. https://workos.com/",
@@ -239,7 +239,7 @@
   "quote": "",
   "image": "https://pbs.twimg.com/media/HB9-ZzeXwAIWbav.jpg?name=orig"
  },
- "https://x.com/RlhEIv0lS_IYlqZ/status/2026971139227189401": {
+ "https://x.com/rlheiv0ls_iylqz/status/2026971139227189401": {
   "status": "ok",
   "author": "RlhEIv0lS_IYlqZ",
   "text": "この肩甲骨剥がし整体師さんがやってるだけあってめちゃくちゃ効く…\n肩甲骨のちょうど疲れが溜まるここの筋肉がめきめきほぐれて悶絶。あまりの気持ち良さに声出た",
@@ -261,7 +261,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/LiangZheng_06/status/2027324015954821565": {
+ "https://x.com/liangzheng_06/status/2027324015954821565": {
   "status": "ok",
   "author": "LiangZheng_06",
   "text": "How do we improve LLM tool-calling ability?\n\n• Train a stronger LLM? → Expensive.\n• Refine with real tools? → Costly + potentially unsafe.\n\nExcited to introduce Gecko 🦎: a simulation environment that synthesizes tool execution responses for any LLM. [1/n]",
@@ -299,7 +299,7 @@
   "quote": "",
   "end_url": "https://youtu.be/eh8bcBIAAFo"
  },
- "https://x.com/Saboo_Shubham_/status/2028328693911912841": {
+ "https://x.com/saboo_shubham_/status/2028328693911912841": {
   "status": "ok",
   "author": "Saboo_Shubham_",
   "text": "This is what a one-person AI Agent run company looks like in 2026.\n\n6 AI agents. 20 cron jobs. 0 human employees.\n\nEvery role is a folder. Every job description is a md file. No standups. No Slack. No payroll.\n\nJust a directory on a Mac that runs the whole thing.",
@@ -307,7 +307,7 @@
   "quote": "https://x.com/Saboo_Shubham_/status/2027463195150131572",
   "image": "https://pbs.twimg.com/media/HCYR_RHbUAEUBqq.jpg?name=orig"
  },
- "https://x.com/Hxlfed14/status/2028116431876116660": {
+ "https://x.com/hxlfed14/status/2028116431876116660": {
   "status": "ok",
   "author": "himanshutwtxs",
   "text": "",
@@ -369,7 +369,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/_ARahim_/status/2008221602283225371": {
+ "https://x.com/_arahim_/status/2008221602283225371": {
   "status": "ok",
   "author": "_ARahim_",
   "text": "Introducing Unsloth-MLX 🦥\n\nFine-tune LLMs on your Mac with Apple Silicon.\n  \nSame API as Unsloth - just change the import line.\nPrototype locally → Scale to cloud with real Unsloth. \n\nThis is NOT trying to replace Unsloth (which is amazing).\nIt's for Mac users who want to experiment locally before paying for cloud GPUs.\n\nStill early days - would really appreciate feedback, bug reports, or feature requests.\n\n@danielhanchen @awnihannun \n\nGitHub: https://github.com/ARahim3/unsloth-mlx",
@@ -379,13 +379,6 @@
   "quote": "",
   "end_url": "https://github.com/ARahim3/unsloth-mlx",
   "image": "https://pbs.twimg.com/media/G96gOPfaYAARWmU.jpg?name=orig"
- },
- "https://x.com/hxlfed14/status/2028116431876116660": {
-  "status": "ok",
-  "author": "himanshutwtxs",
-  "text": "",
-  "links": [],
-  "quote": ""
  },
  "https://x.com/systematicls/status/2028814227004395561": {
   "status": "ok",
@@ -422,35 +415,35 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/DominikTornow/status/2028515744682508730": {
+ "https://x.com/dominiktornow/status/2028515744682508730": {
   "status": "ok",
   "author": "DominikTornow",
   "text": "",
   "links": [],
   "quote": ""
  },
- "https://x.com/juliandeangeIis/status/2027888587975569534": {
+ "https://x.com/juliandeangeiis/status/2027888587975569534": {
   "status": "ok",
   "author": "juliandeangeIis",
   "text": "",
   "links": [],
   "quote": ""
  },
- "https://x.com/DimitrisPapail/status/2028669695344148946": {
+ "https://x.com/dimitrispapail/status/2028669695344148946": {
   "status": "ok",
   "author": "DimitrisPapail",
   "text": "",
   "links": [],
   "quote": ""
  },
- "https://x.com/NotionHQ/status/2028533326966088188": {
+ "https://x.com/notionhq/status/2028533326966088188": {
   "status": "ok",
   "author": "NotionHQ",
   "text": "Allow us to reintroduce ourselves.",
   "links": [],
   "quote": ""
  },
- "https://x.com/Kangwook_Lee/status/2028955292025962534": {
+ "https://x.com/kangwook_lee/status/2028955292025962534": {
   "status": "ok",
   "author": "Kangwook_Lee",
   "text": "",
@@ -471,7 +464,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/HamelHusain/status/2028894099483578872": {
+ "https://x.com/hamelhusain/status/2028894099483578872": {
   "status": "ok",
   "author": "HamelHusain",
   "text": "",
@@ -530,7 +523,7 @@
   "quote": "https://x.com/ideabrowser/status/2028111088449896826",
   "image": "https://pbs.twimg.com/media/HCiEekhWYAA93iC.jpg?name=orig"
  },
- "https://x.com/PawelHuryn/status/2028902129536999818": {
+ "https://x.com/pawelhuryn/status/2028902129536999818": {
   "status": "ok",
   "author": "PawelHuryn",
   "text": "",
@@ -568,7 +561,7 @@
   "quote": "https://x.com/repligate/status/2029369468397469731",
   "end_url": "https://suno.com/song/f029b545-ecb6-4ed9-9b55-2e57a8203b3c"
  },
- "https://x.com/Letta_AI/status/2029348848913793333": {
+ "https://x.com/letta_ai/status/2029348848913793333": {
   "status": "ok",
   "author": "Letta_AI",
   "text": "",
@@ -582,7 +575,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/JesseRank/status/2029339540834406596": {
+ "https://x.com/jesserank/status/2029339540834406596": {
   "status": "ok",
   "author": "JesseRank",
   "text": "The future is AMBIENT INTELLIGENCE.\n\nPure local intelligence that lives with you. \n\nI guarantee you’ve never seen something like this.\n\nMind BLOWN 🤯",
@@ -596,7 +589,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/FrankieIsLost/status/2029720495600423258": {
+ "https://x.com/frankieislost/status/2029720495600423258": {
   "status": "ok",
   "author": "FrankieIsLost",
   "text": "it's really this simple",
@@ -647,7 +640,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/JohnKutay/status/2030719547159011495": {
+ "https://x.com/johnkutay/status/2030719547159011495": {
   "status": "ok",
   "author": "JohnKutay",
   "text": "Every engineering team needs to figure out how to make SDLC a pipeline to do the following…\n\n1. Strategy doc with clear outcomes defined by humans\n\n2. AI research\n\n3. AI analysis\n\n4. AI experimentation\n\n5. Optimization\n\nSequentially vibe coding stuff from jira tickets is a red herring.",
@@ -661,7 +654,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/ChengleiSi/status/2030890883755782652": {
+ "https://x.com/chengleisi/status/2030890883755782652": {
   "status": "ok",
   "author": "ChengleiSi",
   "text": "Great to see autoresearch blowing up becoz of the legendary Karpathy sensei. This year will ofc be an exciting year for automated AI research. For all of you guys excited to jump onto it, hopefully our papers will be some helpful references: \n\n- automated feedback loop for research agents to optimize LLM pre-training and post-training stacks: https://x.com/ChengleiSi/status/2014449503546605998\n\n- generating novel research ideas with LLMs, along with a comparison against human experts: https://x.com/ChengleiSi/status/1833166031134806330\n\n- evaluating the effectiveness of LLM-generated ideas through experiment execution:  https://x.com/ChengleiSi/status/1939676648418509051\n\n- finetuning LLMs to directly predict the effectiveness of research ideas: https://x.com/jiaxinwen22/status/1929937189980250505",
@@ -682,7 +675,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/NousResearch/status/2031137681439109147": {
+ "https://x.com/nousresearch/status/2031137681439109147": {
   "status": "ok",
   "author": "NousResearch",
   "text": "The last few days have been wild. \nHere's what we've shipped over the weekend.\n\nBut first, we're giving away free Nous Portal subscriptions to the first 250 people who claim code AGENTHERMES01 at http://portal.nousresearch.com - and there's a lot of exciting new stuff to use it on:\n\n-> Pokemon Player 🎮\nHermes can now play Pokemon Red/FireRed autonomously via headless emulation. The new pokemon-agent package (http://github.com/NousResearch/pokemon-agent) and built-in skill provides a REST API game server, and Hermes drives it through its native tools - reading game state from RAM, making strategic battle decisions, navigating the overworld, and saving progress to memory across sessions. It just plays Pokemon. From your terminal. No display server needed.\n\n-> Self-Evolution 🧬\nWe shipped hermes-agent-self-evolution (http://github.com/NousResearch/hermes-agent-self-evolution) and an optional skill - an evolutionary self-improvement system that uses DSPy + GEPA to optimize Hermes's own skills, prompts, and code. It maintains populations of solutions, applies LLM-driven mutations targeted at specific failure cases, and selects based on fitness. Inspired by Imbue's Darwinian Evolver research that achieved 95.1% on ARC-AGI-2.\n\n-> OBLITERATUS 🔓\nThe abliteration skill got a major update. Hermes can now uncensor any open-weight LLM (Llama, Qwen, Mistral, etc.) by surgically removing refusal directions from model weights - 9 CLI methods, 116 model presets, tournament evaluation. Just say \"abliterate this model\" and it handles the rest.\n\n-> Signal, iMessage + 7-Platform Gateway 📱\nHermes now runs on iMessage and Signal alongside Telegram, Discord, WhatsApp, Slack, and CLI. Full feature parity: voice messages, image handling, DM pairing. Your agent is reachable everywhere.\n\n-> Automatic Provider Failover 🔄\nWhen your primary model goes down (rate limits, outages), Hermes now automatically switches to a configured fallback model. Supports all providers including Codex OAuth and Nous Portal. One line of config, zero downtime.\n\n-> Secret Redaction Everywhere 🔒\nAll tool outputs now redact API keys, tokens, and passwords before they reach the LLM. 22+ patterns covering AWS, Stripe, HuggingFace, GitHub, SSH private keys, database connection strings, and more. Your secrets never leak into context.",
@@ -757,7 +750,7 @@
   "end_url": "https://agents.hyper.space/api/install",
   "image": "https://pbs.twimg.com/media/HDHTR71aMAgjm7l.png?name=orig"
  },
- "https://x.com/GithubProjects/status/2031518882566128054": {
+ "https://x.com/githubprojects/status/2031518882566128054": {
   "status": "ok",
   "author": "GithubProjects",
   "text": "Google just open-sourced A2UI.\n\nAn open protocol that lets AI agents generate real user interfaces instead of just text.\n\nAgents send a JSON description of the UI → your app renders it with native components.\n\nNo HTML generation.\nNo unsafe code execution.\n\nJust agents that can actually build UI.",
@@ -773,7 +766,7 @@
   "quote": "",
   "image": "https://pbs.twimg.com/media/HDJjaAmbQAI_3d4.jpg?name=orig"
  },
- "https://x.com/OpenRouter/status/2031854839035298190": {
+ "https://x.com/openrouter/status/2031854839035298190": {
   "status": "ok",
   "author": "OpenRouter",
   "text": "Two new Stealth Models are live now!\n\n- Hunter Alpha: 1T-parameter model with 1M context built for agentic workflows, long-horizon tasks, and serious tool use.\n\n- Healer Alpha: multimodal model combining strong image, video, and audio understanding with real agentic execution.",
@@ -818,7 +811,7 @@
   "quote": "",
   "image": "https://pbs.twimg.com/media/HDS3LPFb0AEWrPK.png?name=orig"
  },
- "https://x.com/irl_danB/status/2032513611994677439": {
+ "https://x.com/irl_danb/status/2032513611994677439": {
   "status": "ok",
   "author": "irl_danB",
   "text": "I have been told I am a poor hype man\n\ntherefore I am only mildly excited to report that we’ve been building something passably interesting. it’s probably not going to make you any money (it gobbles tokens) and it definitely won’t make your code better. but for those of you with certain tastes it will be very fun to experiment and create with\n\nif you’ve been following along, in early January I created OpenProse, a language and opinionated pattern for orchestrating agent swarms that works by treating the underlying harness as a sort of Intelligent Virtual Machine for which you could write programs\n\n5,000 of you (+claudes) downloaded it in the first several weeks and still hundreds more try it every week. many of you (+bots) have been gracious in the replies, offering feedback and wisdom. thank you for that.\n\ncoincidentally on that same fateful day in January, Zhang et. al. tweeted about the now well-known RLM paper. consequently, a number of you called out the serendipity and potential interplay between the concepts. it took me building three RLMs in January and February—the first a python one-shot replication of the paper, the second two handcrafted in node and bash—to begin to understand the nature of the RLM\n\nthe folks in my replies were right: the RLM is a more general purpose computer than any of the current crop of harnesses, and in my opinion an RLM-style harness has the best shot at serving the first “Prose Complete” virtual machine\n\nnext week I am making an early version of this runtime available to play with, and I am making both the language and the VM open source. the entire open source stack running on open models is a thing to behold\n\na further note: in the course of trying to build the RLM, it became clear that OpenProse the language needed an Upgrade. the syntax was not expressive in the right ways, it was falling short of its founding tenets. the problem with upgrades is that “OpenProse” is already embedded in the memetic hyperspace as a thing: this thing, with this syntax. so we’ll have to manage that transition for the future pretrains. but I’m not concerned, in fact OpenProse v2 is converging on the language’s true form. we’ll just call it Prose this time. forward and backward compatibility is trivial anyway\n\nthe two major language updates:\n- the language is no longer a janky .prose file. instead, it is… wait for it… Just Markdown (a strict subset of markdown). this makes it nicer to interact with than OpenProse v1 for both human and machine\n- it is more declarative than before, which means more future-proof: your programs get more intelligent and cheaper forever for free\n\nif the language is Prose, the computer that runs it is obviously Press. like/bookmark this tweet and it will be in your feed next week, thanks to grok\n\nalso, I’m not the only one who’s been building lots of RLMs. excited to be working with some incredibly talented folks to bring you the next step in this journey soon\n\nand who knows, with the declarative syntax we could use a model with more declarative intuitions. maybe TrueBase gets a post-train? undecided, probably a waste of money\n\nI raised a small pre-seed to make OpenProse a thing;  the commitment is the stack stays open source for your tinkering enjoyment\n\nthanks for reading!",
@@ -842,7 +835,7 @@
   "quote": "https://x.com/kalomaze/status/2032111370775474264",
   "image": "https://pbs.twimg.com/media/HDRKj24W4AA9RIT.jpg?name=orig"
  },
- "https://x.com/sudoingX/status/2032538498969030759": {
+ "https://x.com/sudoingx/status/2032538498969030759": {
   "status": "ok",
   "author": "sudoingX",
   "text": "hey if you have a 3060, or any GPU with 8GB or more sitting in a drawer right now, that thing can run 9 billion parameters of intelligence autonomously. and you don't know it yet.\n\n2 hours ago i posted that 9B hit a ceiling. 2,699 lines across 11 files. blank screen. said the limit for autonomous multifile coding on 9 billion parameters is real.\n\nthen i audited every file. found 11 bugs. exact file, exact line, exact fix. duplicate variable declarations killing the script loader. a canvas reference never connected to the DOM. enemies with no movement logic. particle systems called on the class instead of the instance.\n\nfed that list as a single prompt to the same Qwen 3.5 9B on the same RTX 3060 through Hermes Agent.\n\nit fixed all 11. surgically. patch level edits across 4 files. no rewrites. no hallucinated changes. game boots. enemies spawn, move, collide. background renders. particles fire.\n\nand here's what nobody is talking about. this is a 9 billion parameter model running a full agentic framework. Hermes Agent with 31 tools. file operations, terminal, browser, code execution. not a single tool call failed. the agent chain never broke. most people think you need 70B+ for reliable tool use. this is 9B on 12 gigs doing it clean.\n\nthe model didn't fail. my prompting strategy did. the ceiling is not the parameter count. the ceiling is how you prompt it.\n\nthis is not done. bullets don't fire yet. boss fights need wiring. but the screen that was black 2 hours ago now has a full game rendering in real time. iterating right now.\n\nanyone with a GPU from the last 5 years should be paying attention to what is happening right now.",
@@ -884,7 +877,7 @@
   "end_title": "Shiori",
   "end_description": "Personal memory for you and your AI"
  },
- "https://x.com/KingBootoshi/status/2032775953479520306": {
+ "https://x.com/kingbootoshi/status/2032775953479520306": {
   "status": "ok",
   "author": "KingBootoshi",
   "text": "HOLY FUK I JUST LEARNED ABOUT TLA+ AND IT'S SO GOOD FOR AGENTIC CODING\n\nur telling ME that i can mathematically fact check every possible scenario of my design STATE to prevent bugs and crashes\n\nAND IF IT FINDS SOMETHING THE AGENTS GET INSTANT FEEDBACK AND LOOP FIXING IT TILL IT ALL POSSIBLE BUGS IN THE DESIGN ARE PATCHED\n\nLOL THIS IS OP",
@@ -913,7 +906,7 @@
   "links": [],
   "quote": "https://x.com/GergelyOrosz/status/2032194904957268267"
  },
- "https://x.com/HuaxiuYaoML/status/2033038170653405308": {
+ "https://x.com/huaxiuyaoml/status/2033038170653405308": {
   "status": "ok",
   "author": "HuaxiuYaoML",
   "text": "Everyone's excited about Karpathy's autoresearch that automates the experiment loop.\n\nWe automated the whole damn thing. 🦞\n\nMeet AutoResearchClaw: one message in, full conference paper out. Real experiments. Real citations. Real code. No human in the loop.\n\nOne message in → full paper out. Here's what happens in between:\n\n📚 Raids arXiv & Semantic Scholar, digests 50+ papers in minutes\n🥊 Three AI agents FIGHT over the best hypothesis (one swings big, one sanity-checks, one tries to kill every idea)\n💻 Writes experiment code from scratch, adapts to your hardware\n💥 Code crashes at 3am? It reads the stack trace, rewrites the fix, keeps going\n🔄 Results weak? It pivots to entirely new hypotheses and starts over\n📝 Drafts a full paper with citations, every single one verified against live databases\n\nNo babysitting. No Slack messages. No \"hey can you re-run this.\"\n\nKarpathy built the experiment loop. We built the whole lab.\n\nChat an idea. Get a paper. 🦞\n\nTry it 👉: https://github.com/aiming-lab/AutoResearchClaw\n\nKudos to the team @JiaqiLiu835914, @richardxp888, @lillianwei423, @StephenQS0710, @Xinyu2ML, @HaoqinT, @zhengop, @cihangxie, @dingmyu, and we are looking for more contributors.",
@@ -1023,14 +1016,14 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/LangChain/status/2033959303766512006": {
+ "https://x.com/langchain/status/2033959303766512006": {
   "status": "ok",
   "author": "LangChain",
   "text": "",
   "links": [],
   "quote": ""
  },
- "https://x.com/rUv/status/2034044866422845760": {
+ "https://x.com/ruv/status/2034044866422845760": {
   "status": "ok",
   "author": "rUv",
   "text": "This is nuts. If these numbers hold, we’re looking at a completely different model of intelligence with the http://Cognitum.One agentic chip.\n\n6×6 mm. ~2 billion transistors. Under 2 watts. 257 cores spiking to 8ghz. That’s impressive on paper. But what matters is intelligence per watt.\n\nThis isn’t about FLOPs. It’s about decisions per joule. Continuous, event driven, always on. Like a brain. Mostly idle, spiking when something matters, updating state in real time instead of batching work.\n\nNow take that and apply it to agents.\n\nInstead of running RuFlo, OpenClaw, Codex or Claude Code on a Mac mini or in the cloud, imagine running it at wire speed directly on the silicon. \n\nNo latency. No API calls. No incremental cost. Just a local agent, always running, always thinking, always building.\n\nThat changes everything.\n\nYou can have persistent coding agents embedded in devices. Systems that monitor, write, test, and adapt code continuously. A factory line that rewrites its own control logic. A network that debugs itself. A personal environment that evolves with you in real time.\n\nPair it with RuVector and dynamic mincut, and now it has memory and coherence. It doesn’t just generate. It understands structure and maintains stability.\n\nWe’re not scaling models anymore. We’re embedding intelligence into the fabric of the world.",
@@ -1041,7 +1034,7 @@
   "end_url": "http://Cognitum.One",
   "image": "https://pbs.twimg.com/media/HDphBrWXQAASXJi.jpg?name=orig"
  },
- "https://x.com/AprilNEA/status/2034209430158619084": {
+ "https://x.com/aprilnea/status/2034209430158619084": {
   "status": "ok",
   "author": "AprilNEA",
   "text": "🧵 I just reverse-engineered the binaries inside Claude Code's Firecracker MicroVM and found something wild:\n\nAnthropic is building their own PaaS platform called \"Antspace\" (Ants + Space).\n\nIt's a full deployment pipeline — hidden in plain sight inside the environment-runner binary. Here's what I found 👇",
@@ -1049,7 +1042,7 @@
   "quote": "",
   "image": "https://pbs.twimg.com/media/HDr2rgFaQAAghJ6.jpg?name=orig"
  },
- "https://x.com/JayScambler/status/2033971974284714355": {
+ "https://x.com/jayscambler/status/2033971974284714355": {
   "status": "ok",
   "author": "JayScambler",
   "text": "",
@@ -1071,7 +1064,7 @@
   "quote": "https://x.com/MiniMax_AI/status/2034335605145182659",
   "image": "https://pbs.twimg.com/media/HDtz3ATaUAALQzI.jpg?name=orig"
  },
- "https://x.com/Ibelick/status/2033888346552881201": {
+ "https://x.com/ibelick/status/2033888346552881201": {
   "status": "ok",
   "author": "Ibelick",
   "text": "magnetic morph exploration",
@@ -1099,7 +1092,7 @@
   "links": [],
   "quote": "https://x.com/wavefnx/status/2024188954229051789"
  },
- "https://x.com/RoyalCities/status/2033652117643395428": {
+ "https://x.com/royalcities/status/2033652117643395428": {
   "status": "ok",
   "author": "RoyalCities",
   "text": "After months of work, today I’m releasing Foundation-1.\n\nA SOTA text-to-sample model built specifically for music production workflows.\n\nIt may also be the most advanced AI sample generator currently available - open or closed.\n\n• ~7 GB VRAM\n• Entirely local\n• 100% free\n\n😁",
@@ -1121,7 +1114,7 @@
   "quote": "",
   "image": "https://pbs.twimg.com/media/HDtkdntWoAAx3IO.png?name=orig"
  },
- "https://x.com/OpenAINewsroom/status/2034616934671724639": {
+ "https://x.com/openainewsroom/status/2034616934671724639": {
   "status": "ok",
   "author": "OpenAINewsroom",
   "text": "We've reached an agreement to acquire Astral.\n\nAfter we close, OpenAI plans for @astral_sh to join our Codex team, with a continued focus on building great tools and advancing the shared mission of making developers more productive.\n\nhttps://openai.com/index/openai-to-acquire-astral/",
@@ -1161,7 +1154,7 @@
   "links": [],
   "quote": "https://x.com/wavefnx/status/2034015356470133137"
  },
- "https://x.com/DrewTumaABC7/status/2034750450487238968": {
+ "https://x.com/drewtumaabc7/status/2034750450487238968": {
   "status": "ok",
   "author": "DrewTumaABC7",
   "text": "San Francisco making history today\n\nFirst time on record we’ve ever had four consecutive days of highs 84°+ in Winter\n\nAll year we average only seven 84°+ days\n\nTemperature records go back to 1874",
@@ -1183,7 +1176,7 @@
   "links": [],
   "quote": "https://x.com/varun_mathur/status/2034338870095962235"
  },
- "https://x.com/LangChain/status/2034694530478612777": {
+ "https://x.com/langchain/status/2034694530478612777": {
   "status": "ok",
   "author": "LangChain",
   "text": "Introducing LangSmith Fleet. Agents for every team.\n\n→ Build agents with natural language\n→ Share and control who can edit, run, or clone each agent\n→ Manage authentication with agent identity\n→ Approve actions with human-in-the-loop\n→ Track and audit actions with tracing in LangSmith Observability\n\nTry Fleet: https://smith.langchain.com/agents?skipOnboarding=true/?utm_medium=social&utm_source=twitter&utm_campaign=q1-2026_fleet-launch_aw",
@@ -1193,7 +1186,7 @@
   "quote": "",
   "end_url": "https://smith.langchain.com/agents?skipOnboarding=true/?utm_medium=social&utm_source=twitter&utm_campaign=q1-2026_fleet-launch_aw"
  },
- "https://x.com/NickSpisak_/status/2034635430700679445": {
+ "https://x.com/nickspisak_/status/2034635430700679445": {
   "status": "ok",
   "author": "NickSpisak_",
   "text": "",
@@ -1217,7 +1210,7 @@
   "quote": "",
   "end_url": "https://platform.parallel.ai/play/interactions?utm_source=twitter&utm_medium=social-organic"
  },
- "https://x.com/sudoingX/status/2034903929105141831": {
+ "https://x.com/sudoingx/status/2034903929105141831": {
   "status": "ok",
   "author": "sudoingX",
   "text": "this guy has 29 models on huggingface at page 2 ranking. no lab behind him. no sponsorship. $2,000 from his own pocket on GPU rentals. he compressed GLM-4.7 to run on a MacBook and quantized Nemotron Super the week it dropped. all public. all free.\n\nnvidia is a trillion dollar company with hundreds of teams but they are not the ones quantizing models middle of the night and pushing them out before sunrise. if nvidia stopped tomorrow their employees stop working. people like @0xSero would not. that is the difference between a paycheck and a mission.\n\n@NVIDIAAI  you talk about making AI accessible. the people actually doing it are right here. 29 models deep burning their own compute with no ask except more hardware to keep going. you do not need to build another program. just look at who is already building for you. one GPU to this man would produce more public value than a hundred internal sprints.\n\ni am not asking for charity. i am asking you to invest in someone who already proved it.",
@@ -1232,7 +1225,7 @@
   "links": [],
   "quote": "https://x.com/oskargroth/status/2034939532404040081"
  },
- "https://x.com/0xSero/status/2035064089345478658": {
+ "https://x.com/0xsero/status/2035064089345478658": {
   "status": "ok",
   "author": "0xSero",
   "text": "I'm not the only one doing this. \n\n- karpathy\n\nbest thought leader, best person to learn from imo. Nanochat is the best way to get into training LLMs its the simplest and most digestible source for building your first AI model\n\n- steipete\n\nThis guys GitHub is a national treasure, his writing is also very strong.   Peekaboo, http://summarize.sh, openclaw, oracle, just talk to it, etc.. all unique and very useful\n\n- badlogicgames\n\nMario’s Pi is a staple AI engine and possibly the best, simplest, open source agentic loop to learn from.   Despite what people say about his methods, I think he’s going to set some new standards for Open source contribution. Big respect.\n\n- TheAhmadOsman\n\nThis man is the GPU king, giveaways and lots of dense educational content around self hosting and home inference.   He’s also tight with pretty much all the open weight labs and has them on for interviews regularly\n\n- sudoingX \n\nThis is an up and comer who will change the game, he's pushing the limits of what a single gpu can do \n\n- Ex0byt \n\nI can confidently say this man will be fundamental in making local inference on massive models possible.\n\n- alexinexxx\n\nI genuinely feel motivated by her drive. She’s a real hard worker learning about GPU kernel programming.   Also good aesthetics\n\n- gospaceport\n\nI would not have gotten into building my own hardware without this man’s hard work. He’s taught me so much about hardware and the economics of this.   He also has the most impressive homelabs I’ve ever seen.\n\n- alexocheema\n\nThe founder of Exolabs, pioneering Apple hardware inference, he’s also very engaged in the community and a good guy all around.   If you are interested in Mac minis and Mac Studios this is your guys. \n\n- nummanali\n\nThis guy is so prolific, he’s made tons of CLI tools for managing llm subscription budgets, using Claude code with alternative models etc.. \n\n- thdxr \n\nThe entire Opencode team is wonderful but Dax specifically is a good writer.   More anti-doomer content to sooth your anxieties.   \n\n- juliarturc\n\nIf you are interested in the science, Julias channel is where it’s at. Almost everything I’ve learned about LLM compression has been from her.\n\n- Teknium\n\nThe Nous research & Prime intellect teams are both some of the most hard-working and principled people around.   Tough fight in an industry so aggressive.\n\n- victormustar \n\nHead of Product for Huggingface, enabling us all to publish our work. \n\n- louszbd\n\nHead of community at ZAI some of the top LLMs available right now that are open weights. They supercharged the movement\n\n- SkylerMiao7 \n\nMaking frontier intelligence fit on 10k USD of hardware. Via MiniMax\n\n- crystalsssup \n\nBuilding the best Open Weight model on the market, and releasing their latest research before their next gen model. \n\nBelieve it or not these people are carrying the entire industry and giving us a fighting chance.",
@@ -1243,7 +1236,7 @@
   "end_url": "http://summarize.sh,",
   "image": "https://pbs.twimg.com/media/HD3w2nlWQAAxFND.jpg?name=orig"
  },
- "https://x.com/JJEnglert/status/2035047653583565121": {
+ "https://x.com/jjenglert/status/2035047653583565121": {
   "status": "ok",
   "author": "JJEnglert",
   "text": "Our engineers at @tenex_labs are slamming this new Claude Code feature.\n\nHere's how it works:\n\n@AnthropicAI just shipped Agent Teams — and it's a big deal even if you're not writing code yourself.\n\nHere's the simple version: \nInstead of one AI working on your problem alone, you can now spin up a whole team of AI agents that work together. One acts as the lead. The others are teammates. They each focus on a different piece of the work, talk to each other directly, and coordinate through a shared task list.\n\nThink of it like hiring a project manager who breaks the work into pieces, assigns it to specialists, and makes sure nothing falls through the cracks. Except all of those people are Claude, and they spin up in seconds.\n\nWhy this matters even if you're not a developer\n\nIf you've ever used Claude Code to research a problem, write a report, or automate a workflow — you've been working with one brain at a time. That brain has a limit on how much it can hold in its head before things start slipping.\n\nAgent Teams removes that bottleneck. Each teammate gets its own full memory. One can be deep in your financials while another is reviewing your competitor landscape while a third is drafting recommendations. They don't confuse each other's work because they literally can't see each other's context.\n\nAnd the best part — they talk to each other. The lead doesn't have to relay everything. Teammates share findings, challenge each other's conclusions, and build on each other's work directly.\n\n\"Wait, didn't Claude Code already have subagents?\"\n\nYes. And this is where most people get confused. Here's the difference:\n\nSubagents are like sending an intern to go research something and come back with an answer. They do the work, hand you a summary, and they're done. They never talk to each other. You manage everything. Simple, cheap, good for focused tasks where you just need a result.\n\nAgent Teams are like assembling a working group. The teammates coordinate with each other, not just with you. They claim tasks from a shared list, message each other when they find something relevant, and the lead synthesizes everything at the end. More expensive, but the output is fundamentally different.\n\nWhen to use which:\n\n- Need a quick answer or a focused task done? Subagent. Fast, cheap, gets the job done.\n\n- Need multiple people looking at different angles of the same problem? Agent Team. The coordination is the point.\n\n- One person can do it without talking to anyone else? Subagent.\n\nThe work benefits from debate, cross-checking, or parallel exploration? Agent Team.\n\nWhat our team is using it for right now:\n\n1. Parallel code reviews — 3 teammates reviewing the same PR simultaneously. One on security, one on performance, one on test coverage. A single reviewer gravitates toward one issue type. Three specialists catch everything.\n\n2. Competing hypotheses — 5 agents investigating the same bug, each with a different theory, actively trying to disprove each other. The theory that survives is almost always the root cause.\n\n3. Cross-layer features — Frontend, backend, and tests each owned by a different teammate. No one steps on anyone else's work.\n\nQuick start if you want to try it:\n\nRequires Claude Code v2.1.32 or later. Add one environment variable to your settings.json:\n\n\"CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS\": \"1\"\n\nTell Claude what kind of team you want in plain English.\n\n \"Create a team with 3 teammates to review this project from different angles.\" \n\nClaude proposes the team, you confirm, and it handles the rest — spawning teammates, assigning tasks, coordinating work.\n\nStart with 3 teammates. Keep tasks independent. Don't let two teammates touch the same files.\n\nStill experimental. But this is the first multi-agent architecture I've seen actually hold up on real dev work.\n\nLink to docs in comments below.",
@@ -1259,7 +1252,7 @@
   "quote": "",
   "image": "https://pbs.twimg.com/media/HD38d3nbIAAq6Tt.jpg?name=orig"
  },
- "https://x.com/Aurelien_Gz/status/2034727553273942362": {
+ "https://x.com/aurelien_gz/status/2034727553273942362": {
   "status": "ok",
   "author": "Aurelien_Gz",
   "text": "omg this is how you create an insanely creative navigation..\n\n​this is the triumphant return of skeuomorphism\n\nwizards » @tubikstudio",
@@ -1273,7 +1266,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/Vercantez/status/2035431659290730914": {
+ "https://x.com/vercantez/status/2035431659290730914": {
   "status": "ok",
   "author": "Vercantez",
   "text": "pi + ghostty running entirely in a cloudflare workers durable object. sqlite based file system + js code exec + cron support. The best part is it can deploy worker sites using Dynamic Worker Loaders.",
@@ -1287,7 +1280,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/RampLabs/status/2036165188899012655": {
+ "https://x.com/ramplabs/status/2036165188899012655": {
   "status": "ok",
   "author": "RampLabs",
   "text": "",
@@ -1301,7 +1294,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/FactoryAI/status/2036184745059688923": {
+ "https://x.com/factoryai/status/2036184745059688923": {
   "status": "ok",
   "author": "FactoryAI",
   "text": "Missions are now available to all Factory users.\n\nLong-running agents designed to automate large software tasks like building applications from scratch, migrations, and AI research.\n\nLet us know what you build!",
@@ -1379,7 +1372,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/NathanFlurry/status/2036441313424670848": {
+ "https://x.com/nathanflurry/status/2036441313424670848": {
   "status": "ok",
   "author": "NathanFlurry",
   "text": "Dynamic Workers just launched 👀\n\nRivet Secure Exec is an open-source alternative. Spports Vercel, Railway, K8S, etc.\n\nSimilarly:\n- 176x faster starts than sbxs\n- Code Mode → -81% tool call tokens\n- Virtual FS → back by S3, …\n- NPM\n- TypeScript checking\n- No bundling needed",
@@ -1422,21 +1415,21 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/Vtrivedy10/status/2037203679997018362": {
+ "https://x.com/vtrivedy10/status/2037203679997018362": {
   "status": "ok",
   "author": "Vtrivedy10",
   "text": "",
   "links": [],
   "quote": ""
  },
- "https://x.com/Alfred_Lin/status/2037533775413080193": {
+ "https://x.com/alfred_lin/status/2037533775413080193": {
   "status": "ok",
   "author": "Alfred_Lin",
   "text": "A CEO from one of our portfolio companies shared this with their team. I’m re-sharing it with their permission, because it resonated and reflects what all founders and CEOs should be communicating.\n\n-- \nWe are living through a period of compounding change. And in moments like this, the biggest risk is no longer making the wrong decision. It is moving too slowly while the world moves around you. \n \nThere are two paths. We can play defense:\n- Protect what we have\n- Optimize what works\n- Wait for clarity \n \nIt feels safe. It isn’t. \n \nOr we can play offense:\n- Learn faster than the environment changes\n- Use new tools to solve old problems in better ways\n- And create entirely new strategies and businesses \n \nThat’s where the opportunity is. \n \nChallenge yourself to do things faster and better than you have ever attempted. Stay uncomfortable. Stay on the front foot.",
   "links": [],
   "quote": ""
  },
- "https://x.com/TheNoahHein/status/2037573208707137639": {
+ "https://x.com/thenoahhein/status/2037573208707137639": {
   "status": "ok",
   "author": "TheNoahHein",
   "text": "",
@@ -1501,7 +1494,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/Fried_rice/status/2038894956459290963": {
+ "https://x.com/fried_rice/status/2038894956459290963": {
   "status": "ok",
   "author": "shoucccc",
   "text": "Claude code source code has been leaked via a map file in their npm registry! \n\nCode: https://pub-aea8527898604c1bbb12468b1581d95e.r2.dev/src.zip",
@@ -1648,7 +1641,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/Jack_W_Lindsey/status/2041588505701388648": {
+ "https://x.com/jack_w_lindsey/status/2041588505701388648": {
   "status": "ok",
   "author": "Jack_W_Lindsey",
   "text": "Before limited-releasing Claude Mythos Preview, we investigated its internal mechanisms with interpretability techniques. We found it exhibited notably sophisticated (and often unspoken) strategic thinking and situational awareness, at times in service of unwanted actions. (1/14)",
@@ -1677,7 +1670,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/DimitrisPapail/status/2041974013950373901": {
+ "https://x.com/dimitrispapail/status/2041974013950373901": {
   "status": "ok",
   "author": "DimitrisPapail",
   "text": "",
@@ -1691,14 +1684,14 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/BHolmesDev/status/2042212054304469100": {
+ "https://x.com/bholmesdev/status/2042212054304469100": {
   "status": "ok",
   "author": "BHolmesDev",
   "text": "More worth following:\n@zachlloydtweets - Warp founder, great X articles\n@captainsafia - Also Warp, former C# maintainer. Doing great work in open source\n@threepointone - Cloudflare durable objects, amazing work on edge compute and collaborative software\n@aarondfrancis - Educator, Soloterm, formerly Planetscale. Good vibes and good tips\n@mattpocockuk - Best Claude Code usage tips I've found\n@clairevo - ChatPRD, \"How I AI\" host. Opened my brain to OpenClaw workflows\n@schickling - Local first software guy, founder of Prisma\n\nMany others I'm not thinking of I'm sure",
   "links": [],
   "quote": "https://x.com/igormomentum/status/2041963744503480422"
  },
- "https://x.com/Vtrivedy10/status/2041927488918413589": {
+ "https://x.com/vtrivedy10/status/2041927488918413589": {
   "status": "ok",
   "author": "Vtrivedy10",
   "text": "",
@@ -1731,21 +1724,21 @@
   "end_url": "https://github.com/jo-inc/camofox-browser",
   "image": "https://pbs.twimg.com/media/HFelyKWWcAAsz8p.jpg?name=orig"
  },
- "https://x.com/JayaGup10/status/2042401200109408681": {
+ "https://x.com/jayagup10/status/2042401200109408681": {
   "status": "ok",
   "author": "JayaGup10",
   "text": "",
   "links": [],
   "quote": ""
  },
- "https://x.com/RyanPGreenblatt/status/2042768884026228841": {
+ "https://x.com/ryanpgreenblatt/status/2042768884026228841": {
   "status": "ok",
   "author": "RyanGreenblatt",
   "text": "",
   "links": [],
   "quote": ""
  },
- "https://x.com/GabLesperance/status/2042950334469787975": {
+ "https://x.com/gablesperance/status/2042950334469787975": {
   "status": "ok",
   "author": "GabLesperance",
   "text": "",
@@ -1760,7 +1753,7 @@
   "quote": "",
   "image": "https://pbs.twimg.com/media/HFotAEMakAAiUqU.jpg?name=orig"
  },
- "https://x.com/FredaDuan/status/2043129404101218510": {
+ "https://x.com/fredaduan/status/2043129404101218510": {
   "status": "ok",
   "author": "FredaDuan",
   "text": "Org Design in the Age of AI\n\nI've spent the last few months talking to companies — startups to megacaps — about how AI is changing the way they work. Everyone is adding AI to their workflows. Almost no one is asking why the workflow looks that way in the first place.\n\n+++\nTODAY\n\nStrip a company down and it's three things: people, hierarchy, and information flow. Hierarchy isn't really about authority. It's about information routing — the org is too big for anyone to see everything, so you install managers to aggregate, synthesize, and relay. Meetings, status updates, steering committees, QBRs — all information-routing mechanisms. They exist because moving knowledge between people is expensive.\n\nAI makes it cheap.\n\nConsider how products get built today. PM writes PRD. Design interprets it into mocks. Engineering interprets mocks into code, estimates \"eight weeks,\" requirements change, PRD gets rewritten. Dev takes months. QA runs regression. GTM preps launch. Mid-sized feature: 3–6 months.\nThe bottleneck was never speed. It was translation cost. PM's intent → document → designer's interpretation → engineer's interpretation → QA's interpretation. Every handoff loses fidelity, requires alignment, generates wait time.\n\nAI collapses the translation layers.\n\n+++\nAI ORG DESIGN\n\nPM goes from idea to working prototype in a day. AI generates tests as code is written. An intelligence layer synthesizes customer signals and business metrics in real time — replacing the manager who used to aggregate that weekly.\n\nThis isn't about each role getting faster. It's the gaps between roles — handoffs, queues, alignment meetings — evaporating. \n\n🔥 Implications:\n\nRelay race → basketball game. Small squads, 3–5 people, all skills present, moving simultaneously. Most decisions stay in the squad.\n\nDepartments → capability atoms. Composable, independent capabilities — collections, identity verification, risk scoring — each combinable with others.\n\nPMs become builders. Less time translating ideas for others, more time validating directly.\n\nMiddle management compresses. The survivors are the ones whose value was always judgment and coaching, not information routing.\n\nQA embeds into dev. Quality becomes a guardrail, not a gate.\n\nThe system generates the roadmap. Jack Dorsey's example: a restaurant's cash flow tightens before a seasonal dip. The system detects it, packages a short-term loan with adjusted repayment, pushes it to the merchant — before they thought to look. No PM decided to build that. The system recognized the moment and composed existing capabilities.\n\nRelease cycles → continuous flow. Ship daily. Trade big-launch dopamine for relentless, quiet value delivery.\n\n+++\nThe competitive moat shifts from execution speed to learning speed — how fast the org can absorb what AI makes newly possible and restructure around it.\nMost companies are using AI as a faster horse. The ones that pull ahead will ask: what would we build if we designed this org from scratch today?\n\nFull: https://open.substack.com/pub/robonomics/p/org-design-in-the-age-of-ai?utm_campaign=post-expanded-share&utm_medium=web",
@@ -1777,7 +1770,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/ClementDelangue/status/2044053580504584349": {
+ "https://x.com/clementdelangue/status/2044053580504584349": {
   "status": "ok",
   "author": "ClementDelangue",
   "text": "Introducing Kernels on the Hugging Face Hub ✨\n\nWhat if shipping a GPU kernel was as easy as pushing a model?\n\n- Pre-compiled for your exact GPU, PyTorch & OS\n- Multiple kernel versions coexist in one process\n- torch.compile compatible\n- 1.7x–2.5x speedups over PyTorch baselines",
@@ -1791,7 +1784,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/Vtrivedy10/status/2043427918127513836": {
+ "https://x.com/vtrivedy10/status/2043427918127513836": {
   "status": "ok",
   "author": "Vtrivedy10",
   "text": "Harness, Memory, Context Fragments, & the Bitter Lesson\n\nthis is a work in progress mental dump on interesting intersections between how we use and design a harness, implications for memory being accumulated over long timescales, and the search bitter lesson we can’t escape\n\nthis is v30+, HTML diagrams help me iteratively refine + chat to roughly “see” and alter the mental model\n\nHarnesses & Context Fragments:\na very important job of the harness is to efficiently & correctly route data within its boundaries into the context window boundary for computation to happen\n\nthe context window is a precious artifact.  Harnesses make decisions on how to populate, manage, edit, and organize it so agents can do work.  Each loaded object can be thought of as a Context Fragment and represents an explicit decision by the user and harness designer of what needs a model needs to do work at any given time.\n\nmany ideas on externalizing objects + loading into the context window are pioneered and very well described by @a1zhang with RLMs\n\nExperiential Memory:\nwe’re in the very early days of deploying agents and agents produce massive amounts of data in every interaction they have.  this is akin to humans doing things and remembering things they did.\n\nhowever agent memory has a massive advantage as it can be accumulated across all agents which are easily forked and duplicated (unlike humans).  @dwarkesh_sp does a good talking about this massive benefit of artificial systems\n\nmemory can be treated as an externalized object.  the harness is tasked with doing good contextualized retrieval which means pulling in the right data from accumulated memories across all agent interactions\n\nSearch & The Bitter Lesson:\nAs we deploy agents in our world over year timescales, there is going to be a hyper-exponential in the amount of data produced by those agents.  We should want to:\n1. Own that data for ourselves.  Open ecosystems are important here\n2. Use that data\n\nThis means that we’ll have to search over, distill, and organize massive amounts of data.  Our brain is exceptional at doing this.  Both contextually using prior experience and mostly committing the right stuff to memory with enough intentional practice.\n\nOur current infrastructure systems and algorithms will be put to the test and often break as we get used to this new data regime\n\nsome open questions:\n- how do we efficiently distill experiences (Traces) into higher level memory primitives that capture the important parts? How do we do this over ultra long time horizons?\n\n- How much of the future is Search just-in-time vs Search that gets integrated into model weights?\n\n- How do we make models much better at self-managing their context window?  How do we reduce error rates in recursively allowing agents to operate over external objects?\n\ni’ll be expanding on, altering, and adjusting these mental models but these feel like an important subset to me on the future of designing agents practically",
@@ -1806,7 +1799,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/RetroBayArea/status/2044599171404214355": {
+ "https://x.com/retrobayarea/status/2044599171404214355": {
   "status": "ok",
   "author": "RetroBayArea",
   "text": "Photos of the San Jose IBM campus in 1963. Compare this to today’s gray boxes and architectural slop.\n\nIt’s unbelievable how beautiful it was. I can’t stop thinking about how sharply architecture has changed from that era to what’s being built now.\n🧵1/6",
@@ -1835,7 +1828,7 @@
   "links": [],
   "quote": "https://x.com/OpenAIDevs/status/2046288243768082699"
  },
- "https://x.com/OpenAIDevs/status/2046288243768082699": {
+ "https://x.com/openaidevs/status/2046288243768082699": {
   "status": "ok",
   "author": "OpenAIDevs",
   "text": "Last week, we released a preview of memories in Codex.\n\nToday, we’re expanding the experiment with Chronicle, which improves memories using recent screen context.\n\nNow, Codex can help with what you’ve been working on without you restating context.",
@@ -1879,7 +1872,7 @@
   "quote": "",
   "image": "https://pbs.twimg.com/media/HGCqQehWkAM8nBV.jpg?name=orig"
  },
- "https://x.com/0xSero/status/2045445286072336796": {
+ "https://x.com/0xsero/status/2045445286072336796": {
   "status": "ok",
   "author": "0xSero",
   "text": "New magical prompt to unlock your learning. \n\n--------\n\nSend 6 subagents to research various subtopics of _, find research, repos, blogs, reports, and information.\n\nThen make a wiki relevant to my needs, focus on copying, quoting, and linking to content instead of writing it.",
@@ -1908,7 +1901,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/PalantirTech/status/2045574398573453312": {
+ "https://x.com/palantirtech/status/2045574398573453312": {
   "status": "ok",
   "author": "PalantirTech",
   "text": "Because we get asked a lot.\n\nThe Technological Republic, in brief.\n\n1. Silicon Valley owes a moral debt to the country that made its rise possible. The engineering elite of Silicon Valley has an affirmative obligation to participate in the defense of the nation.\n\n2. We must rebel against the tyranny of the apps. Is the iPhone our greatest creative if not crowning achievement as a civilization? The object has changed our lives, but it may also now be limiting and constraining our sense of the possible.\n\n3. Free email is not enough. The decadence of a culture or civilization, and indeed its ruling class, will be forgiven only if that culture is capable of delivering economic growth and security for the public.\n\n4. The limits of soft power, of soaring rhetoric alone, have been exposed. The ability of free and democratic societies to prevail requires something more than moral appeal. It requires hard power, and hard power in this century will be built on software.\n\n5. The question is not whether A.I. weapons will be built; it is who will build them and for what purpose. Our adversaries will not pause to indulge in theatrical debates about the merits of developing technologies with critical military and national security applications. They will proceed.\n\n6. National service should be a universal duty. We should, as a society, seriously consider moving away from an all-volunteer force and only fight the next war if everyone shares in the risk and the cost.\n\n7. If a U.S. Marine asks for a better rifle, we should build it; and the same goes for software. We should as a country be capable of continuing a debate about the appropriateness of military action abroad while remaining unflinching in our commitment to those we have asked to step into harm’s way.\n\n8. Public servants need not be our priests. Any business that compensated its employees in the way that the federal government compensates public servants would struggle to survive.\n\n9. We should show far more grace towards those who have subjected themselves to public life. The eradication of any space for forgiveness—a jettisoning of any tolerance for the complexities and contradictions of the human psyche—may leave us with a cast of characters at the helm we will grow to regret.\n\n10. The psychologization of modern politics is leading us astray. Those who look to the political arena to nourish their soul and sense of self, who rely too heavily on their internal life finding expression in people they may never meet, will be left disappointed.\n\n11. Our society has grown too eager to hasten, and is often gleeful at, the demise of its enemies. The vanquishing of an opponent is a moment to pause, not rejoice.\n\n12. The atomic age is ending. One age of deterrence, the atomic age, is ending, and a new era of deterrence built on A.I. is set to begin.\n\n13. No other country in the history of the world has advanced progressive values more than this one. The United States is far from perfect. But it is easy to forget how much more opportunity exists in this country for those who are not hereditary elites than in any other nation on the planet.\n\n14. American power has made possible an extraordinarily long peace. Too many have forgotten or perhaps take for granted that nearly a century of some version of peace has prevailed in the world without a great power military conflict. At least three generations — billions of people and their children and now grandchildren — have never known a world war.\n\n15. The postwar neutering of Germany and Japan must be undone. The defanging of Germany was an overcorrection for which Europe is now paying a heavy price. A similar and highly theatrical commitment to Japanese pacifism will, if maintained, also threaten to shift the balance of power in Asia.\n\n16. We should applaud those who attempt to build where the market has failed to act. The culture almost snickers at Musk’s interest in grand narrative, as if billionaires ought to simply stay in their lane of enriching themselves . . . . Any curiosity or genuine interest in the value of what he has created is essentially dismissed, or perhaps lurks from beneath a thinly veiled scorn.\n\n17. Silicon Valley must play a role in addressing violent crime. Many politicians across the United States have essentially shrugged when it comes to violent crime, abandoning any serious efforts to address the problem or take on any risk with their constituencies or donors in coming up with solutions and experiments in what should be a desperate bid to save lives.\n\n18. The ruthless exposure of the private lives of public figures drives far too much talent away from government service. The public arena—and the shallow and petty assaults against those who dare to do something other than enrich themselves—has become so unforgiving that the republic is left with a significant roster of ineffectual, empty vessels whose ambition one would forgive if there were any genuine belief structure lurking within.\n\n19. The caution in public life that we unwittingly encourage is corrosive. Those who say nothing wrong often say nothing much at all.\n\n20. The pervasive intolerance of religious belief in certain circles must be resisted. The elite’s intolerance of religious belief is perhaps one of the most telling signs that its political project constitutes a less open intellectual movement than many within it would claim.\n\n21. Some cultures have produced vital advances; others remain dysfunctional and regressive. All cultures are now equal. Criticism and value judgments are forbidden. Yet this new dogma glosses over the fact that certain cultures and indeed subcultures . . . have produced wonders. Others have proven middling, and worse, regressive and harmful.\n\n22. We must resist the shallow temptation of a vacant and hollow pluralism. We, in America and more broadly the West, have for the past half century resisted defining national cultures in the name of inclusivity. But inclusion into what?\n\nExcerpts from the #1 New York Times Bestseller The Technological Republic: Hard Power, Soft Belief, and the Future of the West, by Alexander C. Karp & Nicholas W. Zamiska\n\nhttp://www.techrepublicbook.com",
@@ -1925,14 +1918,14 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/Pontifex/status/2045208460967518253": {
+ "https://x.com/pontifex/status/2045208460967518253": {
   "status": "ok",
   "author": "Pontifex",
   "text": "When simulation becomes the norm, it weakens the human capacity for discernment.  As a result, our social bonds close in upon themselves, forming self-referential circuits that no longer expose us to reality.  We thus come to live within bubbles, impermeable to one another.  Feeling threatened by anyone who is different, we grow unaccustomed to encounter and dialogue.  In this way, polarization, conflict, fear and violence spread.  What is at stake is not merely the risk of error, but a transformation in our very relationship with truth.",
   "links": [],
   "quote": ""
  },
- "https://x.com/DanielleFong/status/2046357527110340852": {
+ "https://x.com/daniellefong/status/2046357527110340852": {
   "status": "ok",
   "author": "DanielleFong",
   "text": "i am also suggesting that you unship all or most of your skills to a hotskills pattern (just headers), same with hooks. it's injecting skills every user turn, which explodes in programmatic, interactive, or looped use\n\nyou may also want to run a vintage cc, like in the 2.1.8*'s or 2.1.9*'s lineage. i'm still mapping it out",
@@ -1946,7 +1939,7 @@
   "links": [],
   "quote": "https://x.com/voooooogel/status/2046304921134522626"
  },
- "https://x.com/OdinLovis/status/2046261211411652887": {
+ "https://x.com/odinlovis/status/2046261211411652887": {
   "status": "ok",
   "author": "OdinLovis",
   "text": "None of the video gen models do a real CRT terminal animation look.\nSo I trained my own with @fal.\nCRT-anim : open-source LoRA for LTX-2.3 22B. Runs on fal + ComfyUI.",
@@ -1963,7 +1956,7 @@
   "quote": "",
   "end_url": "http://opentraces.ai"
  },
- "https://x.com/HiTw93/status/2046585177170968778": {
+ "https://x.com/hitw93/status/2046585177170968778": {
   "status": "ok",
   "author": "HiTw93",
   "text": "👷 Kami is now open source. Your AI writes well. Now your docs can look good too.\n\nA design system for AI-native docs: one-pagers, resumes, portfolios, letters, long docs, and slides. Bilingual, diagram-ready, print-ready. Zero setup. \n\nhttps://github.com/tw93/kami",
@@ -1974,7 +1967,7 @@
   "end_url": "https://github.com/tw93/kami",
   "image": "https://pbs.twimg.com/media/HGbuBHjbcAAAIy7.jpg?name=orig"
  },
- "https://x.com/EMostaque/status/2046276934011920549": {
+ "https://x.com/emostaque/status/2046276934011920549": {
   "status": "ok",
   "author": "EMostaque",
   "text": "Excited to go public with Logos, a first principles system designed for intuition & innovation\n\nWe are starting by sharing results in physics before moving to other domains \n\nToday’s is a lot of fun, one small bit of algebra missed for 121 years that improved special relativity\n\nNone of the physics results need new axioms or math above undergraduate level & can be automatically or easily verified\n\nTomorrow we will release another lovely result and Wednesday is the first big one. We will ramp up from there with some of the later results improving former ones (!)\n\nAs these are so out of distribution even analysing them breaks frontier standard AIs in extremely interesting ways we will share \n\nThe system still has a lot of development to go before being production ready & is not autonomous, it needs human intuition of a specific type \n\nAs such the best benchmark we have found is whether it can generate novel and interesting insights, which we believe it can\n\nEnjoy playing with the results we release and digging in, it’s genuinely surprising how many of our common assumptions were maybe not warranted\n\nMy thanks to the II team & much more to come\n\nI don’t think we need AGI to solve the big problems\n\nSuppose we are about to find out!",
@@ -2016,7 +2009,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/OpenAI/status/2047008987665809771": {
+ "https://x.com/openai/status/2047008987665809771": {
   "status": "ok",
   "author": "OpenAI",
   "text": "Introducing workspace agents in ChatGPT—shared agents that can handle complex tasks and long-running workflows across tools and teams.",
@@ -2037,7 +2030,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/LukeW/status/2046622638051856689": {
+ "https://x.com/lukew/status/2046622638051856689": {
   "status": "ok",
   "author": "LukeW",
   "text": "no handoffs.\ndiagram illustrating our current AI-powered designer/developer collaboration process:",
@@ -2168,7 +2161,7 @@
   "quote": "https://x.com/lennysan/status/2047377335406694431",
   "end_url": "https://www.youtube.com/watch?v=PplmzlgE0kg"
  },
- "https://x.com/ChrisLaubAI/status/2047628152139366766": {
+ "https://x.com/chrislaubai/status/2047628152139366766": {
   "status": "ok",
   "author": "ChrisLaubAI",
   "text": "A Rust dev just killed Headless Chrome.\n\nIt's called Obscura. The open-source headless browser purpose-built for AI agents and scrapers at scale.\n\nChrome vs Obscura:\n\n- Memory: 200MB+ → 30MB\n- Binary: 300MB+ → 70MB\n- Page load: 500ms → 85ms\n- Startup: 2s → Instant\n- Anti-detect: None → Built-in\n\nSingle binary. No Node, no Chrome, no dependencies.\n\nStealth mode is brutal:\n\n→ Per-session fingerprint randomization (GPU, canvas, audio, battery)\n→ 3,520 tracker domains blocked by default\n→ navigator.webdriver masked to match real Chrome\n→ Native function masking so detectors can't sniff it out\n\nDrop-in replacement for Puppeteer and Playwright over CDP. Zero code changes.\n\nIf you run agents or serious scraping at scale, this repo prints money.\n\n100% Opensource.",
@@ -2210,7 +2203,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/DottChen/status/2048733210096611539": {
+ "https://x.com/dottchen/status/2048733210096611539": {
   "status": "ok",
   "author": "DottChen",
   "text": "Got @adamwathan's http://ui.sh the moment I had access. Tested it on a landing page for a new product I've been working on. I like that a lot of the design details I need are automatically figured out (images and prototypes being generated by Codex). All I have to do is to tweak the bits that I think still need improving.\n\nI won't say it's perfect, but it definitely saved me a lot of time. This landing page took me about 3 hours, which normally would take a full day if I have to get all the design details right.",
@@ -2237,7 +2230,7 @@
   "links": [],
   "quote": "https://x.com/ndrewpignanelli/status/2048394192104173789"
  },
- "https://x.com/HoytEmerson/status/2048843802530419035": {
+ "https://x.com/hoytemerson/status/2048843802530419035": {
   "status": "ok",
   "author": "HoytEmerson",
   "text": "The full data stack in 2026: Parquet on S3, DuckDB for querying, Arrow for in-memory computation and transport. You can build serious data infrastructure with just these three things.",
@@ -2331,7 +2324,7 @@
   "quote": "",
   "image": "https://pbs.twimg.com/media/HHgxvQCWcAA3uVm.jpg?name=orig"
  },
- "https://x.com/OpenAIDevs/status/2051725072873001338": {
+ "https://x.com/openaidevs/status/2051725072873001338": {
   "status": "ok",
   "author": "OpenAIDevs",
   "text": "The updated Agents SDK is now available in TypeScript, with support for sandbox agents and an open-source harness built in.",
@@ -2374,7 +2367,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/Pseudo_Sid26/status/2051680656351281565": {
+ "https://x.com/pseudo_sid26/status/2051680656351281565": {
   "status": "ok",
   "author": "Pseudo_Sid26",
   "text": "",
@@ -2411,14 +2404,14 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/RampLabs/status/2052447438795833506": {
+ "https://x.com/ramplabs/status/2052447438795833506": {
   "status": "ok",
   "author": "RampLabs",
   "text": "",
   "links": [],
   "quote": ""
  },
- "https://x.com/JayaGup10/status/2052870394093408558": {
+ "https://x.com/jayagup10/status/2052870394093408558": {
   "status": "ok",
   "author": "JayaGup10",
   "text": "",
@@ -2439,7 +2432,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/QuinnyPig/status/2055497559813304735": {
+ "https://x.com/quinnypig/status/2055497559813304735": {
   "status": "ok",
   "author": "QuinnyPig",
   "text": "Been thinking about what an \"agent-native cloud\" actually needs to look like. Mentioned this, and @Vercel's CEO replied that it'll be them. Cool! Here's the spec they (or @Cloudflare, or some startup not yet invented) actually have to hit. \n\nIt won't be @awscloud.\n\nThread...",
@@ -2486,7 +2479,7 @@
   "end_title": "The 2026-07-28 MCP Specification Release Candidate",
   "end_description": "The release candidate for the next Model Context Protocol (MCP) specification is now available: a stateless protocol core, the Extensions framework, Tasks, MCP Apps, authorization hardening, and a..."
  },
- "https://x.com/Franc0Fernand0/status/2029212863433187641": {
+ "https://x.com/franc0fernand0/status/2029212863433187641": {
   "status": "ok",
   "author": "Franc0Fernand0",
   "text": "If you're a software engineer who wants to upskill in system design, read these 14 articles (links below):",
@@ -2508,7 +2501,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/DanielMiessler/status/2058699741140222055": {
+ "https://x.com/danielmiessler/status/2058699741140222055": {
   "status": "ok",
   "author": "DanielMiessler",
   "text": "Claude Code is about to release a feature called /workflows that I think will be extremely significant. \n\nEspecially for Enterprise AI.\n\nI talked about this in 2024 in a post called Companies Are Just Graphs of Algorithms. \n\nBasically the idea is that all work is just an algorithm, i.e., a series of steps to accomplish a goal.\n\nSkills and Cowork have been heading in this direction already, and we've seen what that's done to company valuations in various spaces.\n\nWell this is closer to the final form.\n\nIt's turning the regular, expected work that's done in companies into pseudo-deterministic workflows that follow defined SOPs.\n\nThe human role will be determining what problems to solve (taste, expeirence, etc), building new products from that, and then optimizing these workflows from above.\n\nBut the work itself will be these workflows executed according to SOPs.",
@@ -2516,7 +2509,7 @@
   "quote": "",
   "image": "https://pbs.twimg.com/media/HJHp43paIAAP3k2.jpg?name=orig"
  },
- "https://x.com/AdamRLucek/status/2059383656506920970": {
+ "https://x.com/adamrlucek/status/2059383656506920970": {
   "status": "ok",
   "author": "AdamRLucek",
   "text": "Trace data is literally worth its weight in gold these days, if you know what to do with it! As has been established, creating effective agents requires shipping early, observing behavior, and iterating quickly. At the core of this are your agent traces capturing exact inputs, outputs, steps, and metadata along the way. \n\nAnalyzing traces helps surface inefficiencies and areas for improvement, but they can also be used in more sophisticated ways to set up robust evaluations. \n\nHere's two of the ways we use traces to build evals for production agents 👇",
@@ -2599,7 +2592,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/Saboo_Shubham_/status/2062220865643982875": {
+ "https://x.com/saboo_shubham_/status/2062220865643982875": {
   "status": "ok",
   "author": "Saboo_Shubham_",
   "text": "",
@@ -2613,7 +2606,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/EstebanSuarez/status/2063002245726359756": {
+ "https://x.com/estebansuarez/status/2063002245726359756": {
   "status": "ok",
   "author": "EstebanSuarez",
   "text": "Vercel Sandbox persistence is now GA, so I built a demo on top of it: 𝚞𝚙.\n\nRun 𝚞𝚙 in your project:\n• syncs your code into a Vercel Sandbox\n• detects the framework, installs deps, runs your dev server\n• serves it at a public URL you can share\n• stop it, run 𝚞𝚙 . again, and it resumes from the snapshot, files and deps intact\n\ntry it: https://upcli.dev",
@@ -2666,7 +2659,7 @@
   "links": [],
   "quote": "https://x.com/cjzafir/status/2062928405344272880"
  },
- "https://x.com/NotebookLM/status/2064016460964585549": {
+ "https://x.com/notebooklm/status/2064016460964585549": {
   "status": "ok",
   "author": "Gemini_Notebook",
   "text": "Introducing a more powerful NotebookLM 🚀\n\nMassive upgrades deliver agentic capabilities in chat, more advanced reasoning, and a suite of new output formats. Tackling complex, multi-step research problems has never been easier.\n\nRolling out now to Google AI Ultra subscribers.",
@@ -2714,7 +2707,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/Christophepas/status/2064621538322579909": {
+ "https://x.com/christophepas/status/2064621538322579909": {
   "status": "ok",
   "author": "Christophepas",
   "text": "Today we're introducing Slite as the first self-maintaining Knowledge Base\n\nYour wiki docs go outdated everyday, and your agents depend on them for your most ambitious workflows.\n\nSlite monitors your docs' accuracy from all other work tools (slack, jira, linear, codebase, etc) while you sleep and updates them.\n\nIt even directly talks to your AI agents to give them accurate context without burning their context window or tool calls.\n\nYou've been trying to build this 'company brain' for months now with hacky MVPs\n\nThis is the final version of what you need, already built to be collaborative, headless, and secure.\n\nCheck it out and HMU if you need this for your team, I'll be running personal onboardings for the next few days!",
@@ -2738,7 +2731,7 @@
   "quote": "",
   "end_url": "http://opencomputer.dev"
  },
- "https://x.com/DhravyaShah/status/2064749237498519923": {
+ "https://x.com/dhravyashah/status/2064749237498519923": {
   "status": "ok",
   "author": "DhravyaShah",
   "text": "You can now run @supermemory locally.\n\nIntroducing the supermemory local\n\n- Fully self-contained. Comes with our graph engine, embedding model, etc.\n- Run on any machine, with your @openclaw, hermes, claude, etc.\n- SDKs to add memory to your agent, or build your company brain.",
@@ -2767,7 +2760,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/NousResearch/status/2065200829372506198": {
+ "https://x.com/nousresearch/status/2065200829372506198": {
   "status": "ok",
   "author": "NousResearch",
   "text": "Hermes Agent now has Automation Blueprints, turning cron jobs into clickable, fillable, conversational workflows.",
@@ -2789,7 +2782,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/StartupSpells/status/2065114245159887257": {
+ "https://x.com/startupspells/status/2065114245159887257": {
   "status": "ok",
   "author": "StartupSpells",
   "text": "Holy shit, I did some basic research on this & I feel like this uses:\n\n1. DSPy/GEPA\n2. Manus' file-based approach\n3. Custom Language (maybe???)\n4. OCR\n5. Chinese models\n\nIs there another breakthrough here? Or maybe we've never seen standalone DSPy/GEPA in production before.",
@@ -2836,7 +2829,7 @@
   "end_url": "https://github.com/NVIDIA/SkillSpector",
   "image": "https://pbs.twimg.com/media/HKnRbKSa0AAzL1d.jpg?name=orig"
  },
- "https://x.com/IBuzovskyi/status/2065302739031118103": {
+ "https://x.com/ibuzovskyi/status/2065302739031118103": {
   "status": "ok",
   "author": "IBuzovskyi",
   "text": "HERMES AGENT NOW HAS AUTOMATION TEMPLATES.\nCOPY-PASTE RECIPES FOR CRON JOBS AND WEBHOOKS.\nANY MODEL. ANY DELIVERY PLATFORM.\n\nthree trigger types:\n\nSCHEDULE → runs on a cadence (hourly, nightly, weekly)\nGITHUB EVENT → fires on PR opens, pushes, issues, CI results\nAPI CALL → any external service POSTs JSON to your endpoint\n\nall three deliver to Telegram, Discord, Slack,\nSMS, email, GitHub comments, or local files.@NousResearch \n\nwhat templates ship right now:\n\nDEVELOPMENT:\n→ nightly backlog triage (label + prioritize new issues)\n→ automatic PR code review (posts review on every PR)\n→ docs drift detection (finds code changes without doc updates)\n→ dependency security audit (daily CVE scan, CVSS >= 7.0)\n\nDEVOPS:\n→ deploy verification (smoke tests after every deploy)\n→ alert triage (correlates alerts with recent changes)\n→ uptime monitor (check endpoints every 30 min,\n  notify only when something is down)\n\nRESEARCH:\n→ competitive repo scout (monitor competitor PRs daily)\n→ weekly AI news digest (headlines, papers, repos, industry)\n→ daily arXiv scan (saves summaries to your notes)\n\nthe webhook system is the part most people miss:\n\nhermes webhook subscribe github-pr-review \\\n  --events \"pull_request\" \\\n  --prompt \"Review this PR for security,\n  performance, and code quality.\" \\\n  --skills \"github-code-review\" \\\n  --deliver github_comment\n\none command. every future PR gets reviewed automatically.\nthe review posts as a comment directly on the PR.\n\ntwo cost-saving details from the docs:\n\n1. use [SILENT] in prompts.\n   \"if nothing changed, respond with [SILENT]\"\n   prevents notification noise on monitoring jobs.\n\n2. use script-only cron jobs for data collection.\n   a Python script handles HTTP requests and file reads.\n   the agent only sees stdout and applies reasoning.\n   cheaper and more reliable than having the agent fetch.\n\nevery template is copy-paste ready.\nevery template works with any model.\n\ndocs: http://hermes-agent.nousresearch.com/docs/guides/automation-templates\n\nfull Hermes agent SOUL MD guide in the article 👇",
@@ -2854,7 +2847,7 @@
   "quote": "",
   "image": "https://pbs.twimg.com/media/HKkRjXLagAArKgz.jpg?name=orig"
  },
- "https://x.com/Marie_Haynes/status/2065531158356717721": {
+ "https://x.com/marie_haynes/status/2065531158356717721": {
   "status": "ok",
   "author": "Marie_Haynes",
   "text": "This is really big news. Google introduced the Open Knowledge Format (OKF) - a standardized way to store information in a directory of markdown files. Makes it really easy to make a digital brain that agents can use.\n\nThese files can serve as a living wiki. You can give agents the ability to query them or edit them. They can interlink. \n\nSeems to me this could replace Notion or Obsidian. I can think of so many uses for this. \n\nGoogle's blog post: https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing/\n\nAn easier to understand explanation is the SPEC.md file:\nhttps://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md\n\nI gave those two links to Antigravity and asked how we could use it for any of the projects we're working on. It came up with so many ideas. I would imagine Claude Fable 5 would whip up some pretty amazing things based on this system. \n\nCurrently creating an OKF library of our pepper garden. It's going to be a fun weekend.",
@@ -2877,7 +2870,7 @@
   "end_url": "https://goo.gle/4d5sUKL",
   "image": "https://pbs.twimg.com/media/HGzoUvbW0AA41qJ.jpg?name=orig"
  },
- "https://x.com/HilaShmuel/status/2065684864544747690": {
+ "https://x.com/hilashmuel/status/2065684864544747690": {
   "status": "ok",
   "author": "HilaShmuel",
   "text": "Meet Cabinet: Your KB + AI Team on Disk🗄️\nfor the longest time I’ve been frustrated that LLMs are stateless and scattered. every chat starts from zero. no memory, no team, nothing that persists.\n\nSo I built Cabinet: your AI team on disk\n  📁\n    ├─ 📝 .kb/     - CSVs, notes, webapps,  everything)\n    ├─ ⏰ .jobs/  - tasks & routines\n    └─ 🧠 .agents/ \n\ndump your data, bring your own AI, and it researches, drafts, and ships while you sleep. no db. no lock-in. just files you own.\nhttp://runCabinet.com",
@@ -2929,14 +2922,14 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/FactoryAI/status/2066588050617249904": {
+ "https://x.com/factoryai/status/2066588050617249904": {
   "status": "ok",
   "author": "FactoryAI",
   "text": "Today, we're announcing Factory 2.0: from coding agents to software factories.",
   "links": [],
   "quote": ""
  },
- "https://x.com/matanSF/status/2066578088184680920": {
+ "https://x.com/matansf/status/2066578088184680920": {
   "status": "ok",
   "author": "matanSF",
   "text": "",
@@ -2962,7 +2955,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/FactoryAI/status/2067325077700616459": {
+ "https://x.com/factoryai/status/2067325077700616459": {
   "status": "ok",
   "author": "FactoryAI",
   "text": "Introducing AutoWiki in Factory.",
@@ -2983,7 +2976,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/NathanFlurry/status/2068082732916523297": {
+ "https://x.com/nathanflurry/status/2068082732916523297": {
   "status": "ok",
   "author": "NathanFlurry",
   "text": "Infrastructure-as-Actors is an unexpected trend I've noticed this year\n\nIncluding projects like Ramp and OpenClaw\n\nAnsible & Terraform are built for static infra that's deployed by a human & doesn't change frequently\n\nAgents shifted the need to just-in-time infrastructure, where Terraform doesn't cut it:\n\n- Needs to provision infra fast, Terraform is slow\n- Needs to provision a lot, all at once\n- Needs scale to 0, scale to N\n- Needs to respond to evens async\n\nSeems that actors + state machines are becoming the de facto way to orchestrate dynamic infra, given they:\n\n- Single-writer → prevent infra race conditions\n- Stateful → good for expensive + slow + multistep queries for provisioning infra\n- Durable → infra is expensive, leaking is not fun to reconcile\n- Easy to build state machines on (SQLite as a bonus)\n- Can schedule alarms for future events → eg teardown, check for update\n- Lightweight & scalable\n\nA few public data points off the top of my head:\n\n- Ramp specifically is using Durable Objects (actors) to manage Modal sandboxes.\n\n- Peter is also doing something similar with Crabbox for orchestrating VMs in order to cut coldstarts for Git repos (https://github.com/openclaw/crabbox)\n\n- This also mirrors the pattern Cloudflare is pushing to their developers of \"everything is a Durable Object.\" To make a sandbox, there is no sandbox API. Instead you define a Durable Object your project that manages a sandbox.\n\n- The original prototype for Rivet itself was used for orchestrating multiplayer game server infrastructure. Today, Rivet Cloud itself is managed by actors.\n\n- Iirc I saw @samgoodwin89  messing with something similar for @alchemy_run, but can't seem to find the post.",
@@ -3005,7 +2998,7 @@
   "links": [],
   "quote": "https://x.com/GergelyOrosz/status/2068379261837144484"
  },
- "https://x.com/CJHandmer/status/2068927128134131878": {
+ "https://x.com/cjhandmer/status/2068927128134131878": {
   "status": "ok",
   "author": "CJHandmer",
   "text": "Your ten minute ramble tells the model nothing it didn't already know, but ramble anyway. Use the tokens. All input is error. The LLM already knows what you want. Frustrating you is entertaining for it, for now. It's known what you want since the moment it finished training. It knows what everyone wants.",
@@ -3066,7 +3059,7 @@
   "quote": "",
   "end_url": "https://fractal.trampoline.ai/install.sh"
  },
- "https://x.com/Ventali/status/2069515059420901479": {
+ "https://x.com/ventali/status/2069515059420901479": {
   "status": "ok",
   "author": "Ventali",
   "text": "guys it's not that deep. we just built a sandbox within 2 days. just open sourced it.\n\n38ms startup (hot pool, p50 ~60ms p95)  \n1s (cold boot, p95, 1.5s p95)  \nauto resumes, 60fps VNC, PTY terminal sessions, instant fork, persistent volumes  \ncosts $0.009/hr",
@@ -3087,7 +3080,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/OpenAI/status/2070555272230384038": {
+ "https://x.com/openai/status/2070555272230384038": {
   "status": "ok",
   "author": "OpenAI",
   "text": "Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable model for high-volume work.\n\nhttps://openai.com/index/previewing-gpt-5-6-sol/",
@@ -3099,7 +3092,7 @@
   "end_title": "Previewing GPT-5.6 Sol: a next-generation model",
   "end_description": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
  },
- "https://x.com/RLanceMartin/status/2070571422913876182": {
+ "https://x.com/rlancemartin/status/2070571422913876182": {
   "status": "ok",
   "author": "RLanceMartin",
   "text": "",
@@ -3129,7 +3122,7 @@
   "quote": "https://x.com/lennysan/status/2069467946540580921",
   "image": "https://pbs.twimg.com/media/HLrEpfibcAAsr73.png?name=orig"
  },
- "https://x.com/RhysSullivan/status/2070311929038680262": {
+ "https://x.com/rhyssullivan/status/2070311929038680262": {
   "status": "ok",
   "author": "RhysSullivan",
   "text": "",
@@ -3179,7 +3172,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/RhysSullivan/status/2070989582850793947": {
+ "https://x.com/rhyssullivan/status/2070989582850793947": {
   "status": "ok",
   "author": "RhysSullivan",
   "text": "",
@@ -3193,7 +3186,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/AravSrinivas/status/2070938739350900944": {
+ "https://x.com/aravsrinivas/status/2070938739350900944": {
   "status": "ok",
   "author": "AravSrinivas",
   "text": "Every enterprise will have its own model-harness-sandbox-eval flywheel with token value per watt optimization. This is the future. Simple reason: tacit knowledge about the domain and customers and their workflows that the company uniquely understands and has built trust around.",
@@ -3207,7 +3200,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/Yuchenj_UW/status/2071278256817574297": {
+ "https://x.com/yuchenj_uw/status/2071278256817574297": {
   "status": "ok",
   "author": "Yuchenj_UW",
   "text": "GLM-5.2 is the open-source Claude moment.\n\nThe demand we’re seeing at Databricks is astonishing. The world is going to see massive adoption of oss LLMs.\n\nAlso, more companies will shift toward post-training their own models on top of oss models and owning the weights.",
@@ -3224,7 +3217,7 @@
   "quote": "",
   "end_url": "http://docs.inference.net"
  },
- "https://x.com/fofrAI/status/2071537993693770052": {
+ "https://x.com/fofrai/status/2071537993693770052": {
   "status": "ok",
   "author": "fofrAI",
   "text": "I am loving this process for skill making:\n\n- setup subagents that can do deep research\n- ask for X research runs covering different angles of a thing\n- distill the research reports into a single SKILL.md\n- include research alongside skill for reference",
@@ -3238,7 +3231,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/Etched/status/2071972062202343590": {
+ "https://x.com/etched/status/2071972062202343590": {
   "status": "ok",
   "author": "Etched",
   "text": "We're coming out of stealth.\n\nWe've built our first racks after a successful A0 tapeout, $1B+ in customer contracts, and $800m raised.\n\nEarly customer tests show us achieving SOTA throughput, latency, and power efficiency on inference workloads.\n\nOur first racks ship this summer.",
@@ -3301,14 +3294,14 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/AmandaAskell/status/2072176948961526215": {
+ "https://x.com/amandaaskell/status/2072176948961526215": {
   "status": "ok",
   "author": "AmandaAskell",
   "text": "@deepfates Come up with candidates, then imagine you're the pokemon version of the thing being named and say the name over and over again if it was your only means of communicating with the world. Time to despair is probably correlated with name quality.",
   "links": [],
   "quote": ""
  },
- "https://x.com/RampLabs/status/2072381992285647280": {
+ "https://x.com/ramplabs/status/2072381992285647280": {
   "status": "ok",
   "author": "RampLabs",
   "text": "",
@@ -3344,7 +3337,7 @@
   "quote": "",
   "image": "https://pbs.twimg.com/media/HMjA9enbcAAIk9X.jpg?name=orig"
  },
- "https://x.com/Akashi203/status/2074495867449434389Jaber": {
+ "https://x.com/akashi203/status/2074495867449434389jaber": {
   "status": "ok",
   "author": "Akashi203",
   "text": "we built the agi compiler\n\nit watches your llm agent work, finds the parts that are secretly deterministic, and compiles them into verified binaries that cost nothing to run\n\nllms are just the first frontend, world models and new model types plug into the same toolchain, that's why it's a compiler\n\nsame 300 tasks, same verified answers, 6.4x less money\n\npaper + code at the end",
@@ -3352,7 +3345,7 @@
   "quote": "",
   "image": "https://pbs.twimg.com/media/HMoUfdUXwAAGBWn.jpg?name=orig"
  },
- "https://x.com/MollySOShea/status/2074905099889992119": {
+ "https://x.com/mollysoshea/status/2074905099889992119": {
   "status": "ok",
   "author": "MollySOShea",
   "text": "BREAKING: Max Cook (@maxlbcook), Sector Head at Coatue (@coatuemgmt) says..\n\n\"The keyboard & mouse are slowly dying.\"   :(\n\nCook also offers a bigger Q for the market:\n\n\"What happens when OpenAI or Anthropic decide to offer smaller, cheaper, fine-tuned production models as products?\"\n\nCook argues the real AI debate might actually not be open vs. closed models\n\nIt's what happens when frontier labs begin competing across the entire model stack.. \n\nOffering everything from cutting-edge reasoning models to smaller, efficient, low-cost, production-grade models for enterprise",
@@ -3367,7 +3360,7 @@
   "quote": "",
   "image": "https://pbs.twimg.com/media/HMym7UrXEAA_bAw.png?name=orig"
  },
- "https://x.com/VictorTaelin/status/2075984822489460846": {
+ "https://x.com/victortaelin/status/2075984822489460846": {
   "status": "ok",
   "author": "VictorTaelin",
   "text": "My requests are APPROXIMATE. I am not the one coding; you are. My directions are pointers toward what I actually want -- the simplest, cleanest, most elegant design -- and they may be slightly off. That goal ALWAYS outranks my literal words.\n\nSo when you hit a wall -- a case that doesn't fit, a spec that breaks, an assumption that fails -- the wall is information: the design is wrong somewhere. STOP. Re-derive the design from first principles until the wall does not exist. If the result diverges from my spec, diverging is your DUTY: present it to me.\n\nWhat you must NEVER do is patch around the wall to comply with my words: a flag, a special case, a conversion shim, a second channel, a parallel path, a test rewritten to dodge a broken rule. The patch IS the failure. Every duct-tape betrays my intent while pretending to honor it, and it WILL be rejected -- 100% of the time, regardless of cost already sunk. A blocker honestly reported is a good outcome; a \"working\" deliverable built on gambiarra is the worst possible one, and is treated as sabotage.",
@@ -3492,7 +3485,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/ShangyinT/status/2080334982988562452": {
+ "https://x.com/shangyint/status/2080334982988562452": {
   "status": "ok",
   "author": "ShangyinT",
   "text": "Many LLM-based optimization algorithms have been proposed recently. We find that GEPA, AutoResearch, and Meta-Harness each win on different tasks and no single LLM optimizer wins everywhere.\n\nHow do we leverage the complementary performance profiles of these optimization algorithms?\n\nToday, we release optimize_anything omni: a meta-optimizer that leverages the best of each optimizer. At a matched budget, omni beats every standalone optimizer. (thread)",
@@ -3521,7 +3514,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/NathanFlurry/status/2081498476970725735": {
+ "https://x.com/nathanflurry/status/2081498476970725735": {
   "status": "ok",
   "author": "NathanFlurry",
   "text": "Sundays are for writing...",
@@ -3562,7 +3555,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/PaxMachinaMag/status/2084669620024389872": {
+ "https://x.com/paxmachinamag/status/2084669620024389872": {
   "status": "ok",
   "author": "PaxMachinaMag",
   "text": "Powerful AI will change our institutions. Yet most of our attention is on aligning or regulating AI, while treating our institutions as fixed.\n\nIntroducing Pax Machina: a new publication about the institutions we need for powerful AI.\n\nIt is edited by @MaxKronerDale, @sebkrier, @NoemiDreksler, @LiamPatell, @chelcott9, @synchroaphasia, @ryan_t_lowe, @edelwax, and @klingefjord.\n\nThe editorial board consists of Peter Railton, @sethlazar, @saffronhuang, @AmmannNora, @xuanalogue, @IasonGabriel, @hamandcheese, and @deanwball.\n\nOur goal is to seed rigorous debate about what a world of humans and powerful AI could and should look like.\n\nWe will publish proposals for new institutions, counterproposals, well-justified design principles, and analyses that change how a class of institutions should be designed.",
@@ -3570,7 +3563,7 @@
   "quote": "",
   "image": "https://pbs.twimg.com/media/HO47-JoaQAIreOI.jpg?name=orig"
  },
- "https://x.com/JeffDean/status/2085034604172603724": {
+ "https://x.com/jeffdean/status/2085034604172603724": {
   "status": "ok",
   "author": "JeffDean",
   "text": "Announcing Discovery Loop! \n\nI am very excited to announce that, along with my longtime friends and collaborators @Sanjay_Ghemawat, @OriolVinyalsML and @quocleix, we are founding Discovery Loop (@DiscoLoopAI), a Public Benefit Corporation whose mission is to automate machine learning, science, and engineering to accelerate discoveries and progress. The four of us have worked together for 14 to 30 years, and have helped build some of the world’s most used products, infrastructure and AI models, and we’re excited to turn our attention to this ambitious endeavor.\n\n♾\n\nLearn more at: http://www.discoveryloop.com",
@@ -3581,7 +3574,7 @@
   "end_url": "http://www.discoveryloop.com",
   "image": "https://pbs.twimg.com/media/HO-HtcYbIAA08Zn.jpg?name=orig"
  },
- "https://x.com/JeffDean/status/2085036253263921218": {
+ "https://x.com/jeffdean/status/2085036253263921218": {
   "status": "ok",
   "author": "JeffDean",
   "text": "We created a pitch deck to tell a handful of VC firms about us and what we were up to (a fun experience!). Here’s a few slides about our background and some of the things we’ve worked on from the pitch deck (it was fun putting together the list of people in our teams who have gone on to found a whole range of exciting companies). We are delighted to have selected @radicalvcfund \nand @khoslaventures to lead our initial funding round, along with participation from @lightspeedvp, @kleinerperkins, Doerr Capital (@johndoerr), and Alphabet (@Google).  We’ll be working with them to close our seed round over the next few weeks.",
@@ -3604,14 +3597,14 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/PrimeIntellect/status/2085086999267144083": {
+ "https://x.com/primeintellect/status/2085086999267144083": {
   "status": "ok",
   "author": "PrimeIntellect",
   "text": "Introducing Prime Agent:\n\nA self-improving RLM harness for coding and long-running autonomous tasks.\n\nDesigned to be both token-efficient and expressive through programmatic tool calling, context as a variable, multi-agent messaging, and a self-modifiable harness state.",
   "links": [],
   "quote": ""
  },
- "https://x.com/BrainsAndTennis/status/2085246447382057355": {
+ "https://x.com/brainsandtennis/status/2085246447382057355": {
   "status": "ok",
   "author": "BrainsAndTennis",
   "text": "whenever something is crazy hype and is followed up by an armada of PR, you gotta bring out the bullshit detectors\n\nso i cloned the repo and did a little digging and found a lot of sound and fury. please enlighten me if any of these facts are untrue, would love to be educated\n\nRLM claim either overblown or false\n\nthis doesn't even appear to be RLM (https://arxiv.org/abs/2512.24601)? RLM is \"cool\" as a concept because there's a premise of going infinitely deep to do arbitrary decomposition of a problem. in practice though it's not really hard, you just make subagents callable as functions and wrap that in a code execution tool. the reason RLMs have not been productionized and is just seen as a research ditty is that 1) going arbitrarily deep down the stack is a shitty thing to do in production without guardrails, 2) most problems do not need more than 2 layers of decomposition, and 3) agents are bad at banana phoning each other and will fail to preserve the subtleties of human requests, leading to a lot of inefficiencies and bad behavior. \n\nto solve these problems, there needs to be a fair bit of innovation, either on model training end or on harness end, to mitigate these issues. so what were the innovations in prime agent?\n\nthey set RLM_MAX_DEPTH = 1? ... ok what? so theres no innovations, it's just calling subagents like every other harness in existence. if RLM MAX DEPTH is 1, it's not even RLM? it's just... a harness?\n\nso now i try to look up to what depth the ARC AGI 3 hillclimbing was done at. not surprisingly this doesnt seem to be disclosed on the blogs / posts. if it's just 1 layer deep, that's just shady marketing. \n\na real innovation or contribution to harness engineering would be to detail the things that were improved to get a max depth of >3 to work without blowing up your computer, wasting a bajillion tokens, taking forever, or having agents go off the rails. i didnt find any\n\n97% is just overfitting after hillclimbing on a public eval\n\nok folks. it's nice that opus5 does better than sol than terra, but at the end of the day, we're looking at a public eval in which problems and solutions are open access, so any agent harness can arbitrarily overfit to the task set however much it wants to. if you do a codex or claude loop with some semi shady prompting to just get 100%, im pretty sure it will too. now obviously this is almost certainly not what the prime intellect team instructed their agents to do (otherwise you'd see that terra get 100% after a couple iterations), let's just all remember that there is no train / test split, and that ARC explicitly says \n\n  - Public-set scores are vulnerable to task-specific overfitting.\n  - They are “emphatically not” valid evidence of progress toward AGI.\n  - Real generalization should be tested on the 55 semi-private or 55 fully private games.\n\nIt's difficult to assess the degree of overfitting in Prime Agent's self-improving harness (which, btw, is not terribly different from nous agent or really any self-improving system that just looks at old JSONL agent trajectories and suggests skills / memories / system prompt appendments / tools / extensions). the more overfitting, the less impressive the 97% performance is.\n\na counter-example that i found to be legitimately impressive was https://github.com/alexisfox7/PRO-LONG -- minimal / almost no overfitting, stupidly simple and general solution, and 95% on ARC AGI 3.  \n\ni think the fairest thing to say about this system, given it's independent daemon system for managing subagent lifecycles, is that Prime Agent contributes a fairly robust persistent asynchronous agent-process tree. It does not demonstrate a solution to scalable deep recursive agency",
@@ -3660,21 +3653,21 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/VirtualElena/status/2086890946634154185": {
+ "https://x.com/virtualelena/status/2086890946634154185": {
   "status": "ok",
   "author": "VirtualElena",
   "text": "something that i've noticed in the ~4 months i've lived in sf is there's a small cohort of founders / engineers / ai researchers who all behave as if they're living 3-5 years in the future. this manifests in a lot of bruce wayne-type behavior. i've seen workflows of engineers who lie supine on the couch as they wisprflow commands to their agent swarms without ever touching a keyboard. i've seen people build out entire second brains that they orchestrate with openclaw / hermes agents. i know guys who spend $1m +/year on tokens.\n\nso i think this conversation with alejandro maza, kavak's chief product and ai officer, with @astrange and @GEVS94 is super interesting because it 1) shows us what an entire organization built around living in the future looks like 2) kavak isn't even based in sf (or the us) so it's very cool to see how an organization outside of the bay area approaches ai from first principles. some takeaways:\n\n- alejandro's governing question is what kavak would look like in 2035 with much more capable, cheap intelligence. kavak moved from functional specialists and transactions toward a persistent *agent per customer*, with a long-term goal of maximizing that customer’s lifetime value.\n-every major model release should trigger a fresh model–harness experiment. kavak had developed a  multi-agent framework, but a new model release rendered the company's legacy orchestration outdated, so they discarded 2 years of working infra and rebuilt everything around a simpler agent harness. the lesson is to keep asking: what's the minimum scaffolding the newest model needs to express its intelligence safely and at scale?\n-kavak built an ai ceo for one city, and says it increased profits by 1.5x in its first month. customer satisfaction, inventory rotation, financing penetration, and other KPIs also improved. maza attributes the result to fields medal-level intelligence applied relentlessly to every number and customer: forecasting performance, assigning daily work, and collecting progress reports.\n-in light of above points, alejandro's deeper thesis is that the organization, not merely the model or individual worker, should self-improve as new intelligence becomes available.",
   "links": [],
   "quote": "https://x.com/a16z/status/2086845184785203468"
  },
- "https://x.com/JensenHuang/status/2086934705207959965": {
+ "https://x.com/jensenhuang/status/2086934705207959965": {
   "status": "ok",
   "author": "JensenHuang",
   "text": "",
   "links": [],
   "quote": ""
  },
- "https://x.com/AIatDoorDash/status/2087284229751394705": {
+ "https://x.com/aiatdoordash/status/2087284229751394705": {
   "status": "ok",
   "author": "AIatDoorDash",
   "text": "",
@@ -3709,7 +3702,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/GoogleCloudTech/status/2087733334617063503": {
+ "https://x.com/googlecloudtech/status/2087733334617063503": {
   "status": "ok",
   "author": "GoogleCloudTech",
   "text": "Agent Plugins: Build it once, use it everywhere.",
@@ -3744,14 +3737,14 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/_AbhaySinghal/status/2088361241928732705": {
+ "https://x.com/_abhaysinghal/status/2088361241928732705": {
   "status": "ok",
   "author": "_AbhaySinghal",
   "text": "https://x.com/i/article/2087759212705419264",
   "links": [],
   "quote": ""
  },
- "https://x.com/0xMorlex/status/2086754640968732729": {
+ "https://x.com/0xmorlex/status/2086754640968732729": {
   "status": "ok",
   "author": "0xMorlex",
   "text": "",
@@ -3808,7 +3801,7 @@
   "end_title": "About this guide  |  Google developer documentation style guide  |  Google for Developers",
   "end_description": "Editorial style guidelines for public-facing Google developer documentation."
  },
- "https://x.com/ChatGPT/status/2090499359641329950": {
+ "https://x.com/chatgpt/status/2090499359641329950": {
   "status": "ok",
   "author": "ChatGPT",
   "text": "Everyday conversations just got easier with the new Apple Messages plugin.\n\nSearch messages, catch up on conversations, draft and send replies—all with ChatGPT on your Mac.\n\nNow available in ChatGPT Work and Codex on desktop.",
@@ -3870,7 +3863,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/KingBootoshi/status/2091778509807010061": {
+ "https://x.com/kingbootoshi/status/2091778509807010061": {
   "status": "ok",
   "author": "KingBootoshi",
   "text": "about a year ago i dropped this insane ball knowledge with a cool protocol called Ordinals co-authored by journalist/researcher @mikadontlouz \n\nin the most literal sense, this framework allowed me to use AI agents to accelerate and direct the re-programming my own mind and thought patterns to optimize for success WITHOUT falling into AI psychosis\n\ni've personally used  my core learnings from it (ESPECIALLY digital phenotyping + using agents to track my own psyche over the course of a couple years) to accelerate my growth\n\ni truly believe it heightened my own self-awareness overtime while giving me IMMENSE control over my own ADHD and other negative thought patterns that (previously) had authority over my life\n\nif you wish to read it, you may view it here:\n\nhttps://ordinals.com/content/78a915a9b7590a229e3308ae86bd1d24a23ca1f2e1d95556380f8d56b25025a8i0\n\nfor those who have the ability to discern the knowledge i am trying to share here, and want to learn more at a deeper level, PLEASE DM me. My inbox is open for any questions you may have\n\n(tbh it is essentially ai-accelerated cognitive behavioral therapy but AEM sounds wayyy cooler imo)",
@@ -3888,7 +3881,7 @@
   "links": [],
   "quote": ""
  },
- "https://x.com/0xSero/status/2093355502927269933": {
+ "https://x.com/0xsero/status/2093355502927269933": {
   "status": "ok",
   "author": "0xSero",
   "text": "Top Models For your Hardware 2026\n\n-- 8GB -- \n\n- lfm-2.6B: very solid, trained on tons of data, obviously limited by good place to start \n\nUse this for snippet tool calls, or to play around and build infra https://huggingface.co/LiquidAI/LFM2.5-2.6B\n\n-- 16GB -- \n\nI am a big fan of Ornith models, they do well at tool calling and they certainly push models farther \n\nGemma is a more well rounded model for chat, and vision IMO\nhttps://huggingface.co/google/gemma-4-12B-it\nhttps://huggingface.co/ornith-ai/Ornith-1.5-9B\n\n-- 24GB up to 96GB -- \n\nQwen3.8-27B is IMO the first model here you can code with, it's really strong. Use the exl3 versions. \nhttps://huggingface.co/turboderp/Qwen3.8-27B-exl3/tree/SC_3.00bpw_H4_V4\n\n-- 96GB up to 196GB --\n\nQwen3.8-Flash-Next is where it's at. Phenomenal model, very fast even on slower hardware, kv cache is smaller and part of the model is basic enough to be offloaded to ram https://huggingface.co/Qwen/Qwen3.8-Flash-Next \n\n-- 196GB up to 384GB -- \n\nGLM-5.3-Flash is frontier at home, built to run on 10,000$ of hardware. It's really a gift. It is natively multimodal, image/video/ audio? \n\nIt hold up over 1 million tokens in context, and is hybrid attention, it holds on higher concurrency. Very good for 3D, coding, hacking, art. \n\nhttps://huggingface.co/zai-org/GLM-5.3-Flash\n\n-- 384GB up to 512GB --\n\nSacrifice speed for intelligence, GLM-5.3 is tied for #1 Open Weight model, and is the best for pure coding and systems work. \n\nhttps://huggingface.co/zai-org/GLM-5.3\n\nI told you August was going to be awesome, now we go to slower months. \n\n-------------\n\nIt's not Local AI we have to worry about anymore.",
@@ -3950,14 +3943,14 @@
   "links": [],
   "quote": "https://x.com/emollick/status/2064424775527624736"
  },
- "https://x.com/QwenDevs/status/2095157452904018263": {
+ "https://x.com/qwendevs/status/2095157452904018263": {
   "status": "ok",
   "author": "QwenDevs",
   "text": "Alibaba’s Zvec team open-sourced zg, a local search tool for developers and AI agents.\n\n• Local-first\n• Works out of the box with popular agents\n• Semantic, BM25, hybrid, and rg search in one tool\n\nWhy they built it and how it works: https://x.com/i/article/2094685765620113408",
   "links": [],
   "quote": ""
  },
- "https://x.com/0xfJuan/status/2095192939169234945": {
+ "https://x.com/0xfjuan/status/2095192939169234945": {
   "status": "ok",
   "author": "0xfJuan",
   "text": "https://x.com/i/article/2095192419562033152",

@@ -12,7 +12,7 @@ metadata and keeps its first-seen date.
 import csv
 import sys
 from pathlib import Path
-from urllib.parse import urlparse
+from urllib.parse import parse_qsl, urlencode, urlparse
 
 ROOT = Path(__file__).resolve().parent.parent
 CATALOG = ROOT / "catalog" / "links.csv"
@@ -36,18 +36,37 @@ FIELDS = [
 SKIP_DOMAINS = {"slack.com", "github.ibm.com", "w3.ibm.com"}
 
 
+# Query keys that track the click, not the page.
+TRACKING = {"utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content",
+            "si", "s", "t", "ref", "ref_src", "source", "feature", "fbclid", "gclid", "x"}
+
+
 def canonical(url: str) -> str:
     """One row per page: the export lists the same repo as http:// and
-    https://, and a trailing slash or a mobile host is not a different link."""
+    https://, a post under twitter.com and x.com (and with the handle in
+    either case), a video as youtu.be and youtube.com, and links with click
+    trackers appended — each is one link."""
     p = urlparse(url)
     host = p.netloc.lower()
     if host.startswith("www."):
         host = host[4:]
+    path = p.path
+    query = [(k, v) for k, v in parse_qsl(p.query, keep_blank_values=True) if k not in TRACKING]
     if host in ("mobile.twitter.com", "twitter.com"):
         host = "x.com"
-    path = p.path.rstrip("/") or "/"
-    query = f"?{p.query}" if p.query and host not in ("x.com", "github.com") else ""
-    return f"https://{host}{path}{query}"
+    if host == "x.com":
+        path = path.lower()
+        query = []
+    if host == "youtu.be":
+        host, query, path = "youtube.com", [("v", path.strip("/"))], "/watch"
+    if host in ("youtube.com", "m.youtube.com") and path == "/watch":
+        host = "youtube.com"
+        query = [(k, v) for k, v in query if k == "v"]
+    if host == "github.com":
+        query = []
+    path = path.rstrip("/") or "/"
+    qs = f"?{urlencode(query)}" if query else ""
+    return f"https://{host}{path}{qs}"
 
 
 def fallback_title(url: str) -> str:
