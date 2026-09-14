@@ -495,27 +495,10 @@
    ]
   },
   {
-   "id": "L01384",
-   "url": "https://delta.dev）。/",
-   "title": "老鬼 (@laogui) on X",
-   "content_text": "知名代码编辑器 Zed 推出了全新的独立 Agentic IDE —— Delta（http://delta.dev）。\n\n目前绝大多数 AI 编程工具本质上还是“单人抽卡”：你跟 Agent 聊完改了代码，聊天的上下文就被埋没了；到了 Git Commit 里，同事根本不知道这段代码当初是怎么跟 AI 讨论出来的。\n\nDelta 要做的事情是：\n\n- 把聊天当做第一公民：代码和产生它的对话永久绑定（底层基于 DeltaDB）。你在某行代码上不仅能看到是谁写的，还能追溯当时是哪段 Prompt、怎么跟 Agent 推演出来的。\n\n- 多人实时协作：发一个链接，同事就能直接进你的 Thread 围观 Agent 写代码，还能实时评论、接管任务，甚至直接在浏览器里（Rust+Wasm 渲染）跑起来。\n\n- 支持外部 Agent：不仅自己能跑，还能直接接管终端里的 Claude Code 等外部 Agent。\n\n这个产品有点类似 GitHub 前 CEO 创立的 Entire，把 AI 会话当做上下文，虽然理念挺好，但在团队实施的难度较大。\n\nDelta 也可以当做单人版 Agent 代码工具，和 Zed 一样是 Rust 写的，性能很好，也可以对接第三方 Agent，使用 Codex，Grok 的订阅额度。\n\n— @laogui\n\nSocial media & discussions · Social post · by laogui",
-   "date_published": "2026-09-07T01:04:32Z",
-   "tags": [
-    "Social media & discussions"
-   ],
-   "external_url": "https://x.com/laogui/status/2096611233621520513",
-   "authors": [
-    {
-     "name": "laogui"
-    }
-   ],
-   "image": "https://pbs.twimg.com/media/HRiWsF8aYAAY-DV.jpg:large"
-  },
-  {
    "id": "L01383",
    "url": "https://delta.dev/",
    "title": "Delta | A Multiplayer Environment for Coding with Agents",
-   "content_text": "Websites & products · Homepage · AI agents & automation",
+   "content_text": "Websites & products · Homepage · AI agents & automation\n\n— also shared: https://x.com/laogui/status/2096611233621520513",
    "date_published": "2026-09-07T01:03:12Z",
    "tags": [
     "Websites & products",
@@ -6359,23 +6342,6 @@
    ]
   },
   {
-   "id": "L00939",
-   "url": "https://opencomputer.dev,/",
-   "title": "Utpal Nadiger (@utpalnadiger) on X",
-   "content_text": "the background agent market map.\n\nevery serious eng org now ships agents that code while they sleep. and in most orgs, it has spread engineering containment - gtm, hiring, cs, everyone is shipping!\n\nalso one of the fastest growing usecases at http://opencomputer.dev, fwiw\n\nare you maxxing yet, anon?\n\nhttp://opencomputer.dev/background-agents\n\n— @utpalnadiger\n\nSocial media & discussions · Social post · by utpalnadiger",
-   "date_published": "2026-06-25T23:52:59Z",
-   "tags": [
-    "Social media & discussions"
-   ],
-   "external_url": "https://x.com/utpalnadiger/status/2066719734650069141/photo/1",
-   "authors": [
-    {
-     "name": "utpalnadiger"
-    }
-   ],
-   "image": "https://pbs.twimg.com/media/HK50_jTakAAyyZN.jpg:large"
-  },
-  {
    "id": "L00938",
    "url": "https://x.com/matansf/status/2066578088184680920",
    "title": "Matan Grinberg (@matanSF) on X",
@@ -10192,7 +10158,7 @@
    "id": "L00645",
    "url": "https://opencomputer.dev/",
    "title": "OpenComputer – The background agent cloud",
-   "content_text": "Websites & products · Homepage · Cloud & infrastructure; AI agents & automation; AI models & research\n\n— also shared: https://x.com/motatoeshq/status/2064878292562538612",
+   "content_text": "Websites & products · Homepage · Cloud & infrastructure; AI agents & automation; AI models & research\n\n— also shared: https://x.com/motatoeshq/status/2064878292562538612\n\n— also shared: https://x.com/utpalnadiger/status/2066719734650069141/photo/1",
    "date_published": "2026-04-24T05:55:40Z",
    "tags": [
     "Websites & products",
@@ -14544,7 +14510,7 @@
   },
   {
    "id": "L00324",
-   "url": "https://summarize.sh,/",
+   "url": "https://summarize.sh/",
    "title": "0xSero (@0xSero) on X",
    "content_text": "I'm not the only one doing this. \n\n- karpathy\n\nbest thought leader, best person to learn from imo. Nanochat is the best way to get into training LLMs its the simplest and most digestible source for building your first AI model\n\n- steipete\n\nThis guys GitHub is a national treasure, his writing is also very strong.   Peekaboo, http://summarize.sh, openclaw, oracle, just talk to it, etc.. all unique and very useful\n\n- badlogicgames\n\nMario’s Pi is a staple AI engine and possibly the best, simplest, open source agentic loop to learn from.   Despite what people say about his methods, I think he’s going to set some new standards for Open source contribution. Big respect.\n\n- TheAhmadOsman\n\nThis man is the GPU king, giveaways and lots of dense educational content around self hosting and home inference.   He’s also tight with pretty much all the open weight labs and has them on for interviews regularly\n\n- sudoingX \n\nThis is an up and comer who will change the game, he's pushing the limits of what a single gpu can do \n\n- Ex0byt \n\nI can confidently say this man will be fundamental in making local inference on massive models possible.\n\n- alexinexxx\n\nI genuinely feel motivated by her drive. She’s a real hard worker learning about GPU kernel programming.   Also good aesthetics\n\n- gospaceport\n\nI would not have gotten into building my own hardware without this man’s hard work. He’s taught me so much about hardware and the economics of this.   He also has the most impressive homelabs I’ve ever seen.\n\n- alexocheema\n\nThe founder of Exolabs, pioneering Apple hardware inference, he’s also very engaged in the community and a good guy all around.   If you are interested in Mac minis and Mac Studios this is your guys. \n\n- nummanali\n\nThis guy is so prolific, he’s made tons of CLI tools for managing llm subscription budgets, using Claude code with alternative models etc.. \n\n- thdxr \n\nThe entire Opencode team is wonderful but Dax specifically is a good writer.   More anti-doomer content to sooth your anxieties.   \n\n- juliarturc\n\nIf you are interested in the science, Julias channel is where it’s at. Almost everything I’ve learned about LLM compression has been from her.\n\n- Teknium\n\nThe Nous research & Prime intellect teams are both some of the most hard-working and principled people around.   Tough fight in an industry so aggressive.\n\n- victormustar \n\nHead of Product for Huggingface, enabling us all to publish our work. \n\n- louszbd\n\nHead of community at ZAI some of the top LLMs available right now that are open weights. They supercharged the movement\n\n- SkylerMiao7 \n\nMaking frontier intelligence fit on 10k USD of hardware. Via MiniMax\n\n- crystalsssup \n\nBuilding the best Open Weight model on the market, and releasing their latest research before their next gen model. \n\nBelieve it or not these people are carrying the entire industry and giving us a fighting chance.\n\n— @0xSero\n\nSocial media & discussions · Social post · by 0xSero",
    "date_published": "2026-03-21T00:23:51Z",
@@ -17701,7 +17667,7 @@
   },
   {
    "id": "L00100",
-   "url": "https://concerns.py./",
+   "url": "https://concerns.py/",
    "title": "banteg (@banteg) on X",
    "content_text": "top 1% engineer reporting in:\n\nyour central domain type is a dict. Finding is a TypedDict, which means every access is .get(\"key\", {}).get(\"pls_work\") chains with no methods, no encapsulation, no runtime validation. meanwhile Concern next door is a frozen dataclass. you have four different type strategies (TypedDict, dataclass, frozen dataclass, NamedTuple) for domain objects with zero consistent philosophy for when to use which\n\nthe result is 2,386 .get() calls, 312 isinstance(x, dict) guards, and 119 .setdefault() patches across the codebase. ensure_state_defaults() is 60 lines of mutation without types — accepts StateModel | dict, mutates in-place, returns None. the TypedDict says \"this has structure\" and then the function treats it as a bag of arbitrary keys. this is what pydantic was invented for. you're hand-rolling a worse version of it across every file that touches state\n\ndict[str, Any] is the real type system. config is dict[str, Any], detail is dict[str, Any], state gets passed as dict[str, Any] in http://concerns.py. the TypedDicts and dataclasses are a layer of aspiration over a runtime reality of untyped dicts\n\nTier IntEnum (1-4) exists but findings store tier: int and validation manually checks tier < 1 or tier > 4. Status StrEnum exists but 155 callsites still use raw strings like \"open\", \"fixed\", \"wontfix\". you built the enums and then didn't use them\n\nfour getter functions that each do return state.get(\"key\") — get_overall_score, get_objective_score, get_strict_score, get_verified_strict_score. these exist because Finding is a dict and you want property-like access without making it an object.\n\nPROJECT_ROOT lives in _internal/text_utils.py as a module-level side effect, imported by 40 files. you then built get_project_root() that checks a ContextVar override, but half the codebase still references the stale module-level constant directly. paths_api.py exists to paper over this split with sentinel-comparison gymnastics. your state directory location is determined by a module called \"text utils\"\n\nlazy import gymnastics everywhere. __getattr__ in __init__.py, sys.modules lookups in hook_registry with a fallback to importlib.reload(), try/except ImportError inside function bodies to dodge circular deps. when you need this many runtime import tricks, the dependency graph is telling you something\n\nyour facade modules http://state.py, http://scoring.py, work_queue.py, http://plan.py, output_api.py are just piles of re-imports from _state/, _scoring/ etc. the underscore \"private\" modules have their entire API re-exported publicly. the privacy is theater. you added five layers of indirection and got nothing for it. http://utils.py is a deprecated facade that re-exports all of the above — facades on facades on facades\n\n_coerce_positive_int is defined identically — character for character — in both core/_internal/coercions.py and app/commands/review/batches.py. _coerce_review_batch_file_limit is copy-pasted between review/prepare.py and review/batch.py. normalize_dimension_name exists in three separate files. ~60 normalize/coerce functions spread across the codebase instead of one validation layer. you built a tool that detects duplication and it has copy-pasted code in it\n\nLangConfig is a god object with 30+ fields, security detection methods, value coercion, normalization, runtime settings, and a 40-line hand-rolled type coercion switch statement. the tool that detects god classes IS a god class. the irony is structural\n\n5 explicit global statements in runtime modules. register_scoring_policy() mutates DETECTOR_SCORING_POLICIES, then _rebuild_derived() mutates DIMENSIONS, DIMENSIONS_BY_NAME, FILE_BASED_DETECTORS in-place so \"all references see the updates.\" your own tool has a detector for \"global mutable config\" patterns. it would flag itself\n\nmypy config: follow_imports = \"skip\", covering exactly 15 of 669 files. you declare Typing :: Typed in your classifiers. this is not typed\n\nthe scoring system is incomprehensible. 4 score modes, tier weights, confidence weights, MIN_SAMPLE dampening, HOLISTIC_MULTIPLIER (10x), SUBJECTIVE_WEIGHT_FRACTION (0.60), per-dimension weights with \"high elegance\" weighted at 22.0 and \"naming quality\" at 2.0. these are vibes encoded as floats.\n\nverified_strict mode penalizes FIXED findings. FAILURE_STATUSES_BY_MODE[\"verified_strict\"] includes \"fixed\" and \"false_positive\". fixing things hurts your score until a scan confirms it. this is adversarial UX dressed up as rigor\n\ntier weights create perverse incentives. T4 (major refactors) penalize 4x more than T1 (auto-fixes). T4s are also the hardest to fix. the system punishes you most for the problems you're least equipped to address quickly\n\nthe scoring engine aggregates floats using float() casts wrapped in blind except (TypeError, ValueError): return 0.0. your telemetry mathematically equates None, \"N/A\", empty dicts, and missing keys to a flawless zero penalty\n\nthe anti-gaming system assumes adversarial users. subjective_integrity, wontfix penalties, SUBJECTIVE_TARGET_MATCH_TOLERANCE to detect scores \"suspiciously close\" to target. if users are gaming the score, the score is measuring the wrong thing. you don't solve a metrics problem by adding more metrics\n\nthe review subsystem is 14,000 lines across 56 files, including three separate prepare modules and six batch-related files. runner_helpers.py alone is 1,487 lines. your own tool flags files over 500 lines\n\nthe concern generator is a shadow scoring engine. 540 lines that extract signals, classify types, build evidence tuples, and generate LLM questions — a parallel evaluation system bolted onto the side of the actual scoring system, with its own thresholds (params >= 8, nesting >= 6) that don't share constants with the detectors that produced the signals\n\nthe plan subsystem is project management bolted onto a linter. clusters, skip entries, superseded entries, version numbers, reconciliation, auto-clustering, stale dimension syncing. a linter should tell you what's wrong. it shouldn't also be jira\n\nmagic numbers everywhere. noise budget 10, complexity min LOC 50, dupe threshold 15, large file 300/500, minority convention 15%, systemic smell 5 files, single-use LOC 20-300, MIN_SAMPLE 200, HOLISTIC_MULTIPLIER 10. some are constants, some are defaults, some are inline literals. no unifying configuration surface\n\n255 __all__ declarations maintained by hand, 30-60 items each in the facade modules, manually synced. one missed symbol and something silently breaks\n\nshelling out synchronously to npx jscpd and silently treating timeout or FileNotFoundError as \"no duplicates found.\" a core static analysis engine shouldn't lie about codebase health just because the user doesn't have node installed\n\nloading entire files into memory via read_text().splitlines() just to count LOC. a reliably stupid way to OOM your own scanning tool on large codebases\n\n6 broad except Exception sites in production. 8 more in tests. swallowing OSError and UnicodeDecodeError with generic \"best-effort\" loggers inside tight loops. silent, non-deterministic partial failures are a core execution flaw, not a feature\n\ndel lang_name  # Reserved for future use. accepting a parameter you don't use, deleting it to silence the linter, and leaving a comment about future plans. just don't accept it yet\n\nthe codebase works and the domain model is coherent at the concept level. but it's a 669-file python project that detects code quality issues, built with code quality issues it would flag in itself. the abstractions aren't unclear so much as they're an onion of indirection with no actual encapsulation at the center. swap the TypedDicts for pydantic models, delete the facade files, centralize coercion, and half your codebase evaporates.\n\n— @banteg\n\nSocial media & discussions · Social post · by banteg",
    "date_published": "2026-03-02T18:53:54Z",

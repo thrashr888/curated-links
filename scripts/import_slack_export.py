@@ -41,11 +41,18 @@ TRACKING = {"utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content
             "si", "s", "t", "ref", "ref_src", "source", "feature", "fbclid", "gclid", "x"}
 
 
+TRAILING_PUNCT = ".,;:!?'\"）。，、；：」』】》〉！？"
+
+
 def canonical(url: str) -> str:
     """One row per page: the export lists the same repo as http:// and
     https://, a post under twitter.com and x.com (and with the handle in
     either case), a video as youtu.be and youtube.com, and links with click
     trackers appended — each is one link."""
+    # A link written into prose drags the sentence's punctuation along —
+    # "delta.dev）。" out of a Chinese post, "summarize.sh," mid-list — and
+    # a trailing full stop or comma is never part of a host or a path.
+    url = url.strip().rstrip(TRAILING_PUNCT)
     p = urlparse(url)
     host = p.netloc.lower()
     if host.startswith("www."):
