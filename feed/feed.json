@@ -7,6 +7,20 @@
  "language": "en",
  "items": [
   {
+   "id": "L01423",
+   "url": "https://scape.work/",
+   "title": "Scape — command unlimited agents without melting your brain",
+   "content_text": "Websites & products · Homepage · Agent orchestration & workspaces; AI coding & software development; AI agents & automation",
+   "date_published": "2026-09-14T23:38:52Z",
+   "tags": [
+    "Websites & products",
+    "Agent orchestration & workspaces",
+    "AI coding & software development",
+    "AI agents & automation"
+   ],
+   "image": "https://scape.work/og-image.png"
+  },
+  {
    "id": "L01422",
    "url": "https://termic.dev/",
    "title": "Run claude, codex, antigravity and more in parallel, each in its own git worktree",
